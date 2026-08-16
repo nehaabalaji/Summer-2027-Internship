@@ -1,0 +1,33 @@
+{
+  "hits": 2,
+  "jobs": [
+    {
+      "title": "Supply Chain Intern - Summer 2027",
+      "id_icims": "12345",
+      "id": "abc-123",
+      "job_path": "/en/jobs/12345/supply-chain-intern-summer-2027",
+      "posted_date": "August 15, 2026",
+      "normalized_location": "Seattle, Washington, USA",
+      "city": "Seattle",
+      "state": "WA",
+      "country_code": "USA",
+      "business_category": "supply-chain",
+      "job_category": "Supply Chain Planning",
+      "job_family": "Supply Chain",
+      "is_intern": true,
+      "description_short": "Work on inventory management and demand planning."
+    },
+    {
+      "title": "Software Development Engineer",
+      "id_icims": "999",
+      "id": "sde-1",
+      "job_path": "/en/jobs/999/software-development-engineer",
+      "posted_date": "August 1, 2026",
+      "normalized_location": "Austin, Texas, USA",
+      "city": "Austin",
+      "state": "TX",
+      "is_intern": false,
+      "description_short": "Build distributed systems."
+    }
+  ]
+}

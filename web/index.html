@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Supply Chain Internships — data preview</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body { font-family: ui-sans-serif, system-ui, sans-serif; margin: 2rem; max-width: 960px; }
+    .note { background: #f4f4f5; padding: 1rem; border-radius: 8px; }
+    table { border-collapse: collapse; width: 100%; margin-top: 1rem; }
+    th, td { border-bottom: 1px solid #e4e4e7; text-align: left; padding: 0.5rem; font-size: 0.95rem; }
+  </style>
+</head>
+<body>
+  <h1>Supply Chain Internships</h1>
+  <p class="note">
+    This is a future frontend stub. The GitHub README is the primary product.
+    Serve this folder locally and it will read <code>../data/jobs.json</code>.
+  </p>
+  <p id="status">Loading jobs.json…</p>
+  <table>
+    <thead>
+      <tr><th>Company</th><th>Position</th><th>Location</th><th>Apply</th></tr>
+    </thead>
+    <tbody id="rows"></tbody>
+  </table>
+  <script>
+    fetch("../data/jobs.json")
+      .then((r) => r.json())
+      .then((jobs) => {
+        const active = jobs.filter((j) => j.active);
+        document.getElementById("status").textContent = active.length + " active jobs";
+        const rows = document.getElementById("rows");
+        active.slice(0, 50).forEach((job) => {
+          const tr = document.createElement("tr");
+          tr.innerHTML = `<td>${job.company}</td><td>${job.title}</td><td>${job.work_arrangement === "Remote" ? "Remote" : job.location}</td><td><a href="${job.application_url}">Apply ↗</a></td>`;
+          rows.appendChild(tr);
+        });
+      })
+      .catch(() => {
+        document.getElementById("status").textContent =
+          "Could not load ../data/jobs.json. Open this page via a local static server from the repo root.";
+      });
+  </script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+# Rename the project later by changing these values and regenerating the README.
+project:
+  slug: Supply-Chain-Internships
+  title: Supply Chain & Business Internships
+  short_title: Supply Chain Internships
+  tagline: >-
+    A continuously updated collection of internships, co-ops, and entry-level
+    opportunities across Supply Chain, Operations, Product, Procurement,
+    Analytics, Logistics, and related fields.
+  github_user: nehaabalaji
+  github_repo: Supply-Chain-Internships
+  user_agent: Supply-Chain-Internships/1.0 (+https://github.com/nehaabalaji/Supply-Chain-Internships; student internship aggregator)
+  topics:
+    - internships
+    - supply-chain
+    - operations
+    - product-management
+    - jobs
+    - career
+    - students
+    - internship
+    - co-op
+    - business-analytics
+    - procurement
+    - logistics
+
+paths:
+  jobs: data/jobs.json
+  schema: data/schema.json
+  overrides: data/overrides.json
+  status: data/scraper_status.json
+  archive_dir: data/archive
+  sources: config/sources.yaml
+  companies: config/companies.yaml
+  classification_rules: config/classification_rules.yaml
+  readme: README.md
+  cache_dir: .cache
+
+http:
+  timeout_seconds: 20
+  max_retries: 3
+  backoff_seconds: 1.5
+  min_interval_seconds: 1.0
+  cache_ttl_seconds: 1800
+
+pipeline:
+  max_jobs_per_source: 250
+  expire_after_consecutive_misses: 2
+  url_verify_enabled: false
+  url_verify_sample: 0
+  description_max_chars: 400
+  classification_min_confidence: 0.35
+  drop_unrelated: true
+
+readme:
+  max_jobs_per_category: 200
+  new_job_hours: 48
+  date_format: "%b %-d"
+  date_format_with_year: "%b %-d, %Y"
+  secondary_sort: company
+
+python: "3.11"

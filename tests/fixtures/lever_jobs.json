@@ -1,0 +1,16 @@
+[
+  {
+    "id": "lev-1",
+    "text": "Operations Intern",
+    "categories": {
+      "department": "Operations",
+      "location": "Chicago, IL",
+      "commitment": "Internship"
+    },
+    "workplaceType": "hybrid",
+    "createdAt": 1755273600000,
+    "hostedUrl": "https://jobs.lever.co/exampleco/lev-1",
+    "applyUrl": "https://jobs.lever.co/exampleco/lev-1/apply",
+    "descriptionPlain": "Support business operations and process improvement."
+  }
+]

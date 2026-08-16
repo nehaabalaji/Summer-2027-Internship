@@ -1,0 +1,22 @@
+{
+  "jobs": [
+    {
+      "id": 111,
+      "title": "Product Management Intern",
+      "absolute_url": "https://boards.greenhouse.io/exampleco/jobs/111?gh_src=tracker",
+      "location": { "name": "New York, NY" },
+      "company_name": "ExampleCo",
+      "first_published": "2026-08-14T10:00:00-04:00",
+      "updated_at": "2026-08-14T10:00:00-04:00",
+      "departments": [{ "name": "Product" }]
+    },
+    {
+      "id": 222,
+      "title": "Staff Software Engineer",
+      "absolute_url": "https://boards.greenhouse.io/exampleco/jobs/222",
+      "location": { "name": "Remote" },
+      "company_name": "ExampleCo",
+      "first_published": "2026-08-01T10:00:00-04:00"
+    }
+  ]
+}

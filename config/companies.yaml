@@ -1,0 +1,288 @@
+# Company registry. Adding a company here does not enable collection —
+# enable the matching entry in config/sources.yaml.
+
+Amazon:
+  display_name: Amazon
+  category_focus: [Supply Chain, Operations, Logistics]
+  source: amazon
+  enabled: true
+  notes: Uses the public amazon.jobs search.json feed.
+
+Walmart:
+  display_name: Walmart
+  category_focus: [Supply Chain, Operations, Procurement & Sourcing]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+Target:
+  display_name: Target
+  category_focus: [Supply Chain, Operations]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+Costco:
+  display_name: Costco
+  category_focus: [Operations, Merchandising]
+  source: unsupported
+  enabled: false
+  notes: No verified public unauthenticated job API.
+
+Home Depot:
+  display_name: Home Depot
+  category_focus: [Supply Chain, Operations]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+PepsiCo:
+  display_name: PepsiCo
+  category_focus: [Supply Chain, Operations]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+Coca-Cola:
+  display_name: Coca-Cola
+  category_focus: [Supply Chain, Operations]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+Procter & Gamble:
+  display_name: Procter & Gamble
+  category_focus: [Supply Chain, Product Management]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+Unilever:
+  display_name: Unilever
+  category_focus: [Supply Chain, Operations]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+Nike:
+  display_name: Nike
+  category_focus: [Supply Chain, Product Management]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+Johnson & Johnson:
+  display_name: Johnson & Johnson
+  category_focus: [Supply Chain, Operations]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+Microsoft:
+  display_name: Microsoft
+  category_focus: [Product Management, Operations, Business Analytics]
+  source: microsoft
+  enabled: false
+  notes: Careers moved to Eightfold; no public unauthenticated job API.
+
+Apple:
+  display_name: Apple
+  category_focus: [Operations, Product Management]
+  source: apple
+  enabled: false
+  notes: jobs.apple.com search API is not a stable public feed.
+
+Google:
+  display_name: Google
+  category_focus: [Product Management, Business Analytics, Operations]
+  source: google
+  enabled: false
+  notes: Previous careers JSON paths are no longer publicly available.
+
+Dell:
+  display_name: Dell
+  category_focus: [Supply Chain, Operations]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+Tesla:
+  display_name: Tesla
+  category_focus: [Supply Chain, Manufacturing, Operations]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+Toyota:
+  display_name: Toyota
+  category_focus: [Supply Chain, Manufacturing]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+Ford:
+  display_name: Ford
+  category_focus: [Supply Chain, Manufacturing]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+General Motors:
+  display_name: General Motors
+  category_focus: [Supply Chain, Manufacturing]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+Boeing:
+  display_name: Boeing
+  category_focus: [Supply Chain, Manufacturing, Operations]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+Honeywell:
+  display_name: Honeywell
+  category_focus: [Supply Chain, Manufacturing]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+Siemens:
+  display_name: Siemens
+  category_focus: [Manufacturing, Operations]
+  source: unsupported
+  enabled: false
+  notes: Career site is custom; no verified public feed.
+
+UPS:
+  display_name: UPS
+  category_focus: [Logistics, Operations]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+FedEx:
+  display_name: FedEx
+  category_focus: [Logistics, Operations]
+  source: unsupported
+  enabled: false
+  notes: Career site is custom; no verified public feed.
+
+DHL:
+  display_name: DHL
+  category_focus: [Logistics]
+  source: unsupported
+  enabled: false
+  notes: Career site is custom; no verified public feed.
+
+Shell:
+  display_name: Shell
+  category_focus: [Supply Chain, Operations]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+ExxonMobil:
+  display_name: ExxonMobil
+  category_focus: [Supply Chain, Operations]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+Chevron:
+  display_name: Chevron
+  category_focus: [Supply Chain, Operations]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+Accenture:
+  display_name: Accenture
+  category_focus: [Operations, Strategy, Business Analytics]
+  source: unsupported
+  enabled: false
+  notes: Career site is custom / Eightfold-like; no verified public feed.
+
+Deloitte:
+  display_name: Deloitte
+  category_focus: [Operations, Business Analytics]
+  source: unsupported
+  enabled: false
+  notes: Career site is custom; no verified public feed.
+
+EY:
+  display_name: EY
+  category_focus: [Operations, Business Analytics]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+PwC:
+  display_name: PwC
+  category_focus: [Operations, Business Analytics]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+KPMG:
+  display_name: KPMG
+  category_focus: [Operations, Business Analytics]
+  source: workday
+  enabled: false
+  notes: Workday tenant/site must be confirmed before enabling.
+
+DoorDash:
+  display_name: DoorDash
+  category_focus: [Logistics, Operations, Product Management]
+  source: greenhouse
+  enabled: true
+
+Instacart:
+  display_name: Instacart
+  category_focus: [Logistics, Operations, Product Management]
+  source: greenhouse
+  enabled: true
+
+Airbnb:
+  display_name: Airbnb
+  category_focus: [Operations, Product Management]
+  source: greenhouse
+  enabled: true
+
+Stripe:
+  display_name: Stripe
+  category_focus: [Product Management, Operations, Business Analytics]
+  source: greenhouse
+  enabled: true
+
+Lyft:
+  display_name: Lyft
+  category_focus: [Operations, Product Management, Logistics]
+  source: greenhouse
+  enabled: true
+
+Wayfair:
+  display_name: Wayfair
+  category_focus: [Supply Chain, Operations, Product Management]
+  source: greenhouse
+  enabled: false
+  notes: Public Greenhouse board token was not found.
+
+HubSpot:
+  display_name: HubSpot
+  category_focus: [Product Management, Business Analytics]
+  source: greenhouse
+  enabled: true
+
+Databricks:
+  display_name: Databricks
+  category_focus: [Product Management, Business Analytics]
+  source: greenhouse
+  enabled: true
+
+Palantir:
+  display_name: Palantir
+  category_focus: [Business Analytics, Operations, Product Management]
+  source: lever
+  enabled: true

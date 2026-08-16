@@ -1,0 +1,260 @@
+# Deterministic weighted keyword classifier.
+# Title matches receive title_weight; description matches receive description_weight.
+# Edit this file to change classification without touching Python.
+
+title_weight: 3.0
+description_weight: 1.0
+other_threshold: 0.35
+
+categories:
+  Supply Chain:
+    keywords:
+      - supply chain
+      - supply-chain
+      - scm
+      - demand planning
+      - demand planner
+      - supply planning
+      - supply planner
+      - inventory management
+      - inventory planner
+      - inventory planning
+      - materials planning
+      - materials planner
+      - material planning
+      - network planning
+      - network planner
+      - supply chain optimization
+      - supply chain analytics
+      - supply chain strategy
+      - supply chain operations
+      - supply chain intern
+      - fulfillment
+      - warehouse operations
+      - warehouse
+      - distribution center
+      - materials management
+      - mrp
+      - s&op
+      - sales and operations planning
+      - capacity planning
+      - replenishment
+      - order management
+      - inbound
+      - outbound operations
+      - instock
+      - in-stock
+  Operations:
+    keywords:
+      - business operations
+      - operations intern
+      - operations management
+      - operations strategy
+      - strategy & operations
+      - strategy and operations
+      - operational excellence
+      - operations planning
+      - process improvement
+      - process excellence
+      - lean operations
+      - continuous improvement
+      - bizops
+      - biz ops
+      - business ops
+      - operating model
+      - operations analyst
+      - operations associate
+      - operations manager
+      - area manager
+      - loss prevention
+      - site operations
+      - store operations
+      - retail operations
+      - manufacturing operations
+      - sales ops
+  Product Management:
+    keywords:
+      - product manager
+      - product management
+      - associate product manager
+      - apm intern
+      - product intern
+      - product strategy
+      - product operations
+      - product ops
+      - technical product manager
+      - technical product management
+      - product analytics
+      - product analyst
+      - product owner
+      - product marketing intern
+  Procurement & Sourcing:
+    keywords:
+      - procurement
+      - strategic sourcing
+      - sourcing intern
+      - purchasing
+      - buyer intern
+      - category management
+      - category manager
+      - supplier management
+      - vendor management
+      - supplier operations
+      - supplier quality
+      - supplier development
+      - commodity manager
+      - indirect procurement
+      - direct procurement
+      - sourcing analyst
+      - procurement intern
+  Logistics:
+    keywords:
+      - logistics
+      - transportation planning
+      - transportation intern
+      - freight
+      - fleet operations
+      - last mile
+      - last-mile
+      - middle mile
+      - carrier
+      - shipping operations
+      - delivery operations
+      - transportation operations
+      - logistics operations
+      - logistics intern
+      - 3pl
+      - trucking
+      - ocean freight
+      - air freight
+  Business Analytics:
+    keywords:
+      - business analytics
+      - data analytics
+      - business intelligence
+      - decision science
+      - operations research
+      - data science
+      - reporting & analytics
+      - reporting and analytics
+      - data analyst
+      - business analyst
+      - analytics intern
+      - insights intern
+      - quantitative analyst
+      - forecasting analyst
+      - data intern
+      - bi intern
+      - metrics
+      - tableau
+      - power bi
+  Project & Program Management:
+    keywords:
+      - project management
+      - program management
+      - project manager
+      - program manager
+      - technical program manager
+      - tpm intern
+      - project coordinator
+      - program operations
+      - program intern
+      - project intern
+      - pmo
+      - implementation intern
+      - delivery manager
+  Manufacturing:
+    keywords:
+      - manufacturing intern
+      - manufacturing engineer
+      - manufacturing engineering
+      - production planning
+      - production planner
+      - production operations
+      - industrial operations
+      - process engineering
+      - process engineer
+      - industrial engineer
+      - plant intern
+      - factory intern
+      - production intern
+      - quality engineer intern
+      - lean manufacturing
+      - shop floor
+
+# Jobs must look like intern / co-op / new-grad / entry-level
+# using source fields or these title/type keywords. We never guess.
+early_career_title_keywords:
+  - intern
+  - internship
+  - internships
+  - co-op
+  - coop
+  - co op
+  - new grad
+  - new graduate
+  - new-grad
+  - entry level
+  - entry-level
+  - graduate intern
+  - graduate program
+  - summer analyst
+  - industrial placement
+  - placement student
+  - associate product manager
+  - apm
+
+# If classification lands in Other, keep the job only when the TITLE
+# contains a strong domain term. Generic words like "analyst" are not enough.
+relevance_keywords:
+  - supply chain
+  - operations
+  - operational
+  - product manager
+  - product management
+  - product intern
+  - procurement
+  - sourcing
+  - logistics
+  - inventory
+  - warehouse
+  - fulfillment
+  - manufacturing
+  - production planning
+  - vendor management
+  - transportation
+  - demand planning
+  - supply planning
+  - area manager
+  - program manager
+  - project manager
+
+# Titles that are software/hardware engineering unless the title also
+# contains a category keyword. Prevents description-only false positives.
+exclude_title_keywords:
+  - software engineer
+  - software developer
+  - software development
+  - software dev
+  - front end
+  - frontend
+  - back end
+  - backend
+  - full stack
+  - fullstack
+  - security engineer
+  - site reliability
+  - machine learning engineer
+  - ml engineer
+  - research scientist
+  - applied scientist
+  - applied science
+  - hardware engineer
+  - hardware development
+  - solutions architect
+  - product designer
+  - ux designer
+  - ui designer
+  - data engineer
+  - sde intern
+  - sde internship

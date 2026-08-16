@@ -1,0 +1,88 @@
+name: Submit a job
+description: Add an internship, co-op, or new-grad role that the collectors missed.
+title: "[Job] "
+labels: ["job-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please submit the **original employer application URL** whenever possible.
+        Do not submit affiliate links, tracking redirects, or LinkedIn posts when the employer career page is available.
+  - type: input
+    id: company
+    attributes:
+      label: Company
+      placeholder: Amazon
+    validations:
+      required: true
+  - type: input
+    id: position
+    attributes:
+      label: Position
+      placeholder: Supply Chain Intern
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      placeholder: Seattle, WA
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Supply Chain
+        - Operations
+        - Product Management
+        - Procurement & Sourcing
+        - Logistics
+        - Business Analytics
+        - Project & Program Management
+        - Manufacturing
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: job_type
+    attributes:
+      label: Job Type
+      options:
+        - Internship
+        - Co-op
+        - Summer Internship
+        - Fall Internship
+        - Spring Internship
+        - Part-time Internship
+        - Full-time Internship
+        - New Graduate
+        - Entry Level
+        - Unknown
+    validations:
+      required: true
+  - type: input
+    id: application_url
+    attributes:
+      label: Application URL
+      description: Direct link to the employer's application / job page.
+      placeholder: https://www.amazon.jobs/en/jobs/...
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: Source URL
+      description: Page where you found the listing, if different from the application URL.
+  - type: input
+    id: date_posted
+    attributes:
+      label: Date posted
+      description: Use YYYY-MM-DD if known. Leave blank if unknown.
+      placeholder: 2026-08-15
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Work arrangement, eligibility, or anything else we should not guess.

@@ -1,0 +1,282 @@
+# Source configuration. Enable a source only when a public, permitted feed exists.
+# `source` is the registry key used by: python scripts/update_jobs.py --source amazon
+
+- id: amazon
+  company: Amazon
+  source: amazon
+  platform: amazon
+  enabled: true
+  career_url: https://www.amazon.jobs
+
+- id: doordash
+  company: DoorDash
+  source: doordash
+  platform: greenhouse
+  board_token: doordashusa
+  enabled: true
+  career_url: https://job-boards.greenhouse.io/doordashusa
+
+- id: instacart
+  company: Instacart
+  source: instacart
+  platform: greenhouse
+  board_token: instacart
+  enabled: true
+  career_url: https://boards.greenhouse.io/instacart
+
+- id: airbnb
+  company: Airbnb
+  source: airbnb
+  platform: greenhouse
+  board_token: airbnb
+  enabled: true
+  career_url: https://boards.greenhouse.io/airbnb
+
+- id: stripe
+  company: Stripe
+  source: stripe
+  platform: greenhouse
+  board_token: stripe
+  enabled: true
+  career_url: https://boards.greenhouse.io/stripe
+
+- id: lyft
+  company: Lyft
+  source: lyft
+  platform: greenhouse
+  board_token: lyft
+  enabled: true
+  career_url: https://boards.greenhouse.io/lyft
+
+- id: wayfair
+  company: Wayfair
+  source: wayfair
+  platform: greenhouse
+  board_token: wayfair
+  enabled: false
+  notes: Greenhouse token was not found; confirm the current public board before enabling.
+  career_url: https://www.wayfair.com/careers/
+
+- id: hubspot
+  company: HubSpot
+  source: hubspot
+  platform: greenhouse
+  board_token: hubspotjobs
+  enabled: true
+  career_url: https://boards.greenhouse.io/hubspotjobs
+
+- id: databricks
+  company: Databricks
+  source: databricks
+  platform: greenhouse
+  board_token: databricks
+  enabled: true
+  career_url: https://boards.greenhouse.io/databricks
+
+- id: palantir
+  company: Palantir
+  source: palantir
+  platform: lever
+  board_token: palantir
+  enabled: true
+  career_url: https://jobs.lever.co/palantir
+
+# --- Target companies without a verified public feed (adapters exist, collection off)
+
+- id: walmart
+  company: Walmart
+  source: walmart
+  platform: workday
+  enabled: false
+  notes: Confirm tenant, shard, and site from the official careers URL before enabling.
+
+- id: target
+  company: Target
+  source: target
+  platform: workday
+  enabled: false
+  notes: Confirm Workday board URL before enabling.
+
+- id: costco
+  company: Costco
+  source: costco
+  platform: unsupported
+  enabled: false
+  notes: No verified public unauthenticated job API.
+
+- id: homedepot
+  company: Home Depot
+  source: homedepot
+  platform: workday
+  enabled: false
+
+- id: pepsico
+  company: PepsiCo
+  source: pepsico
+  platform: workday
+  enabled: false
+
+- id: cocacola
+  company: Coca-Cola
+  source: cocacola
+  platform: workday
+  enabled: false
+
+- id: pg
+  company: Procter & Gamble
+  source: pg
+  platform: workday
+  enabled: false
+
+- id: unilever
+  company: Unilever
+  source: unilever
+  platform: workday
+  enabled: false
+
+- id: nike
+  company: Nike
+  source: nike
+  platform: workday
+  enabled: false
+
+- id: jnj
+  company: Johnson & Johnson
+  source: jnj
+  platform: workday
+  enabled: false
+
+- id: microsoft
+  company: Microsoft
+  source: microsoft
+  platform: unsupported
+  enabled: false
+  notes: Eightfold careers site has no public unauthenticated job API.
+
+- id: apple
+  company: Apple
+  source: apple
+  platform: unsupported
+  enabled: false
+  notes: Apple jobs search API is not a stable public feed.
+
+- id: google
+  company: Google
+  source: google
+  platform: unsupported
+  enabled: false
+  notes: Previous Google careers JSON paths returned 404.
+
+- id: dell
+  company: Dell
+  source: dell
+  platform: workday
+  enabled: false
+
+- id: tesla
+  company: Tesla
+  source: tesla
+  platform: workday
+  enabled: false
+
+- id: toyota
+  company: Toyota
+  source: toyota
+  platform: workday
+  enabled: false
+
+- id: ford
+  company: Ford
+  source: ford
+  platform: workday
+  enabled: false
+
+- id: gm
+  company: General Motors
+  source: gm
+  platform: workday
+  enabled: false
+
+- id: boeing
+  company: Boeing
+  source: boeing
+  platform: workday
+  enabled: false
+
+- id: honeywell
+  company: Honeywell
+  source: honeywell
+  platform: workday
+  enabled: false
+
+- id: siemens
+  company: Siemens
+  source: siemens
+  platform: unsupported
+  enabled: false
+
+- id: ups
+  company: UPS
+  source: ups
+  platform: workday
+  enabled: false
+
+- id: fedex
+  company: FedEx
+  source: fedex
+  platform: unsupported
+  enabled: false
+
+- id: dhl
+  company: DHL
+  source: dhl
+  platform: unsupported
+  enabled: false
+
+- id: shell
+  company: Shell
+  source: shell
+  platform: workday
+  enabled: false
+
+- id: exxonmobil
+  company: ExxonMobil
+  source: exxonmobil
+  platform: workday
+  enabled: false
+
+- id: chevron
+  company: Chevron
+  source: chevron
+  platform: workday
+  enabled: false
+
+- id: accenture
+  company: Accenture
+  source: accenture
+  platform: unsupported
+  enabled: false
+
+- id: deloitte
+  company: Deloitte
+  source: deloitte
+  platform: unsupported
+  enabled: false
+
+- id: ey
+  company: EY
+  source: ey
+  platform: workday
+  enabled: false
+
+- id: pwc
+  company: PwC
+  source: pwc
+  platform: workday
+  enabled: false
+
+- id: kpmg
+  company: KPMG
+  source: kpmg
+  platform: workday
+  enabled: false

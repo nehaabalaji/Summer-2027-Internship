@@ -1,0 +1,193 @@
+"""Controlled vocabularies for the internship board."""
+
+from __future__ import annotations
+
+CATEGORIES: tuple[str, ...] = (
+    "Supply Chain",
+    "Operations",
+    "Product Management",
+    "Procurement & Sourcing",
+    "Logistics",
+    "Business Analytics",
+    "Project & Program Management",
+    "Manufacturing",
+    "Other",
+)
+
+CATEGORY_EMOJI: dict[str, str] = {
+    "Supply Chain": "📦",
+    "Operations": "⚙️",
+    "Product Management": "💻",
+    "Procurement & Sourcing": "🛒",
+    "Logistics": "🚚",
+    "Business Analytics": "📊",
+    "Project & Program Management": "📋",
+    "Manufacturing": "🏭",
+    "Other": "📁",
+}
+
+CATEGORY_ANCHORS: dict[str, str] = {
+    "Supply Chain": "supply-chain",
+    "Operations": "operations",
+    "Product Management": "product-management",
+    "Procurement & Sourcing": "procurement--sourcing",
+    "Logistics": "logistics",
+    "Business Analytics": "business-analytics",
+    "Project & Program Management": "project--program-management",
+    "Manufacturing": "manufacturing",
+    "Other": "other",
+}
+
+JOB_TYPES: tuple[str, ...] = (
+    "Internship",
+    "Co-op",
+    "Summer Internship",
+    "Fall Internship",
+    "Spring Internship",
+    "Part-time Internship",
+    "Full-time Internship",
+    "New Graduate",
+    "Entry Level",
+    "Unknown",
+)
+
+WORK_ARRANGEMENTS: tuple[str, ...] = ("Remote", "Hybrid", "On-site", "Unknown")
+SPONSORSHIP_VALUES: tuple[str, ...] = ("Yes", "No", "Unknown")
+
+PLACEHOLDER_URLS: frozenset[str] = frozenset(
+    {
+        "https://example.com",
+        "http://example.com",
+        "https://example.com/",
+        "http://example.com/",
+        "https://www.example.com",
+        "https://localhost",
+        "http://localhost",
+        "https://test.com",
+        "https://foo.bar",
+        "n/a",
+        "none",
+        "tbd",
+        "todo",
+    }
+)
+
+TRACKING_QUERY_PARAMS: frozenset[str] = frozenset(
+    {
+        "utm_source",
+        "utm_medium",
+        "utm_campaign",
+        "utm_term",
+        "utm_content",
+        "utm_id",
+        "utm_name",
+        "fbclid",
+        "gclid",
+        "gclsrc",
+        "dclid",
+        "msclkid",
+        "mc_cid",
+        "mc_eid",
+        "_ga",
+        "_gl",
+        "gh_src",
+        "lever-source",
+        "src",
+        "source",
+        "ref",
+        "referrer",
+    }
+)
+
+US_STATE_ABBREV: dict[str, str] = {
+    "alabama": "AL",
+    "alaska": "AK",
+    "arizona": "AZ",
+    "arkansas": "AR",
+    "california": "CA",
+    "colorado": "CO",
+    "connecticut": "CT",
+    "delaware": "DE",
+    "florida": "FL",
+    "georgia": "GA",
+    "hawaii": "HI",
+    "idaho": "ID",
+    "illinois": "IL",
+    "indiana": "IN",
+    "iowa": "IA",
+    "kansas": "KS",
+    "kentucky": "KY",
+    "louisiana": "LA",
+    "maine": "ME",
+    "maryland": "MD",
+    "massachusetts": "MA",
+    "michigan": "MI",
+    "minnesota": "MN",
+    "mississippi": "MS",
+    "missouri": "MO",
+    "montana": "MT",
+    "nebraska": "NE",
+    "nevada": "NV",
+    "new hampshire": "NH",
+    "new jersey": "NJ",
+    "new mexico": "NM",
+    "new york": "NY",
+    "north carolina": "NC",
+    "north dakota": "ND",
+    "ohio": "OH",
+    "oklahoma": "OK",
+    "oregon": "OR",
+    "pennsylvania": "PA",
+    "rhode island": "RI",
+    "south carolina": "SC",
+    "south dakota": "SD",
+    "tennessee": "TN",
+    "texas": "TX",
+    "utah": "UT",
+    "vermont": "VT",
+    "virginia": "VA",
+    "washington": "WA",
+    "west virginia": "WV",
+    "wisconsin": "WI",
+    "wyoming": "WY",
+    "district of columbia": "DC",
+}
+
+US_ABBREV_TO_NAME: dict[str, str] = {v: k.title() for k, v in US_STATE_ABBREV.items()}
+
+COMPANY_ALIASES: dict[str, str] = {
+    "amazon.com services llc": "Amazon",
+    "amazon.com": "Amazon",
+    "amazon web services": "Amazon",
+    "aws": "Amazon",
+    "walmart inc.": "Walmart",
+    "walmart inc": "Walmart",
+    "target corporation": "Target",
+    "the home depot": "Home Depot",
+    "pepsico, inc.": "PepsiCo",
+    "the coca-cola company": "Coca-Cola",
+    "the procter & gamble company": "Procter & Gamble",
+    "p&g": "Procter & Gamble",
+    "johnson & johnson": "Johnson & Johnson",
+    "j&j": "Johnson & Johnson",
+    "general motors": "General Motors",
+    "gm": "General Motors",
+    "exxon mobil": "ExxonMobil",
+    "exxonmobil corporation": "ExxonMobil",
+    "pricewaterhousecoopers": "PwC",
+    "ernst & young": "EY",
+    "kpmg llp": "KPMG",
+}
+
+COUNTRY_ALIASES: dict[str, str] = {
+    "usa": "United States",
+    "us": "United States",
+    "u.s.": "United States",
+    "u.s.a.": "United States",
+    "united states of america": "United States",
+    "uk": "United Kingdom",
+    "u.k.": "United Kingdom",
+    "great britain": "United Kingdom",
+    "england": "United Kingdom",
+    "ca": "Canada",
+}
