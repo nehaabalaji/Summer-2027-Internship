@@ -52,3 +52,15 @@ def test_workday_parser_builds_employer_url():
     )
     assert jobs[0].application_url.startswith("https://exampleco.wd1.myworkdayjobs.com/External/job/")
     assert "Procurement" in jobs[0].title
+
+
+def test_simplify_parser_keeps_active_employer_url():
+    from scrapers.platforms.simplify_github import parse_simplify_listings
+
+    payload = json.loads((FIXTURES / "simplify_listings.json").read_text())
+    jobs = parse_simplify_listings(payload, source_key="simplify_summer", source_label="SimplifyJobs GitHub")
+    assert len(jobs) == 1
+    assert jobs[0].company == "Acme Logistics"
+    assert jobs[0].title == "Supply Chain Intern"
+    assert jobs[0].application_url.startswith("https://boards.greenhouse.io/acme/jobs/99")
+    assert jobs[0].location == "Austin, TX"

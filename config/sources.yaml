@@ -8,6 +8,22 @@
   enabled: true
   career_url: https://www.amazon.jobs
 
+- id: simplify_summer
+  company: SimplifyJobs
+  source: simplify_summer
+  platform: simplify_github
+  enabled: true
+  listings_url: https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json
+  source_label: SimplifyJobs GitHub (Summer Internships)
+
+- id: simplify_newgrad
+  company: SimplifyJobs
+  source: simplify_newgrad
+  platform: simplify_github
+  enabled: true
+  listings_url: https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json
+  source_label: SimplifyJobs GitHub (New Grad)
+
 - id: doordash
   company: DoorDash
   source: doordash

@@ -1,0 +1,9 @@
+# Never collect these employers.
+# Defense / government / public-university entries from the tracker.
+- General Atomics
+- Anduril Industries
+- Raytheon
+- Raytheon (RTX)
+- RTX
+- LA28
+- UC San Diego Athletics

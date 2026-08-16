@@ -7,6 +7,25 @@ from board.normalization import normalized_title_key
 from board.urls import canonicalize_url
 
 
+def _source_rank(job: Job) -> int:
+    blob = f"{job.source} {job.source_key}".lower()
+    if "simplify" in blob:
+        return 50
+    if "amazon" in blob:
+        return 1
+    if "greenhouse" in blob:
+        return 2
+    if "lever" in blob:
+        return 2
+    if "ashby" in blob:
+        return 2
+    if "smartrecruiters" in blob:
+        return 3
+    if "workday" in blob:
+        return 3
+    return 10
+
+
 def _fingerprint(job: Job) -> str:
     return "|".join(
         [
@@ -24,6 +43,10 @@ def deduplicate_jobs(jobs: list[Job]) -> tuple[list[Job], int]:
     removed = 0
 
     def better(existing: Job, incoming: Job) -> Job:
+        if _source_rank(incoming) < _source_rank(existing):
+            incoming.date_discovered = min(existing.date_discovered, incoming.date_discovered)
+            incoming.id = existing.id
+            return incoming
         existing_date = existing.date_posted or ""
         incoming_date = incoming.date_posted or ""
         if incoming_date > existing_date:

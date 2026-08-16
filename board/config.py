@@ -39,7 +39,29 @@ def settings() -> dict[str, Any]:
 
 
 def sources() -> list[dict[str, Any]]:
-    return list(_read_yaml(ROOT / "config" / "sources.yaml"))
+    items = list(_read_yaml(ROOT / "config" / "sources.yaml") or [])
+    boards_path = ROOT / "config" / "ats_boards.yaml"
+    if boards_path.exists():
+        extra = _read_yaml(boards_path)
+        extra_items = extra.get("boards") if isinstance(extra, dict) else extra
+        items.extend(extra_items or [])
+    by_id: dict[str, dict[str, Any]] = {}
+    order: list[str] = []
+    for item in items:
+        key = item.get("id") or item.get("source")
+        if not key:
+            continue
+        if key not in by_id:
+            order.append(key)
+        by_id[key] = item
+    return [by_id[key] for key in order]
+
+
+@lru_cache(maxsize=1)
+def excluded_companies() -> set[str]:
+    path = ROOT / "config" / "excluded_companies.yaml"
+    names = _read_yaml(path) or []
+    return {str(name).strip().lower() for name in names if name}
 
 
 def companies() -> dict[str, Any]:

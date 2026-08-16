@@ -7,8 +7,6 @@ from dataclasses import dataclass
 
 from board.config import classification_rules, settings
 from board.constants import CATEGORIES
-from board.config import classification_rules, settings
-from board.constants import CATEGORIES
 from board.normalization import phrase_in
 
 _WORDISH = re.compile(r"[^a-z0-9&+]+")
@@ -43,17 +41,92 @@ def _score_text(text: str, weight: float, rules: dict) -> tuple[dict[str, float]
     return scores, matched
 
 
-def excluded_engineering_title(title: str) -> bool:
-    """True when the title is a software/hardware role without a domain keyword."""
+_EXCLUDED_TRACK_WORDS: tuple[str, ...] = (
+    "finance",
+    "financial",
+    "accounting",
+    "accountant",
+    "marketing",
+    "merchandising",
+    "merchandiser",
+    "sales",
+)
+
+
+def excluded_track_title(title: str) -> bool:
+    """Drop finance, sales, and marketing tracks. Keep S&OP (not a sales job)."""
     rules = classification_rules()
     title_n = f" {_normalize_text(title)} "
-    title_scores, _ = _score_text(title, 1.0, rules)
-    if max(title_scores.values(), default=0) > 0:
-        return False
+    title_n = title_n.replace(" sales and operations planning ", " sop ")
+    title_n = title_n.replace(" s&op ", " sop ")
+    title_n = title_n.replace(" s op ", " sop ")
+    for keyword in rules.get("exclude_track_keywords") or []:
+        needle = f" {_normalize_text(keyword)} "
+        if needle != "  " and needle in title_n:
+            return True
+    return any(f" {word} " in title_n for word in _EXCLUDED_TRACK_WORDS)
+
+
+_TECH_TITLE_WORDS: tuple[str, ...] = (
+    "software",
+    "frontend",
+    "backend",
+    "fullstack",
+    "firmware",
+    "devops",
+    "sde",
+    "swe",
+)
+
+
+def excluded_engineering_title(title: str) -> bool:
+    """Drop software/hardware/data-science engineering titles."""
+    rules = classification_rules()
+    title_n = f" {_normalize_text(title)} "
     for keyword in rules.get("exclude_title_keywords") or []:
         needle = f" {_normalize_text(keyword)} "
         if needle != "  " and needle in title_n:
             return True
+    if any(f" {word} " in title_n for word in _TECH_TITLE_WORDS):
+        return True
+    # Generic data-science/AI internships are SWE-adjacent unless the title
+    # is clearly a supply-chain / operations / logistics / business role.
+    tech_only = (
+        " data science ",
+        " data scientist ",
+        " machine learning ",
+        " ml intern ",
+        " data analyst intern ",
+        " data analytics intern ",
+        " applied data science ",
+    )
+    if any(token in title_n for token in tech_only):
+        domain = (
+            " supply chain ",
+            " logistics ",
+            " operations ",
+            " procurement ",
+            " sourcing ",
+            " planning ",
+            " inventory ",
+            " warehouse ",
+            " fulfillment ",
+            " business ",
+        )
+        if not any(token in title_n for token in domain):
+            return True
+    if " analytics intern " in title_n and not any(
+        token in title_n
+        for token in (
+            " business ",
+            " operations ",
+            " supply chain ",
+            " logistics ",
+            " procurement ",
+            " planning ",
+        )
+    ):
+        return True
     return False
 
 
@@ -108,6 +181,8 @@ def looks_like_early_career(title: str, source_job_type: str | None = None, extr
 
 def is_relevant(title: str, description: str, category: str) -> bool:
     if excluded_engineering_title(title):
+        return False
+    if excluded_track_title(title):
         return False
     if category != "Other":
         return True

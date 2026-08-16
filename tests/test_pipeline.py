@@ -81,3 +81,29 @@ def test_raw_to_job_keeps_relevant_intern():
     assert job.company == "Amazon"
     assert job.category == "Supply Chain"
     assert job.id == "amazon-12345"
+
+
+def test_raw_to_job_drops_non_us_location():
+    raw = RawJob(
+        company="Amazon",
+        title="Supply Chain Intern",
+        application_url="https://www.amazon.jobs/en/jobs/10404513/instock-intern",
+        source="Amazon Careers",
+        source_key="amazon",
+        location="Sao Paulo, Sao Paulo, BRA",
+        source_job_id="10404513",
+    )
+    assert raw_to_job(raw, today=utc_today()) is None
+
+
+def test_raw_to_job_drops_finance_intern():
+    raw = RawJob(
+        company="Amazon",
+        title="2027 Amazon Operations Finance Rotational Program Summer Internship",
+        application_url="https://www.amazon.jobs/en/jobs/10435673/finance",
+        source="Amazon Careers",
+        source_key="amazon",
+        location="Seattle, WA",
+        source_job_id="10435673",
+    )
+    assert raw_to_job(raw, today=utc_today()) is None

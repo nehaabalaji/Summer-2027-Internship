@@ -64,13 +64,15 @@ def parse_amazon_jobs(payload: dict[str, Any], *, source_key: str = "amazon") ->
     return jobs
 
 
-def fetch_amazon_search(offset: int, query: str, limit: int = 50) -> dict[str, Any]:
+def fetch_amazon_search(offset: int, query: str, limit: int = 50, extra: dict | None = None) -> dict[str, Any]:
     params = {
         "base_query": query,
         "offset": offset,
         "result_limit": limit,
         "sort": "recent",
     }
+    if extra:
+        params.update(extra)
     return request_json(SEARCH_URL, params=params, use_cache=offset == 0)
 
 
@@ -83,10 +85,22 @@ class AmazonScraper(BaseScraper):
         cap = int(settings()["pipeline"]["max_jobs_per_source"])
         collected: list[RawJob] = []
         seen: set[str] = set()
-        for query in ("intern", "co-op", "new graduate"):
+        searches: list[tuple[str, dict]] = [
+            ("intern", {"loc_query": "United States"}),
+            ("co-op", {"loc_query": "United States"}),
+            ("new graduate", {"loc_query": "United States"}),
+            ("area manager intern", {}),
+            ("supply chain intern", {}),
+            ("operations intern", {}),
+            ("product manager intern", {}),
+            ("logistics intern", {}),
+            ("procurement intern", {}),
+            ("pathways intern", {}),
+        ]
+        for query, extra in searches:
             offset = 0
             while len(collected) < cap:
-                payload = fetch_amazon_search(offset, query)
+                payload = fetch_amazon_search(offset, query, extra=extra)
                 chunk = parse_amazon_jobs(payload, source_key=self.name)
                 if not chunk:
                     break

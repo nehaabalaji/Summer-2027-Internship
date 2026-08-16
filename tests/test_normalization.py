@@ -1,6 +1,7 @@
 from board.ids import make_job_id
 from board.normalization import (
     infer_job_type,
+    is_us_job,
     normalize_application_url,
     normalize_company,
     normalize_title,
@@ -24,12 +25,32 @@ def test_location_city_state():
     assert parsed["city"] == "Seattle"
     assert parsed["state"] == "WA"
     assert parsed["location"] == "Seattle, WA"
+    assert parsed["country"] == "United States"
 
 
 def test_location_remote_us():
     parsed = parse_location("Remote — United States")
     assert parsed["location"].startswith("Remote")
     assert parsed["country"] == "United States"
+
+
+def test_location_iso3_country():
+    parsed = parse_location("Shanghai, CHN")
+    assert parsed["country"] == "China"
+    parsed = parse_location("Sao Paulo, Sao Paulo, BRA")
+    assert parsed["country"] == "Brazil"
+    parsed = parse_location("Melbourne, Victoria, AUS")
+    assert parsed["country"] == "Australia"
+
+
+def test_us_job_filter():
+    assert is_us_job(parse_location("Seattle, WA"), raw="Seattle, WA")
+    assert is_us_job(parse_location("Remote"), raw="Remote", arrangement="Remote")
+    assert is_us_job(parse_location("Indianapolis, IN"), raw="Indianapolis, IN")
+    assert not is_us_job(parse_location("Shanghai, CHN"), raw="Shanghai, CHN")
+    assert not is_us_job(parse_location("London, GBR"), raw="London, GBR")
+    assert not is_us_job(parse_location("Toronto, Canada"), raw="Toronto, Canada")
+    assert not is_us_job(parse_location("Remote, Canada"), raw="Remote, Canada")
 
 
 def test_date_parsing():

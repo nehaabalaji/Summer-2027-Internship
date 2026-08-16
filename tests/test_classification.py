@@ -1,4 +1,4 @@
-from board.classification import classify_text, looks_like_early_career, is_relevant
+from board.classification import classify_text, looks_like_early_career, is_relevant, excluded_track_title
 
 
 def test_supply_chain():
@@ -30,6 +30,20 @@ def test_logistics():
 def test_analytics():
     result = classify_text("Business Analytics Intern")
     assert result.category == "Business Analytics"
+
+
+def test_finance_sales_marketing_are_dropped():
+    assert excluded_track_title("Financial Analyst Intern")
+    assert excluded_track_title("Brand Marketing Intern")
+    assert excluded_track_title("Sales Intern")
+    assert excluded_track_title("2027 Amazon Operations Finance Rotational Program Summer Internship")
+    assert excluded_track_title("Marketing Intern, Amazon Global Logistics")
+    assert excluded_track_title("Sales Ops Analyst Intern - Shanghai, Amazon Global Selling")
+    assert not is_relevant("Financial Analyst Intern", "", "Other")
+    assert not is_relevant("Brand Marketing Intern", "", "Other")
+    assert not is_relevant("Sales Intern", "", "Other")
+    assert not excluded_track_title("Sales and Operations Planning Intern")
+    assert not excluded_track_title("Supply Chain Intern")
 
 
 def test_low_confidence_goes_to_other():
@@ -68,6 +82,20 @@ def test_engineering_roles_are_not_kept_from_description():
         "Software Engineer Intern",
         "Work on supply chain optimization software.",
         "Other",
+    )
+    assert not is_relevant(
+        "Software Engineer Project Intern - Security",
+        "",
+        "Project & Program Management",
+    )
+    assert not is_relevant("Frontend Software Engineer Project Intern - Global CRM", "", "Other")
+    assert not is_relevant("Data Analyst Intern", "", "Business Analytics")
+    assert is_relevant("Business Analytics Intern", "", "Business Analytics")
+    assert not is_relevant("Generative AI Implementation Intern", "", "Other")
+    assert is_relevant(
+        "Data Science Intern - Tiktok Shop - Supply Chain & Logistics",
+        "",
+        "Supply Chain",
     )
 
 

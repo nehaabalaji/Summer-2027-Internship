@@ -1,13 +1,13 @@
 # 📦 Supply Chain & Business Internships
 
-> A continuously updated collection of internships, co-ops, and entry-level opportunities across Supply Chain, Operations, Product, Procurement, Analytics, Logistics, and related fields.
+> A continuously updated collection of U.S. internships, co-ops, and entry-level opportunities for supply chain and business majors — Operations, Product, Analytics, Logistics, Procurement, and related roles.
 
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **63** active jobs
-🏢 **3** companies
-🆕 **63** added in the last 24 hours
+📊 **102** active jobs
+🏢 **53** companies
+🆕 **102** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **August 16, 2026**
 
@@ -25,23 +25,31 @@ Find a role, click **Apply ↗**, and land on the employer's original applicatio
 
 <h2 id="supply-chain">📦 Supply Chain</h2>
 
-_3 active listings_
+_5 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Amazon | 2026 PM Intern - Supply Chain, Operations 🆕 | Melbourne, Victoria, AUS | Internship | Jul 31 | [Apply ↗](https://www.amazon.jobs/en/jobs/10488893/2026-pm-intern-supply-chain-operations) |
-| Amazon | Instock Intern, Amazon University Talent Acquisition 🆕 | Sao Paulo, Sao Paulo, BRA | Internship | Apr 27 | [Apply ↗](https://www.amazon.jobs/en/jobs/10404513/instock-intern-amazon-university-talent-acquisition) |
+| Magna | Supply Chain Internship 🆕 | Highland Park, MI | Internship | Aug 30 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Highland-Park-Michigan-US/Supply-Chain-Internship_R00242299) |
+| Motorola | Supply Chain Data Analyst Intern 🆕 | Chicago, IL | Internship | Aug 11 | [Apply ↗](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489) |
+| ITT | Trade & Supply Chain Data Analytics Co - op 🆕 | Orchard Park, NY | Co-op | Aug 4 | [Apply ↗](https://careersenus-itt-inc.icims.com/jobs/17342/job?mobile=true&needsRedirect=false) |
+| TikTok | Data Science Intern - Tiktok Shop - Supply Chain & Logistics 🆕 | Seattle, WA | Internship | May 28 | [Apply ↗](https://lifeattiktok.com/search/7644719084681234741) |
 | Amazon | Amazon Robotics - 2026 Supply Chain Intern - Co - op, Robotics Supply Chain 🆕 | North Reading, MA | Co-op | Sep 19, 2025 | [Apply ↗](https://www.amazon.jobs/en/jobs/3088741/amazon-robotics-2026-supply-chain-intern-co-op-robotics-supply-chain) |
 
 <h2 id="operations">⚙️ Operations</h2>
 
-_22 active listings_
+_19 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Magna | Manufacturing Process Improvement Intern - Summer 2026 🆕 | Plymouth, MI | Summer Internship | Aug 30 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Plymouth-Michigan-US/Manufacturing-Process-Improvement-Intern--Summer-2026_R00225569) |
+| TikTok | Product Solutions and Operations Intern - Commerce Ads 🆕 | San Jose, CA | Internship | Aug 14 | [Apply ↗](https://lifeattiktok.com/search/7673340525029673221) |
 | Amazon | Loss Prevention Specialist Intern 2027 🆕 | Fort Worth, TX | Internship | Aug 14 | [Apply ↗](https://www.amazon.jobs/en/jobs/10502807/loss-prevention-specialist-intern-2027) |
+| Vertiv | Operations Intern - Summer 2027 🆕 | Westerville, OH | Summer Internship | Aug 13 | [Apply ↗](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279223) |
+| UHY | Data Operations Intern 🆕 | Kansas City, MO | Internship | Aug 11 | [Apply ↗](https://uhyus.wd12.myworkdayjobs.com/uhy/job/Kansas-City-MO/XMLNAME-2027-Data-Operations-Winter-Internship---Kansas-City_JR102226) |
+| TikTok | Issue Discovery Operations Intern - Content Ecosystem 🆕 | San Jose, CA | Internship | Aug 10 | [Apply ↗](https://lifeattiktok.com/search/7667582040108222773) |
+| TikTok | Search Safety Operations Intern - Platform Responsibility - Search 🆕 | San Jose, CA | Internship | Aug 7 | [Apply ↗](https://lifeattiktok.com/search/7670420117406452021) |
+| Boeing | Boeing Summer 2027 Internship Program (Paid) - Business Operations 🆕 | USA - Everett, WA | Summer Internship | Aug 7 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1) |
 | Amazon | Area Manager Intern - Summer 2027 (California), University Recruiting 🆕 | Rialto, CA | Summer Internship | Aug 6 | [Apply ↗](https://www.amazon.jobs/en/jobs/10494789/area-manager-intern-summer-2027-california-university-recruiting) |
-| Amazon | Operations Intern - Région Nord - Start Date 2027 🆕 | Lille, Hauts-de-France, FRA | Internship | Aug 5 | [Apply ↗](https://www.amazon.jobs/en/jobs/10492799/operations-intern-region-nord-start-date-2027) |
 | Amazon | Area Manager Intern - Summer 2027 (WA, OR, ID, MT, WY, NV, UT, CO, AZ, NM), University Recruiting 🆕 | Phoenix, AZ | Summer Internship | Aug 5 | [Apply ↗](https://www.amazon.jobs/en/jobs/10493126/area-manager-intern-summer-2027-wa-or-id-mt-wy-nv-ut-co-az-nm-university-recruiting) |
 | Amazon | Area Manager Intern - Summer 2027 (TN, LA, OK, MS, AR), University Recruiting 🆕 | Nashville, TN | Summer Internship | Aug 5 | [Apply ↗](https://www.amazon.jobs/en/jobs/10493330/area-manager-intern-summer-2027-tn-la-ok-ms-ar-university-recruiting) |
 | Amazon | Area Manager Intern - Summer 2027 (Texas) 🆕 | Dallas, TX | Summer Internship | Aug 5 | [Apply ↗](https://www.amazon.jobs/en/jobs/10493331/area-manager-intern-summer-2027-texas) |
@@ -49,105 +57,136 @@ _22 active listings_
 | Amazon | Area Manager Intern - Summer 2027 (NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME) 🆕 | Somerset, NJ | Summer Internship | Aug 5 | [Apply ↗](https://www.amazon.jobs/en/jobs/10493373/area-manager-intern-summer-2027-ny-nj-pa-de-md-ct-ma-nh-ri-vt-me) |
 | Amazon | Area Manager Intern - Summer 2027 (ND, SD, NE, KS, MN, IA, WI, IL, MI, IN) 🆕 | Matteson, IL | Summer Internship | Aug 5 | [Apply ↗](https://www.amazon.jobs/en/jobs/10493586/area-manager-intern-summer-2027-nd-sd-ne-ks-mn-ia-wi-il-mi-in) |
 | Amazon | Area Manager Intern - Summer 2027 (MO, OH, KY) 🆕 | Akron, OH | Summer Internship | Aug 5 | [Apply ↗](https://www.amazon.jobs/en/jobs/10493329/area-manager-intern-summer-2027-mo-oh-ky) |
-| Amazon | Area Manager Intern - Summer 2027 (Canada) 🆕 | Whitby, Ontario, CAN | Summer Internship | Aug 5 | [Apply ↗](https://www.amazon.jobs/en/jobs/10493062/area-manager-intern-summer-2027-canada) |
 | Amazon | Area Manager Intern - Summer 2027 (AL, FL, GA, NC, SC), University Recruiting 🆕 | Atlanta, GA | Summer Internship | Aug 5 | [Apply ↗](https://www.amazon.jobs/en/jobs/10493095/area-manager-intern-summer-2027-al-fl-ga-nc-sc-university-recruiting) |
+| Uline | Operations Analyst Intern 🆕 | Waukegan, IL | Internship | Aug 3 | [Apply ↗](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Operations-Analyst-Internship---Summer-2027_R265822) |
 | Amazon | Pathways Operations Manager Intern - Summer 2027 (Nationwide Opportunities) 🆕 | Seattle, WA | Summer Internship | Aug 3 | [Apply ↗](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) |
-| Amazon | Sales Ops Analyst Intern - Shanghai, Amazon Global Selling 🆕 | Shanghai, CHN | Internship | Jul 8 | [Apply ↗](https://www.amazon.jobs/en/jobs/10468413/sales-ops-analyst-intern-shanghai-amazon-global-selling) |
-| Stripe | Tech Operations Associate, New Grad (Mexico) 🆕 | Mexico City, Mexico | New Graduate | Apr 17 | [Apply ↗](https://stripe.com/jobs/search?gh_jid=7718947) |
-| Amazon | 2026 Area Manager Intern, Operations 🆕 | Sydney, New South Wales, AUS | Internship | Apr 13 | [Apply ↗](https://www.amazon.jobs/en/jobs/10389248/2026-area-manager-intern-operations) |
-| Amazon | Operations Intern - Nova Santa Rita (RS), Amazon University Talent Acquisition 🆕 | Nova Santa Rita, Rio Grande do Sul, BRA | Internship | Feb 6 | [Apply ↗](https://www.amazon.jobs/en/jobs/3175756/operations-intern-nova-santa-rita-rs-amazon-university-talent-acquisition) |
-| Stripe | Operations Associate, New Grad (Mexico) 🆕 | Mexico City, Mexico | New Graduate | Jan 28 | [Apply ↗](https://stripe.com/jobs/search?gh_jid=7544547) |
-| Amazon | Operations Intern - São Paulo, Amazon University Talent Acquisition 🆕 | Sao Paulo, Sao Paulo, BRA | Internship | Nov 6, 2025 | [Apply ↗](https://www.amazon.jobs/en/jobs/3122185/operations-intern-sao-paulo-amazon-university-talent-acquisition) |
-| Amazon | Operations Intern - Cajamar, Amazon University Talent Acquisition 🆕 | Cajamar, Sao Paulo, BRA | Internship | Nov 6, 2025 | [Apply ↗](https://www.amazon.jobs/en/jobs/3122195/operations-intern-cajamar-amazon-university-talent-acquisition) |
-| Amazon | Operations Intern - Cabo de Santo Agostinho (PE), Amazon University Talent Acquisition 🆕 | Cabo de Santo Agostinho, Pernambuco, BRA | Internship | Nov 6, 2025 | [Apply ↗](https://www.amazon.jobs/en/jobs/3122186/operations-intern-cabo-de-santo-agostinho-pe-amazon-university-talent-acquisition) |
-| Amazon | Operations Intern - Belford Roxo (RJ), Amazon University Talent Acquisition 🆕 | Belford Roxo, Rio de Janeiro, BRA | Internship | Nov 6, 2025 | [Apply ↗](https://www.amazon.jobs/en/jobs/3122182/operations-intern-belford-roxo-rj-amazon-university-talent-acquisition) |
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_5 active listings_
+_45 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Amazon | 2027 Program - Product Manager Intern 🆕 | Cape Town, Western Cape, ZAF | Internship | Aug 12 | [Apply ↗](https://www.amazon.jobs/en/jobs/10499684/2027-program-product-manager-intern) |
-| Amazon | 【MBA Class of 2028／Internship】Sr Product Manager (Business Leadership Course) 🆕 | Tokyo, JPN | Internship | Aug 4 | [Apply ↗](https://www.amazon.jobs/en/jobs/10491293/mba-class-of-2028-internship-sr-product-manager-business-leadership-course) |
-| Amazon | Product Management Intern, Amazon University Talent Acquisition 🆕 | Sao Paulo, Sao Paulo, BRA | Internship | Apr 24 | [Apply ↗](https://www.amazon.jobs/en/jobs/10402328/product-management-intern-amazon-university-talent-acquisition) |
+| TikTok | Product Manager Intern - Scaled Growth 🆕 | San Jose, CA | Internship | Aug 14 | [Apply ↗](https://lifeattiktok.com/search/7673559305519794437) |
+| TikTok | Product Manager Intern - Content and Services 🆕 | San Jose, CA | Internship | Aug 14 | [Apply ↗](https://lifeattiktok.com/search/7673337777708550405) |
+| Tuckernuck | Product Management Intern 🆕 | Washington, DC | Internship | Aug 13 | [Apply ↗](https://tnuck.bamboohr.com/careers/273/) |
+| Vertiv | Product Management Intern - MBA - Power Solutions & Distribution 🆕 | Delaware, OH | Internship | Aug 12 | [Apply ↗](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278959) |
+| Vertiv | Product Management Intern 🆕 | Delaware, OH | Internship | Aug 12 | [Apply ↗](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958) |
+| Vertiv | IT Systems Product Management Intern - Summer 2027 🆕 | Westerville, OH | Summer Internship | Aug 12 | [Apply ↗](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239) |
+| TikTok | Product Manager Intern - Signal and Identity Product 🆕 | San Jose, CA | Internship | Aug 12 | [Apply ↗](https://lifeattiktok.com/search/7672554809555192117) |
+| TikTok | Product Manager Intern - Commerce Ads 🆕 | San Jose, CA | Internship | Aug 12 | [Apply ↗](https://lifeattiktok.com/search/7672557943224961333) |
+| TikTok | Product Manager Intern - Ads Interface and Platform 🆕 | San Jose, CA | Internship | Aug 12 | [Apply ↗](https://lifeattiktok.com/search/7672562486917286149) |
+| TikTok | Product Manager Intern - Ads Interface and Platform 🆕 | Seattle, WA | Internship | Aug 12 | [Apply ↗](https://lifeattiktok.com/search/7672569081632229685) |
+| TikTok | AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams 🆕 | San Jose, CA | Internship | Aug 11 | [Apply ↗](https://lifeattiktok.com/search/7670529537944766773) |
+| OpusClip | AI Product Management Intern 🆕 | Mountain View, CA | Internship | Aug 11 | [Apply ↗](https://jobs.ashbyhq.com/opusclip/501d374d-7d4f-4889-bc53-0a1fd16253ea/application?embed=true) |
+| Vertiv | Product Management Intern 🆕 | Westerville, OH | Internship | Aug 10 | [Apply ↗](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933) |
+| LPL Financial Holdings | Product Intern - Product 🆕 | Austin, TX | Internship | Aug 10 | [Apply ↗](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Product_R-052918) |
+| Chamberlain Group | Community Product Management Intern - Summer 2027 🆕 | Oak Brook, IL | Summer Internship | Aug 10 | [Apply ↗](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309) |
+| TikTok | AI Agent Product Manager Intern - Product Infrastructure - Customer Service Platform 🆕 | San Jose, CA | Internship | Aug 7 | [Apply ↗](https://lifeattiktok.com/search/7670010726514493749) |
+| Medline | MBA Intern - Product Management 🆕 | Chicago, IL | Internship | Aug 7 | [Apply ↗](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/MBA-Intern--Product-Management---Summer-2027_R2615805) |
+| TikTok | Strategy Product Manager Intern - Platform Responsibility 🆕 | San Jose, CA | Internship | Aug 6 | [Apply ↗](https://lifeattiktok.com/search/7670420287191517493) |
+| TikTok | Product Manager Intern - Product Infrastructure - Account 🆕 | San Jose, CA | Internship | Aug 6 | [Apply ↗](https://lifeattiktok.com/search/7670009830602721589) |
+| American Express | Product Management Intern - Global Merchant & Network Services 🆕 | Phoenix, AZ | Internship | Aug 5 | [Apply ↗](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148) |
+| TikTok | Recommendation Product Manager Intern - Content Ecosystem 🆕 | San Jose, CA | Internship | Aug 4 | [Apply ↗](https://lifeattiktok.com/search/7667874197682899205) |
+| TikTok | AI Product Manager Intern - Content Ecosystem 🆕 | San Jose, CA | Internship | Aug 4 | [Apply ↗](https://lifeattiktok.com/search/7667578131150506293) |
+| Uline | Product Management Intern 🆕 | Waukegan, IL | Internship | Aug 3 | [Apply ↗](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939) |
+| StudyFetch | Product Intern 🆕 | Beverly Hills, CA | Internship | Aug 3 | [Apply ↗](https://ats.rippling.com/studyfetch/jobs/45f16361-69b0-4e74-8cc3-d2574336c76f) |
+| Pentair | Product Management Internship 🆕 | Apex, NC | Internship | Aug 3 | [Apply ↗](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713) |
+| Naver U.Hub INC | Product Management Intern 🆕 | Redwood City, CA | Internship | Aug 3 | [Apply ↗](https://naveruhubinc.applytojob.com/apply/snw35vU7eX/ThingsBook-Product-Management-Intern) |
+| Skydio | Product Management Intern 🆕 | San Mateo, CA | Internship | Jul 31 | [Apply ↗](https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application?embed=true) |
+| Bosch Home Comfort | Product Management Intern 🆕 | Southfield, MI | Internship | Jul 29 | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000140457960) |
+| Appian | Product Manager Intern 🆕 | McLean, VA | Internship | Jul 23 | [Apply ↗](https://job-boards.greenhouse.io/appian/jobs/8041243) |
+| Pendulum Intelligence | Product Manager Intern 🆕 | Remote | Internship | Jul 21 | [Apply ↗](https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27) |
+| Hubs.is | Product Intern 🆕 | Remote | Internship | Jul 21 | [Apply ↗](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true) |
+| Databricks | Product Management Intern 🆕 | Bellevue, WA | Internship | Jul 16 | [Apply ↗](https://boards.greenhouse.io/embed/job_app?token=6883068002) |
+| BlackRock | Global Product Intern 🆕 | Wilmington, DE | Internship | Jul 15 | [Apply ↗](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/XMLNAME-2027-Global-Product-Intern-Non-New-York_R265169) |
+| TikTok | Product Manager Intern - TikTok Ads Agent - Scaled Growth 🆕 | San Jose, CA | Internship | Jul 7 | [Apply ↗](https://lifeattiktok.com/search/7657728959042046213) |
+| TikTok | Product Manager Intern - TikTok Product Content Ecosystem 🆕 | San Jose, CA | Internship | Jul 3 | [Apply ↗](https://lifeattiktok.com/search/7657778928769534213) |
+| TikTok | Copyright Solution Product Manager Intern - Tiktok - Music 🆕 | San Jose, CA | Internship | Jul 3 | [Apply ↗](https://lifeattiktok.com/search/7657541997725288757) |
+| Tesla | Product Manager Intern - Residential Energy Engineering 🆕 | Palo Alto, CA | Internship | Jun 27 | [Apply ↗](https://www.tesla.com/careers/search/job/275178) |
+| Sweatpals | Product Manager Intern - Host Squad 🆕 | Remote | Internship | Jun 9 | [Apply ↗](https://jobs.ashbyhq.com/sweatpals/be2f5fa7-2542-40e6-873f-778322bb0522/application?embed=true) |
+| Tessera Labs | Product Manager Intern 🆕 | San Jose, CA | Internship | Jun 8 | [Apply ↗](https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544/application?embed=true) |
+| Veeva Systems | Associate Product Manager - Vault CRM Suite 🆕 | Boston, MA | Unknown | Apr 28 | [Apply ↗](https://jobs.lever.co/veeva/6bcc8228-5b43-43e5-b96b-d62679b8c64a/apply) |
+| Copart | Technology Product Analyst Intern 🆕 | Dallas, TX | Internship | Mar 23 | [Apply ↗](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) |
+| Relay | Associate Product Manager - Internal Tools & Automation 🆕 | Raleigh, NC | Unknown | Mar 11 | [Apply ↗](https://job-boards.greenhouse.io/relaypro/jobs/7698008) |
+| Globus Medical | Associate Product Manager 🆕 | King of Prussia, PA | Unknown | Mar 11 | [Apply ↗](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Product-Manager_JR105815) |
 | Databricks | Associate Product Manager, New Grad (2027 Start) 🆕 | Bellevue, CA | New Graduate | Aug 8, 2024 | [Apply ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002) |
 | Databricks | Product Management Intern (Summer 2027) 🆕 | Bellevue, CA | Summer Internship | Aug 17, 2023 | [Apply ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) |
 
 <h2 id="procurement--sourcing">🛒 Procurement & Sourcing</h2>
 
-_1 active listing_
-
-| Company | Position | Location | Type | Posted | Apply |
-| --- | --- | --- | --- | --- | --- |
-| Amazon | Commercial - Vendor Management Intern 🆕 | Mexico City, Mexico City, MEX | Internship | Sep 24, 2025 | [Apply ↗](https://www.amazon.jobs/en/jobs/3091935/commercial-vendor-management-intern) |
-
-<h2 id="logistics">🚚 Logistics</h2>
-
-_22 active listings_
-
-| Company | Position | Location | Type | Posted | Apply |
-| --- | --- | --- | --- | --- | --- |
-| Amazon | Operations & Logistics Internship, Amazon Logistics 🆕 | Kojetín, Olomoucký kraj, CZE | Internship | Aug 13 | [Apply ↗](https://www.amazon.jobs/en/jobs/10500718/operations-logistics-internship-amazon-logistics) |
-| Amazon | Operations & Logistics Internship, Amazon Logistics 🆕 | Dublin, IRL | Internship | Aug 5 | [Apply ↗](https://www.amazon.jobs/en/jobs/10492646/operations-logistics-internship-amazon-logistics) |
-| Amazon | Operations & Logistics Internship, Amazon Logistics 🆕 | Belvedere, United Kingdom | Internship | Jul 31 | [Apply ↗](https://www.amazon.jobs/en/jobs/10489009/operations-logistics-internship-amazon-logistics) |
-| Amazon | Operations & Logistics Internship, Amazon Logistics 🆕 | Doncaster, United Kingdom | Internship | Jul 31 | [Apply ↗](https://www.amazon.jobs/en/jobs/10488992/operations-logistics-internship-amazon-logistics) |
-| Amazon | Operations & Logistics Internship, Amazon Logistics 🆕 | Dunstable, United Kingdom | Internship | Jul 31 | [Apply ↗](https://www.amazon.jobs/en/jobs/10488984/operations-logistics-internship-amazon-logistics) |
-| Amazon | Operations & Logistics Internship, Amazon Logistics 🆕 | Milton Keynes, United Kingdom | Internship | Jul 30 | [Apply ↗](https://www.amazon.jobs/en/jobs/10488185/operations-logistics-internship-amazon-logistics) |
-| Amazon | Operations & Logistics Internship, Amazon Logistics 🆕 | Swindon, United Kingdom | Internship | Jul 30 | [Apply ↗](https://www.amazon.jobs/en/jobs/10488176/operations-logistics-internship-amazon-logistics) |
-| Amazon | Operations & Logistics Internship, Amazon Logistics 🆕 | Redditch, United Kingdom | Internship | Jul 30 | [Apply ↗](https://www.amazon.jobs/en/jobs/10488168/operations-logistics-internship-amazon-logistics) |
-| Amazon | Operations & Logistics Internship, Amazon Logistics 🆕 | Coalville, United Kingdom | Internship | Jul 30 | [Apply ↗](https://www.amazon.jobs/en/jobs/10488163/operations-logistics-internship-amazon-logistics) |
-| Amazon | Operations & Logistics Internship, Amazon Logistics 🆕 | Darlington, United Kingdom | Internship | Jul 29 | [Apply ↗](https://www.amazon.jobs/en/jobs/10487074/operations-logistics-internship-amazon-logistics) |
-| Amazon | Operations & Logistics Internship, Amazon Logistics 🆕 | Manchester, United Kingdom | Internship | Jul 29 | [Apply ↗](https://www.amazon.jobs/en/jobs/10487062/operations-logistics-internship-amazon-logistics) |
-| Amazon | Operations & Logistics Internship, Amazon Logistics 🆕 | Belfast, Northern Ireland, GBR | Internship | Jul 29 | [Apply ↗](https://www.amazon.jobs/en/jobs/10487050/operations-logistics-internship-amazon-logistics) |
-| Amazon | Operations & Logistics Internship, Amazon Logistics 🆕 | Glasgow, Scotland, GBR | Internship | Jul 29 | [Apply ↗](https://www.amazon.jobs/en/jobs/10487040/operations-logistics-internship-amazon-logistics) |
-| Amazon | Operations & Logistics Internship, Amazon Logistics 🆕 | Swansea, Wales, GBR | Internship | Jul 29 | [Apply ↗](https://www.amazon.jobs/en/jobs/10487035/operations-logistics-internship-amazon-logistics) |
-| Amazon | Operations & Logistics Internship Veneto - Talent Pool 🆕 | Rovigo, Veneto, ITA | Internship | Jul 27 | [Apply ↗](https://www.amazon.jobs/en/jobs/10484489/operations-logistics-internship-veneto-talent-pool) |
-| Amazon | Operations & Logistics Internship Piemonte - Talent Pool 🆕 | Torrazza Piemonte, Piedmont, ITA | Internship | Jul 27 | [Apply ↗](https://www.amazon.jobs/en/jobs/10484369/operations-logistics-internship-piemonte-talent-pool) |
-| Amazon | Operations & Logistics Internship Lombardia - Talent Pool 🆕 | Casirate d'Adda, Lombardy, ITA | Internship | Jul 27 | [Apply ↗](https://www.amazon.jobs/en/jobs/10484409/operations-logistics-internship-lombardia-talent-pool) |
-| Amazon | Operations & Logistics Internship Lazio - Talent Pool 🆕 | Fara in Sabina, Latium, ITA | Internship | Jul 27 | [Apply ↗](https://www.amazon.jobs/en/jobs/10484439/operations-logistics-internship-lazio-talent-pool) |
-| Amazon | Operations & Logistics Internship Friuli Venezia Giulia - Talent Pool 🆕 | Udine, Friuli-Venezia Giulia, ITA | Internship | Jul 27 | [Apply ↗](https://www.amazon.jobs/en/jobs/10484579/operations-logistics-internship-friuli-venezia-giulia-talent-pool) |
-| Amazon | Operations & Logistics Internship Emilia Romagna - Talent Pool 🆕 | Spilamberto, Emilia-Romagna, ITA | Internship | Jul 27 | [Apply ↗](https://www.amazon.jobs/en/jobs/10484559/operations-logistics-internship-emilia-romagna-talent-pool) |
-| Amazon | Operations & Logistics Internship Abruzzo - Talent Pool 🆕 | San Salvo, Abruzzo, ITA | Internship | Jul 27 | [Apply ↗](https://www.amazon.jobs/en/jobs/10484620/operations-logistics-internship-abruzzo-talent-pool) |
-| Amazon | Marketing Intern, Amazon Global Logistics 🆕 | Shanghai, CHN | Internship | Jul 20 | [Apply ↗](https://www.amazon.jobs/en/jobs/10479002/marketing-intern-amazon-global-logistics) |
-
-<h2 id="business-analytics">📊 Business Analytics</h2>
-
-_5 active listings_
-
-| Company | Position | Location | Type | Posted | Apply |
-| --- | --- | --- | --- | --- | --- |
-| Amazon | Business Analyst Intern, Global Selling Rest of Asia 🆕 | Beijing, CHN | Internship | Aug 5 | [Apply ↗](https://www.amazon.jobs/en/jobs/10492602/business-analyst-intern-global-selling-rest-of-asia) |
-| Amazon | Business Intelligence Intern - Cajamar, Amazon University Talent Acquisition 🆕 | Cajamar, Sao Paulo, BRA | Internship | May 19 | [Apply ↗](https://www.amazon.jobs/en/jobs/10423543/business-intelligence-intern-cajamar-amazon-university-talent-acquisition) |
-| Amazon | Business Analyst Intern, Amazon University Talent Acquisition 🆕 | Sao Paulo, Sao Paulo, BRA | Internship | Apr 27 | [Apply ↗](https://www.amazon.jobs/en/jobs/10404487/business-analyst-intern-amazon-university-talent-acquisition) |
-| Amazon | Business Intelligence Intern, Amazon University Talent Acquisition 🆕 | Sao Paulo, Sao Paulo, BRA | Internship | Dec 26, 2025 | [Apply ↗](https://www.amazon.jobs/en/jobs/3149400/business-intelligence-intern-amazon-university-talent-acquisition) |
-| Amazon | Business Intelligence Intern, Amazon University Talent Acquisition 🆕 | Rio de Janeiro, Rio de Janeiro, BRA | Internship | Nov 13, 2025 | [Apply ↗](https://www.amazon.jobs/en/jobs/3126336/business-intelligence-intern-amazon-university-talent-acquisition) |
-
-<h2 id="project--program-management">📋 Project & Program Management</h2>
-
 _3 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Amazon | Program Manager Intern 🆕 | Mexico City, Mexico City, MEX | Internship | May 4 | [Apply ↗](https://www.amazon.jobs/en/jobs/10410587/program-manager-intern) |
-| Amazon | Project Intern, Amazon University Talent Acquisition 🆕 | Sao Paulo, Sao Paulo, BRA | Internship | Apr 27 | [Apply ↗](https://www.amazon.jobs/en/jobs/10404514/project-intern-amazon-university-talent-acquisition) |
-| Amazon | Project Intern - AWS, Amazon University Talent Acquisition 🆕 | Sao Paulo, Sao Paulo, BRA | Internship | Nov 13, 2025 | [Apply ↗](https://www.amazon.jobs/en/jobs/3126334/project-intern-aws-amazon-university-talent-acquisition) |
+| Magna | Purchasing Intern - Summer 2026 🆕 | Plymouth, MI | Summer Internship | Aug 30 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Plymouth-Michigan-US/Purchasing-Intern--Summer-2026_R00225563-1) |
+| Johnson & Johnson | Supplier Operations Spring Co - op 🆕 | Titusville, NJ | Co-op | Aug 11 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Supplier-Operations-Spring-Co-op_R-091274) |
+| General Mills | Internship - Sourcing Analyst 🆕 | Minneapolis, MN | Internship | Aug 6 | [Apply ↗](https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Internship---Sourcing-Analyst_10128706) |
+
+<h2 id="logistics">🚚 Logistics</h2>
+
+_1 active listing_
+
+| Company | Position | Location | Type | Posted | Apply |
+| --- | --- | --- | --- | --- | --- |
+| Tyson Foods | Fleet Operations Year Round Internship 🆕 | Springdale, AR | Internship | Aug 6 | [Apply ↗](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Springdale-AR-Terminal-Office---Springdale-Arkansas/Fleet-Operations-Year-Round-Internship_R0477340-3) |
+
+<h2 id="business-analytics">📊 Business Analytics</h2>
+
+_14 active listings_
+
+| Company | Position | Location | Type | Posted | Apply |
+| --- | --- | --- | --- | --- | --- |
+| Vertiv | Planning Analytics Intern - Summer 2027 🆕 | Westerville, OH | Summer Internship | Aug 14 | [Apply ↗](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279236) |
+| Arlington County VA | Business Intelligence Intern 🆕 | Arlington County, VA | Internship | Aug 14 | [Apply ↗](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1727) |
+| Heidelberg Materials | Master Data Intern - Service & Support 🆕 | Irving, TX | Internship | Aug 12 | [Apply ↗](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Master-Data-Intern_JR10017954-1) |
+| GCI | Telecommunications Intern - Computer Science - Data Analytics 🆕 | Anchorage, AK | Internship | Aug 7 | [Apply ↗](https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003640) |
+| Ameren | Data Analytics Co - op 🆕 | St. Louis, MO | Co-op | Aug 5 | [Apply ↗](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Data-Analytics-Coop_033877-1) |
+| AcreTrader | Data Intern 🆕 | Fayetteville, AR | Internship | Aug 3 | [Apply ↗](https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41) |
+| Clyde Companies | Business Intelligence Intern 🆕 | Orem, UT | Internship | Aug 1 | [Apply ↗](https://careers.clydeinc.com/jobs/22659?icims=1) |
+| Brio Water Technology | AI Automation & Business Analytics Intern - Rotational Program 🆕 | Glendale, CA | Internship | Jul 31 | [Apply ↗](https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb) |
+| Warner Bros. | Sports Growth Strategy and Data Intern 🆕 | Atlanta, GA | Internship | Jul 23 | [Apply ↗](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Growth-Strategy-and-Data-Internships--ATL---Fall-2026_R000107173) |
+| Medpace | Clinical Business Intelligence Intern 🆕 | Cincinnati, OH | Internship | Jul 7 | [Apply ↗](https://careers.medpace.com/jobs/12845?icims=1) |
+| Eurofins | Business Intelligence Intern 🆕 | Lancaster, PA | Internship | Jun 9 | [Apply ↗](https://jobs.smartrecruiters.com/Eurofins/744000131132249) |
+| Software Quality Experts | Entry Level Business Analyst - Data Analyst 🆕 | Dulles, VA | Entry Level | Feb 27 | [Apply ↗](https://jobs.smartrecruiters.com/SQexpetsLLC/743999653805861) |
+| Insilico Logix | Business Analyst - Data Analyst Entry Level 🆕 | Reston, VA | Entry Level | Feb 24 | [Apply ↗](https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331) |
+| ByteDance | Benefits Operation Data Analyst Project Intern 🆕 | San Jose, CA | Internship | Feb 13 | [Apply ↗](https://jobs.bytedance.com/en/position/7605524889478842677/detail) |
+
+<h2 id="project--program-management">📋 Project & Program Management</h2>
+
+_4 active listings_
+
+| Company | Position | Location | Type | Posted | Apply |
+| --- | --- | --- | --- | --- | --- |
+| Crowe | ServiceNow Implementation Intern - ServiceNow Cloud Solutions 🆕 | Chicago, IL | Internship | Aug 14 | [Apply ↗](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/ServiceNow-Implementation-Intern_R-71036) |
+| Crowe | NetSuite Implementation Intern - Consulting Practice 🆕 | Chicago, IL | Internship | Aug 14 | [Apply ↗](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/NetSuite-Implementation-Intern_R-71040) |
+| Boeing | Boeing Summer 2027 Internship Program (Paid) - Program Management 🆕 | USA - Arlington, VA | Summer Internship | Aug 7 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Program-Management_JR2026521026-1) |
+| Tyson Foods | PMO Tools Year Round Intern 🆕 | Off-Site Employees (Corp Use) - Springdale, AR | Internship | Aug 3 | [Apply ↗](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Off-Site-Employees-Corp-Use---Springdale-Arkansas/PMO-Tools-Year-Round-Intern_R0476514-1) |
 
 <h2 id="manufacturing">🏭 Manufacturing</h2>
 
-_1 active listing_
+_2 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Amazon | Mechanical Process Engineer Intern, 2026 Internship, Shenzhen, China 🆕 | Shenzhen, CHN | Internship | Dec 29, 2025 | [Apply ↗](https://www.amazon.jobs/en/jobs/3149573/mechanical-process-engineer-intern-2026-internship-shenzhen-china) |
+| Magna | Manufacturing Engineering Intern - Summer 2026 🆕 | Plymouth, MI | Summer Internship | Aug 30 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Plymouth-Michigan-US/Manufacturing-Engineering-Intern--Summer-2026_R00225565) |
+| Magna | Manufacturing Engineering (Co - op Student) 🆕 | Milton, CA | Co-op | Aug 30 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Milton-Ontario-CA/Manufacturing-Engineering--Co-op-Student-_R00250454) |
 
 <h2 id="other">📁 Other</h2>
 
-_1 active listing_
+_9 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Amazon | 2027 Amazon Operations Finance Rotational Program Summer Internship 🆕 | Seattle, WA | Summer Internship | Jun 1 | [Apply ↗](https://www.amazon.jobs/en/jobs/10435673/2027-amazon-operations-finance-rotational-program-summer-internship) |
+| TikTok | Product Operations Intern - TikTok Shop Apps and API 🆕 | Seattle, WA | Internship | Aug 13 | [Apply ↗](https://lifeattiktok.com/search/7669705525866383621) |
+| National Laboratory of the Rockies | Transportation Systems Analysis Intern - Year - Round 🆕 | Golden, CO | Internship | Aug 13 | [Apply ↗](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14385) |
+| TikTok | Product Operations Intern - TikTok Shop Apps and API - MBA 🆕 | Seattle, WA | Internship | Aug 6 | [Apply ↗](https://lifeattiktok.com/search/7668820702623467781) |
+| TikTok | AI Product Operations Intern 🆕 | San Jose, CA | Internship | Aug 6 | [Apply ↗](https://lifeattiktok.com/search/7670420017544251701) |
+| TikTok | Product Operations Intern - Apps and API 🆕 | Seattle, WA | Internship | Aug 5 | [Apply ↗](https://lifeattiktok.com/search/7669927344569764101) |
+| TikTok | Efficiency Analyst - Methodologist Project Intern - Content Operations - Tiktok - Operations - Operations Efficiency 🆕 | San Jose, CA | Internship | Jul 29 | [Apply ↗](https://lifeattiktok.com/search/7667613782697232693) |
+| Arkema Global | Manufacturing Data Systems Intern 🆕 | Villanova, PA | Internship | Jul 29 | [Apply ↗](https://jobs.arkema.com/job/Radnor-Manufacturing-Data-Systems-Intern-Job-PA/1420491833/?ats=successfactors) |
+| Texas Instruments | Product Operations Analyst Intern 🆕 | Dallas, TX | Internship | Jul 28 | [Apply ↗](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016766) |
+| Flagright | Product Operations Intern 🆕 | Santa Clara, CA | Internship | Jun 17 | [Apply ↗](https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application) |
 <!-- JOBS:END -->
 
 ## How this board works

@@ -71,7 +71,6 @@ categories:
       - store operations
       - retail operations
       - manufacturing operations
-      - sales ops
   Product Management:
     keywords:
       - product manager
@@ -87,7 +86,6 @@ categories:
       - product analytics
       - product analyst
       - product owner
-      - product marketing intern
   Procurement & Sourcing:
     keywords:
       - procurement
@@ -158,8 +156,6 @@ categories:
       - tpm intern
       - project coordinator
       - program operations
-      - program intern
-      - project intern
       - pmo
       - implementation intern
       - delivery manager
@@ -229,13 +225,54 @@ relevance_keywords:
   - program manager
   - project manager
 
-# Titles that are software/hardware engineering unless the title also
-# contains a category keyword. Prevents description-only false positives.
+# Drop finance, sales, and marketing tracks even if another keyword is present.
+exclude_track_keywords:
+  - finance intern
+  - financial analyst
+  - financial analysis
+  - accounting intern
+  - accountant intern
+  - audit intern
+  - tax intern
+  - fp&a
+  - marketing intern
+  - brand intern
+  - brand specialist
+  - brand ambassador
+  - merchandising
+  - merchandise
+  - digital marketing
+  - social media intern
+  - sales intern
+  - account executive
+  - account manager intern
+  - business development
+  - sales development
+  - sdr intern
+  - sales ops
+  - sales operations
+  - global selling
+  - customer success intern
+  - partnerships intern
+  - product marketing
+  - brand marketing
+  - wealth management
+  - investment banking
+  - treasury intern
+  - controller intern
+  - credit analyst
+  - quant intern
+  - quantitative researcher
+  - quantitative trader
+  - quantitative analyst intern
+
+# Titles that are software/hardware/data-science engineering. Always dropped.
 exclude_title_keywords:
   - software engineer
   - software developer
   - software development
   - software dev
+  - software intern
   - front end
   - frontend
   - back end
@@ -243,9 +280,11 @@ exclude_title_keywords:
   - full stack
   - fullstack
   - security engineer
+  - security software
   - site reliability
-  - machine learning engineer
+  - machine learning
   - ml engineer
+  - ml intern
   - research scientist
   - applied scientist
   - applied science
@@ -258,3 +297,22 @@ exclude_title_keywords:
   - data engineer
   - sde intern
   - sde internship
+  - software engineer intern
+  - software engineering intern
+  - product engineer
+  - applications engineering
+  - generative ai
+  - cybersecurity intern
+  - firmware
+  - devops
+  - sre intern
+  - coding intern
+  - developer intern
+  - programming intern
+  - computer science intern
+  - cs intern
+  - ai engineer
+  - ml ops
+  - mle intern
+  - manufacturing execution
+

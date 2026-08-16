@@ -11,7 +11,9 @@ from dateutil import parser as date_parser
 from board.constants import (
     COMPANY_ALIASES,
     COUNTRY_ALIASES,
+    ISO3_COUNTRIES,
     JOB_TYPES,
+    US_ABBREV_TO_NAME,
     US_STATE_ABBREV,
     WORK_ARRANGEMENTS,
 )
@@ -185,10 +187,10 @@ def parse_location(raw: str) -> dict[str, Optional[str]]:
             state = upper
         elif lower in US_STATE_ABBREV:
             state = US_STATE_ABBREV[lower]
+        elif upper in ISO3_COUNTRIES:
+            country = ISO3_COUNTRIES[upper]
         elif lower in COUNTRY_ALIASES:
             country = COUNTRY_ALIASES[lower]
-        elif token.lower() in {"united states", "canada", "united kingdom", "germany", "india", "mexico"}:
-            country = token.title() if token.lower() != "united states" else "United States"
         elif not state and len(token) > 2:
             maybe_state = US_STATE_ABBREV.get(lower)
             if maybe_state:
@@ -205,6 +207,86 @@ def parse_location(raw: str) -> dict[str, Optional[str]]:
     else:
         location = text
     return {"location": location, "city": city, "state": state, "country": country}
+
+
+_FOREIGN_LOCATION_MARKERS: tuple[str, ...] = (
+    "united kingdom",
+    "great britain",
+    "canada",
+    "china",
+    "brazil",
+    "india",
+    "mexico",
+    "germany",
+    "france",
+    "italy",
+    "ireland",
+    "australia",
+    "japan",
+    "singapore",
+    "netherlands",
+    "spain",
+    "poland",
+    "czech",
+    "south africa",
+    "south korea",
+    "hong kong",
+    "taiwan",
+    "united arab emirates",
+    "new zealand",
+    "costa rica",
+    "colombia",
+    "argentina",
+    "philippines",
+    "indonesia",
+    "malaysia",
+    "thailand",
+    "vietnam",
+    "israel",
+    "sweden",
+    "norway",
+    "denmark",
+    "switzerland",
+    "austria",
+    "belgium",
+    "portugal",
+    "romania",
+    "hungary",
+    "luxembourg",
+)
+
+
+def is_us_job(
+    parsed: dict[str, Optional[str]],
+    raw: str = "",
+    arrangement: str = "",
+) -> bool:
+    """Keep United States roles only, including US remote."""
+    country = parsed.get("country") or ""
+    if country and country != "United States":
+        return False
+    raw_l = collapse_ws(raw or "").lower()
+    if any(re.search(rf"\b{re.escape(marker)}\b", raw_l) for marker in _FOREIGN_LOCATION_MARKERS):
+        return False
+    for token in re.split(r"[^a-z0-9]+", raw_l):
+        if not token:
+            continue
+        iso = token.upper()
+        if iso in ISO3_COUNTRIES and ISO3_COUNTRIES[iso] != "United States":
+            return False
+        if token in COUNTRY_ALIASES and COUNTRY_ALIASES[token] != "United States":
+            return False
+    if (parsed.get("state") or "") in US_ABBREV_TO_NAME:
+        city = (parsed.get("city") or "").lower()
+        if city == "amsterdam" and parsed.get("state") == "NH":
+            return False
+        return True
+    if country == "United States":
+        return True
+    location = (parsed.get("location") or "").lower()
+    if arrangement == "Remote" or location.startswith("remote"):
+        return True
+    return False
 
 
 def normalize_application_url(url: str) -> str:

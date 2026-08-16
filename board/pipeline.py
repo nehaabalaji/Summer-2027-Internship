@@ -7,7 +7,7 @@ from dataclasses import dataclass, field
 from typing import Iterable
 
 from board.classification import classify_text, is_relevant, looks_like_early_career
-from board.config import path_from_settings, settings
+from board.config import excluded_companies, path_from_settings, settings
 from board.deduplication import deduplicate_jobs
 from board.expiration import expire_missing_jobs
 from board.ids import make_job_id
@@ -15,6 +15,7 @@ from board.models import Job, RawJob
 from board.normalization import (
     infer_job_type,
     infer_work_arrangement,
+    is_us_job,
     normalize_application_url,
     normalize_company,
     normalize_title,
@@ -41,6 +42,7 @@ class UpdateReport:
     failed_sources: list[str] = field(default_factory=list)
     source_counts: dict[str, int] = field(default_factory=dict)
     errors: dict[str, str] = field(default_factory=dict)
+    funnel: dict[str, dict[str, int]] = field(default_factory=dict)
 
     def render(self) -> str:
         lines = [
@@ -61,6 +63,24 @@ class UpdateReport:
             f"Total active jobs: {self.total_active:,}",
             "=====================================",
         ]
+        if self.funnel:
+            lines.insert(-1, "")
+            lines.insert(-1, f"{'SOURCE':<28} {'RAW':>7} {'INTERN':>8} {'U.S.':>7} {'RELEVANT':>10} {'FINAL':>7}")
+            totals = {"raw": 0, "intern": 0, "us": 0, "relevant": 0, "final": 0}
+            for name, counts in sorted(self.funnel.items()):
+                lines.insert(
+                    -1,
+                    f"{name:<28} {counts.get('raw', 0):>7} {counts.get('intern', 0):>8} "
+                    f"{counts.get('us', 0):>7} {counts.get('relevant', 0):>10} {counts.get('final', 0):>7}",
+                )
+                for key in totals:
+                    totals[key] += counts.get(key, 0)
+            lines.insert(
+                -1,
+                f"{'TOTAL':<28} {totals['raw']:>7} {totals['intern']:>8} "
+                f"{totals['us']:>7} {totals['relevant']:>10} {totals['final']:>7}",
+            )
+            lines.insert(-1, "")
         if self.failed_sources:
             lines.insert(-1, "")
             for name in self.failed_sources:
@@ -72,11 +92,20 @@ class UpdateReport:
 
 def raw_to_job(raw: RawJob, *, today: str) -> Job | None:
     title = normalize_title(raw.title)
+    if normalize_company(raw.company).lower() in excluded_companies() or raw.company.strip().lower() in excluded_companies():
+        return None
     if not looks_like_early_career(title, raw.job_type, raw.extra.get("commitment", "")):
         return None
     company = normalize_company(raw.company)
     parsed_loc = parse_location(raw.location)
     location = parsed_loc["location"] or "Unknown"
+    arrangement = infer_work_arrangement(raw.location, raw.work_arrangement, raw.description)
+    if arrangement == "Unknown" and parsed_loc["location"] == "Remote":
+        arrangement = "Remote"
+    if settings()["pipeline"].get("us_only", True) and not is_us_job(
+        parsed_loc, raw=raw.location, arrangement=arrangement
+    ):
+        return None
     classification = classify_text(title, raw.description)
     if not is_relevant(title, raw.description, classification.category):
         return None
@@ -84,9 +113,6 @@ def raw_to_job(raw: RawJob, *, today: str) -> Job | None:
     if not application_url:
         return None
     job_type = infer_job_type(title, raw.job_type)
-    arrangement = infer_work_arrangement(raw.location, raw.work_arrangement, raw.description)
-    if arrangement == "Unknown" and parsed_loc["location"] == "Remote":
-        arrangement = "Remote"
     date_posted = parse_iso_date(raw.date_posted)
     max_desc = int(settings()["pipeline"]["description_max_chars"])
     description = (raw.description or "")[:max_desc]
@@ -133,6 +159,16 @@ def raw_to_job(raw: RawJob, *, today: str) -> Job | None:
     return job
 
 
+def _location_is_us(job: Job) -> bool:
+    parsed = parse_location(job.location or "")
+    if job.country and not parsed.get("country"):
+        parsed["country"] = job.country
+    if job.state and not parsed.get("state"):
+        parsed["state"] = job.state
+    raw = " ".join(part for part in (job.location, job.city, job.state, job.country) if part)
+    return is_us_job(parsed, raw=raw, arrangement=job.work_arrangement)
+
+
 def refresh_classifications(jobs: list[Job]) -> list[Job]:
     """Re-apply current rules so config edits take effect without waiting for expiry."""
     for job in jobs:
@@ -145,6 +181,8 @@ def refresh_classifications(jobs: list[Job]) -> list[Job]:
         if job.active and (
             not looks_like_early_career(job.title)
             or not is_relevant(job.title, job.description, job.category)
+            or job.company.strip().lower() in excluded_companies()
+            or (settings()["pipeline"].get("us_only", True) and not _location_is_us(job))
         ):
             job.active = False
     return [
@@ -195,23 +233,27 @@ def collect_from_scrapers(
         entry["last_attempted_run"] = now
         try:
             jobs = list(scraper.fetch_jobs())
-            jobs = [
+            intern_jobs = [
                 job
                 for job in jobs
                 if looks_like_early_career(job.title, job.job_type, job.extra.get("commitment", ""))
             ]
-            if len(jobs) > cap:
-                jobs = jobs[:cap]
-            discovered.extend(jobs)
+            report.funnel.setdefault(name, {})["raw"] = len(jobs)
+            report.funnel[name]["intern"] = len(intern_jobs)
+            platform = getattr(scraper, "platform", "")
+            if len(intern_jobs) > cap and platform not in {"simplify_github", "greenhouse", "lever", "ashby"}:
+                intern_jobs = intern_jobs[:cap]
+            discovered.extend(intern_jobs)
             successful.add(name)
             report.sources_successful += 1
-            report.source_counts[name] = len(jobs)
-            report.jobs_discovered += len(jobs)
+            report.source_counts[name] = len(intern_jobs)
+            report.jobs_discovered += len(intern_jobs)
             entry["status"] = "ok"
             entry["error"] = None
             entry["last_successful_run"] = now
-            entry["jobs_found"] = len(jobs)
-            print(f"[{scraper.company if hasattr(scraper, 'company') else name}] Found {len(jobs)} jobs")
+            entry["jobs_found"] = len(intern_jobs)
+            entry["jobs_raw"] = len(jobs)
+            print(f"[{scraper.company if hasattr(scraper, 'company') else name}] Found {len(intern_jobs)} internships ({len(jobs)} raw)")
         except Exception as exc:  # noqa: BLE001 — scraper isolation is intentional
             report.sources_failed += 1
             report.failed_sources.append(name)
@@ -244,8 +286,15 @@ def run_update(
 
     incoming: list[Job] = []
     for raw in raw_jobs:
+        parsed = parse_location(raw.location)
+        arrangement = infer_work_arrangement(raw.location, raw.work_arrangement, raw.description)
+        us = is_us_job(parsed, raw=raw.location, arrangement=arrangement)
+        report.funnel.setdefault(raw.source_key, {})
+        if us:
+            report.funnel[raw.source_key]["us"] = report.funnel[raw.source_key].get("us", 0) + 1
         job = raw_to_job(raw, today=today)
         if job:
+            report.funnel[raw.source_key]["relevant"] = report.funnel[raw.source_key].get("relevant", 0) + 1
             incoming.append(job)
 
     incoming, dupes = deduplicate_jobs(incoming)
@@ -271,6 +320,9 @@ def run_update(
     active = [job for job in merged if job.active]
     assert_jobs_valid(active)
     report.total_active = len(active)
+    for job in active:
+        report.funnel.setdefault(job.source_key, {})
+        report.funnel[job.source_key]["final"] = report.funnel[job.source_key].get("final", 0) + 1
 
     print(f"Added: {report.new_jobs}")
     print(f"Updated: {report.updated_jobs}")

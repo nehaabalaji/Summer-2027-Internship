@@ -4,9 +4,9 @@ project:
   title: Supply Chain & Business Internships
   short_title: Supply Chain Internships
   tagline: >-
-    A continuously updated collection of internships, co-ops, and entry-level
-    opportunities across Supply Chain, Operations, Product, Procurement,
-    Analytics, Logistics, and related fields.
+    A continuously updated collection of U.S. internships, co-ops, and entry-level
+    opportunities for supply chain and business majors — Operations, Product,
+    Analytics, Logistics, Procurement, and related roles.
   github_user: nehaabalaji
   github_repo: Supply-Chain-Internships
   user_agent: Supply-Chain-Internships/1.0 (+https://github.com/nehaabalaji/Supply-Chain-Internships; student internship aggregator)
@@ -40,17 +40,18 @@ http:
   timeout_seconds: 20
   max_retries: 3
   backoff_seconds: 1.5
-  min_interval_seconds: 1.0
+  min_interval_seconds: 0.35
   cache_ttl_seconds: 1800
 
 pipeline:
-  max_jobs_per_source: 250
+  max_jobs_per_source: 600
   expire_after_consecutive_misses: 2
   url_verify_enabled: false
   url_verify_sample: 0
   description_max_chars: 400
   classification_min_confidence: 0.35
   drop_unrelated: true
+  us_only: true
 
 readme:
   max_jobs_per_category: 200

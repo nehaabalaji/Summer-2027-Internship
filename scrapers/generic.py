@@ -10,6 +10,7 @@ from scrapers.base import BaseScraper, UnsupportedSourceError
 from scrapers.platforms.ashby import collect_ashby
 from scrapers.platforms.greenhouse import collect_greenhouse
 from scrapers.platforms.lever import collect_lever
+from scrapers.platforms.simplify_github import collect_simplify_github
 from scrapers.platforms.smartrecruiters import collect_smartrecruiters
 from scrapers.platforms.workday import collect_workday
 
@@ -49,6 +50,12 @@ class GenericPlatformScraper(BaseScraper):
                 site=self.config.get("site") or "",
                 company=self.company,
                 source_key=self.name,
+            )
+        if platform == "simplify_github":
+            return collect_simplify_github(
+                url=self.config.get("listings_url") or "",
+                source_key=self.name,
+                source_label=self.config.get("source_label") or "SimplifyJobs GitHub",
             )
         if platform in {"unsupported", ""}:
             raise UnsupportedSourceError(
