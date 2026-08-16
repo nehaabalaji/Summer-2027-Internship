@@ -1,66 +1,66 @@
 {
   "sources": {
     "amazon": {
-      "last_attempted_run": "2026-08-16T06:26:03+00:00",
+      "last_attempted_run": "2026-08-16T12:22:51+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-16T06:26:03+00:00",
+      "last_successful_run": "2026-08-16T12:22:51+00:00",
       "jobs_found": 176
     },
     "doordash": {
-      "last_attempted_run": "2026-08-16T06:26:03+00:00",
+      "last_attempted_run": "2026-08-16T12:22:51+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-16T06:26:03+00:00",
+      "last_successful_run": "2026-08-16T12:22:51+00:00",
       "jobs_found": 1
     },
     "instacart": {
-      "last_attempted_run": "2026-08-16T06:26:03+00:00",
+      "last_attempted_run": "2026-08-16T12:22:51+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-16T06:26:03+00:00",
+      "last_successful_run": "2026-08-16T12:22:51+00:00",
       "jobs_found": 0
     },
     "airbnb": {
-      "last_attempted_run": "2026-08-16T06:26:03+00:00",
+      "last_attempted_run": "2026-08-16T12:22:51+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-16T06:26:03+00:00",
+      "last_successful_run": "2026-08-16T12:22:51+00:00",
       "jobs_found": 0
     },
     "stripe": {
-      "last_attempted_run": "2026-08-16T06:26:03+00:00",
+      "last_attempted_run": "2026-08-16T12:22:51+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-16T06:26:03+00:00",
+      "last_successful_run": "2026-08-16T12:22:51+00:00",
       "jobs_found": 3
     },
     "lyft": {
-      "last_attempted_run": "2026-08-16T06:26:03+00:00",
+      "last_attempted_run": "2026-08-16T12:22:51+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-16T06:26:03+00:00",
+      "last_successful_run": "2026-08-16T12:22:51+00:00",
       "jobs_found": 0
     },
     "hubspot": {
-      "last_attempted_run": "2026-08-16T06:26:03+00:00",
+      "last_attempted_run": "2026-08-16T12:22:51+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-16T06:26:03+00:00",
+      "last_successful_run": "2026-08-16T12:22:51+00:00",
       "jobs_found": 0
     },
     "databricks": {
-      "last_attempted_run": "2026-08-16T06:26:03+00:00",
+      "last_attempted_run": "2026-08-16T12:22:51+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-16T06:26:03+00:00",
+      "last_successful_run": "2026-08-16T12:22:51+00:00",
       "jobs_found": 3
     },
     "palantir": {
-      "last_attempted_run": "2026-08-16T06:26:03+00:00",
+      "last_attempted_run": "2026-08-16T12:22:51+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-16T06:26:03+00:00",
+      "last_successful_run": "2026-08-16T12:22:51+00:00",
       "jobs_found": 72
     }
   }
