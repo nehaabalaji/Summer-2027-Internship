@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **117** active jobs
-🏢 **65** companies
-🆕 **117** added in the last 24 hours
+📊 **115** active jobs
+🏢 **64** companies
+🆕 **115** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **August 17, 2026**
 
@@ -168,12 +168,10 @@ _16 active listings_
 
 <h2 id="project--program-management">📋 Project & Program Management</h2>
 
-_4 active listings_
+_2 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Crowe | ServiceNow Implementation Intern - ServiceNow Cloud Solutions 🆕 | Chicago, IL | Internship | Aug 14 | [Apply ↗](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/ServiceNow-Implementation-Intern_R-71036) |
-| Crowe | NetSuite Implementation Intern - Consulting Practice 🆕 | Chicago, IL | Internship | Aug 14 | [Apply ↗](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/NetSuite-Implementation-Intern_R-71040) |
 | Boeing | Boeing Summer 2027 Internship Program (Paid) - Program Management 🆕 | USA - Arlington, VA | Summer Internship | Aug 8 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Program-Management_JR2026521026-1) |
 | Tyson Foods | PMO Tools Year Round Intern 🆕 | Off-Site Employees (Corp Use) - Springdale, AR | Internship | Aug 4 | [Apply ↗](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Off-Site-Employees-Corp-Use---Springdale-Arkansas/PMO-Tools-Year-Round-Intern_R0476514-1) |
 
