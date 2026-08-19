@@ -5,8 +5,8 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **121** active jobs
-🏢 **67** companies
+📊 **120** active jobs
+🏢 **66** companies
 🆕 **6** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **August 19, 2026**
@@ -30,7 +30,7 @@ _6 active listings_
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Magna | Supply Chain Internship | Highland Park, MI | Internship | Aug 30 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Highland-Park-Michigan-US/Supply-Chain-Internship_R00242299) |
-| Johnson & Johnson | US Surgery Demand Planning Co - Op 🆕 | Raritan, NJ | Co-op | Aug 18 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/US-Surgery-Demand-Planning-Co-Op_R-094088-1) |
+| Johnson & Johnson | US Surgery Demand Planning Co - Op 🆕 | Raritan, NJ | Co-op | Aug 17 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/US-Surgery-Demand-Planning-Co-Op_R-094088-1) |
 | Motorola | Supply Chain Data Analyst Intern | Chicago, IL | Internship | Aug 11 | [Apply ↗](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489) |
 | ITT | Trade & Supply Chain Data Analytics Co - op | Orchard Park, NY | Co-op | Aug 4 | [Apply ↗](https://careersenus-itt-inc.icims.com/jobs/17342/job?mobile=true&needsRedirect=false) |
 | TikTok | Data Science Intern - Tiktok Shop - Supply Chain & Logistics | Seattle, WA | Internship | May 28 | [Apply ↗](https://lifeattiktok.com/search/7644719084681234741) |
@@ -48,8 +48,8 @@ _19 active listings_
 | Vertiv | Operations Intern - Summer 2027 | Westerville, OH | Summer Internship | Aug 13 | [Apply ↗](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279223) |
 | UHY | Data Operations Intern | Kansas City, MO | Internship | Aug 11 | [Apply ↗](https://uhyus.wd12.myworkdayjobs.com/uhy/job/Kansas-City-MO/XMLNAME-2027-Data-Operations-Winter-Internship---Kansas-City_JR102226) |
 | TikTok | Issue Discovery Operations Intern - Content Ecosystem | San Jose, CA | Internship | Aug 10 | [Apply ↗](https://lifeattiktok.com/search/7667582040108222773) |
-| Boeing | Boeing Summer 2027 Internship Program (Paid) - Business Operations | USA - Everett, WA | Summer Internship | Aug 8 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1) |
 | TikTok | Search Safety Operations Intern - Platform Responsibility - Search | San Jose, CA | Internship | Aug 7 | [Apply ↗](https://lifeattiktok.com/search/7670420117406452021) |
+| Boeing | Boeing Summer 2027 Internship Program (Paid) - Business Operations | USA - Everett, WA | Summer Internship | Aug 7 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1) |
 | Amazon | Area Manager Intern - Summer 2027 (California), University Recruiting | Rialto, CA | Summer Internship | Aug 6 | [Apply ↗](https://www.amazon.jobs/en/jobs/10494789/area-manager-intern-summer-2027-california-university-recruiting) |
 | Amazon | Area Manager Intern - Summer 2027 (WA, OR, ID, MT, WY, NV, UT, CO, AZ, NM), University Recruiting | Phoenix, AZ | Summer Internship | Aug 5 | [Apply ↗](https://www.amazon.jobs/en/jobs/10493126/area-manager-intern-summer-2027-wa-or-id-mt-wy-nv-ut-co-az-nm-university-recruiting) |
 | Amazon | Area Manager Intern - Summer 2027 (TN, LA, OK, MS, AR), University Recruiting | Nashville, TN | Summer Internship | Aug 5 | [Apply ↗](https://www.amazon.jobs/en/jobs/10493330/area-manager-intern-summer-2027-tn-la-ok-ms-ar-university-recruiting) |
@@ -134,7 +134,7 @@ _3 active listings_
 | --- | --- | --- | --- | --- | --- |
 | Magna | Purchasing Intern - Summer 2026 | Plymouth, MI | Summer Internship | Aug 30 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Plymouth-Michigan-US/Purchasing-Intern--Summer-2026_R00225563-1) |
 | TikTok | Category Management Project Intern 🆕 | Seattle, WA | Internship | Aug 18 | [Apply ↗](https://lifeattiktok.com/search/7674880292247406901) |
-| General Mills | Internship - Sourcing Analyst | Minneapolis, MN | Internship | Aug 7 | [Apply ↗](https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Internship---Sourcing-Analyst_10128706) |
+| General Mills | Internship - Sourcing Analyst | Minneapolis, MN | Internship | Aug 6 | [Apply ↗](https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Internship---Sourcing-Analyst_10128706) |
 
 <h2 id="logistics">🚚 Logistics</h2>
 
@@ -142,7 +142,7 @@ _1 active listing_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Tyson Foods | Fleet Operations Year Round Internship | Springdale, AR | Internship | Aug 7 | [Apply ↗](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Springdale-AR-Terminal-Office---Springdale-Arkansas/Fleet-Operations-Year-Round-Internship_R0477340-3) |
+| Tyson Foods | Fleet Operations Year Round Internship | Springdale, AR | Internship | Aug 6 | [Apply ↗](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Springdale-AR-Terminal-Office---Springdale-Arkansas/Fleet-Operations-Year-Round-Internship_R0477340-3) |
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
@@ -176,8 +176,8 @@ _2 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Boeing | Boeing Summer 2027 Internship Program (Paid) - Program Management | USA - Arlington, VA | Summer Internship | Aug 8 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Program-Management_JR2026521026-1) |
-| Tyson Foods | PMO Tools Year Round Intern | Off-Site Employees (Corp Use) - Springdale, AR | Internship | Aug 4 | [Apply ↗](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Off-Site-Employees-Corp-Use---Springdale-Arkansas/PMO-Tools-Year-Round-Intern_R0476514-1) |
+| Boeing | Boeing Summer 2027 Internship Program (Paid) - Program Management | USA - Arlington, VA | Summer Internship | Aug 7 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Program-Management_JR2026521026-1) |
+| Tyson Foods | PMO Tools Year Round Intern | Off-Site Employees (Corp Use) - Springdale, AR | Internship | Aug 3 | [Apply ↗](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Off-Site-Employees-Corp-Use---Springdale-Arkansas/PMO-Tools-Year-Round-Intern_R0476514-1) |
 
 <h2 id="manufacturing">🏭 Manufacturing</h2>
 
@@ -190,12 +190,12 @@ _2 active listings_
 
 <h2 id="other">📁 Other</h2>
 
-_12 active listings_
+_11 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | SpaceX | New Graduate Engineer, Manufacturing (Starship) 🆕 | Starbase, TX | New Graduate | Aug 19 | [Apply ↗](https://boards.greenhouse.io/spacex/jobs/8729120002?gh_jid=8729120002) |
-| Johnson & Johnson | Operations Co - Op 🆕 | Athens, GA | Co-op | Aug 18 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Athens-Georgia-United-States-of-America/Operations-Co-Op_R-093947) |
+| Johnson & Johnson | Operations Co - Op 🆕 | Athens, GA | Co-op | Aug 17 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Athens-Georgia-United-States-of-America/Operations-Co-Op_R-093947) |
 | GlobalFoundries | Tapeout and Mask Operations Engineer New Grad 🆕 | Essex Junction, VT | New Graduate | Aug 14 | [Apply ↗](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Tapeout---Mask-Operations-Engineer--2027-New-College-Graduate-_JR-2604936) |
 | TikTok | Product Operations Intern - TikTok Shop Apps and API | Seattle, WA | Internship | Aug 13 | [Apply ↗](https://lifeattiktok.com/search/7669705525866383621) |
 | National Laboratory of the Rockies | Transportation Systems Analysis Intern - Year - Round | Golden, CO | Internship | Aug 13 | [Apply ↗](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14385) |
@@ -203,7 +203,6 @@ _12 active listings_
 | TikTok | AI Product Operations Intern | San Jose, CA | Internship | Aug 6 | [Apply ↗](https://lifeattiktok.com/search/7670420017544251701) |
 | TikTok | Product Operations Intern - Apps and API | Seattle, WA | Internship | Aug 5 | [Apply ↗](https://lifeattiktok.com/search/7669927344569764101) |
 | TikTok | Efficiency Analyst - Methodologist Project Intern - Content Operations - Tiktok - Operations - Operations Efficiency | San Jose, CA | Internship | Jul 29 | [Apply ↗](https://lifeattiktok.com/search/7667613782697232693) |
-| Arkema Global | Manufacturing Data Systems Intern | Villanova, PA | Internship | Jul 29 | [Apply ↗](https://jobs.arkema.com/job/Radnor-Manufacturing-Data-Systems-Intern-Job-PA/1420491833/?ats=successfactors) |
 | Texas Instruments | Product Operations Analyst Intern | Dallas, TX | Internship | Jul 28 | [Apply ↗](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016766) |
 | Flagright | Product Operations Intern | Santa Clara, CA | Internship | Jun 17 | [Apply ↗](https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application) |
 <!-- JOBS:END -->
