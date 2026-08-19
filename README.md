@@ -7,7 +7,7 @@ Find a role, click **Apply ↗**, and land on the employer's original applicatio
 <!-- JOBS:START -->
 📊 **121** active jobs
 🏢 **67** companies
-🆕 **5** added in the last 24 hours
+🆕 **6** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **August 19, 2026**
 
@@ -64,7 +64,7 @@ _19 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_58 active listings_
+_57 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -105,7 +105,6 @@ _58 active listings_
 | Bosch Home Comfort | Product Management Intern | Southfield, MI | Internship | Jul 29 | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000140457960) |
 | AssetMark | Associate Product Manager - Internal AI 🆕 | Charlotte, NC | Unknown | Jul 23 | [Apply ↗](https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Associate-Product-Manager--Internal-AI_Req-003911) |
 | Appian | Product Manager Intern | McLean, VA | Internship | Jul 23 | [Apply ↗](https://job-boards.greenhouse.io/appian/jobs/8041243) |
-| Pendulum Intelligence | Product Manager Intern | Remote | Internship | Jul 21 | [Apply ↗](https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27) |
 | Hubs.is | Product Intern | Remote | Internship | Jul 21 | [Apply ↗](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true) |
 | Magnite | Associate Product Manager - Traffic Shaping 🆕 | Boston, MA | Unknown | Jul 20 | [Apply ↗](https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/Massachusetts---Boston/Associate-Product-Manager--Traffic-Shaping_R-01360-1) |
 | Databricks | Product Management Intern | Bellevue, WA | Internship | Jul 16 | [Apply ↗](https://boards.greenhouse.io/embed/job_app?token=6883068002) |
@@ -191,10 +190,11 @@ _2 active listings_
 
 <h2 id="other">📁 Other</h2>
 
-_11 active listings_
+_12 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| SpaceX | New Graduate Engineer, Manufacturing (Starship) 🆕 | Starbase, TX | New Graduate | Aug 19 | [Apply ↗](https://boards.greenhouse.io/spacex/jobs/8729120002?gh_jid=8729120002) |
 | Johnson & Johnson | Operations Co - Op 🆕 | Athens, GA | Co-op | Aug 18 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Athens-Georgia-United-States-of-America/Operations-Co-Op_R-093947) |
 | GlobalFoundries | Tapeout and Mask Operations Engineer New Grad 🆕 | Essex Junction, VT | New Graduate | Aug 14 | [Apply ↗](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Tapeout---Mask-Operations-Engineer--2027-New-College-Graduate-_JR-2604936) |
 | TikTok | Product Operations Intern - TikTok Shop Apps and API | Seattle, WA | Internship | Aug 13 | [Apply ↗](https://lifeattiktok.com/search/7669705525866383621) |
