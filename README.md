@@ -5,8 +5,8 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **123** active jobs
-🏢 **69** companies
+📊 **122** active jobs
+🏢 **68** companies
 🆕 **5** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **August 20, 2026**
@@ -193,13 +193,12 @@ _2 active listings_
 
 <h2 id="other">📁 Other</h2>
 
-_11 active listings_
+_10 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | SpaceX | New Graduate Engineer, Manufacturing (Starship) 🆕 | Starbase, TX | New Graduate | Aug 19 | [Apply ↗](https://boards.greenhouse.io/spacex/jobs/8729120002?gh_jid=8729120002) |
 | Johnson & Johnson | Operations Co - Op | Athens, GA | Co-op | Aug 18 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Athens-Georgia-United-States-of-America/Operations-Co-Op_R-093947) |
-| GlobalFoundries | Tapeout and Mask Operations Engineer New Grad | Essex Junction, VT | New Graduate | Aug 14 | [Apply ↗](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Tapeout---Mask-Operations-Engineer--2027-New-College-Graduate-_JR-2604936) |
 | TikTok | Product Operations Intern - TikTok Shop Apps and API | Seattle, WA | Internship | Aug 13 | [Apply ↗](https://lifeattiktok.com/search/7669705525866383621) |
 | National Laboratory of the Rockies | Transportation Systems Analysis Intern - Year - Round | Golden, CO | Internship | Aug 13 | [Apply ↗](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14385) |
 | TikTok | Product Operations Intern - TikTok Shop Apps and API - MBA | Seattle, WA | Internship | Aug 6 | [Apply ↗](https://lifeattiktok.com/search/7668820702623467781) |
