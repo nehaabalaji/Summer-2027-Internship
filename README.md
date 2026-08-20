@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **122** active jobs
-🏢 **68** companies
-🆕 **5** added in the last 24 hours
+📊 **123** active jobs
+🏢 **69** companies
+🆕 **6** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **August 20, 2026**
 
@@ -64,11 +64,12 @@ _19 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_58 active listings_
+_59 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | IDeaS | Associate Product Manager - Commercial Capabilities 🆕 | Bloomington, MN | Unknown | Aug 19 | [Apply ↗](https://ideas-sas.icims.com/jobs/42560/job?mobile=true&needsRedirect=false) |
+| Goldman Sachs | AWM Product Management Analyst Intern 🆕 | Dallas, TX | Internship | Aug 19 | [Apply ↗](https://higher.gs.com/roles/171513?type=students) |
 | TikTok | Product Manager Intern - Business Integrity 🆕 | Seattle, WA | Internship | Aug 18 | [Apply ↗](https://lifeattiktok.com/search/7673895973460576517) |
 | TikTok | Product Manager Intern - Scaled Growth | San Jose, CA | Internship | Aug 14 | [Apply ↗](https://lifeattiktok.com/search/7673559305519794437) |
 | TikTok | Product Manager Intern - Content and Services | San Jose, CA | Internship | Aug 14 | [Apply ↗](https://lifeattiktok.com/search/7673337777708550405) |
