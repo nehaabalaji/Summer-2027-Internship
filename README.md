@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **124** active jobs
-🏢 **69** companies
-🆕 **6** added in the last 24 hours
+📊 **121** active jobs
+🏢 **67** companies
+🆕 **5** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **August 21, 2026**
 
@@ -25,12 +25,11 @@ Find a role, click **Apply ↗**, and land on the employer's original applicatio
 
 <h2 id="supply-chain">📦 Supply Chain</h2>
 
-_6 active listings_
+_5 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Magna | Supply Chain Internship | Highland Park, MI | Internship | Aug 30 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Highland-Park-Michigan-US/Supply-Chain-Internship_R00242299) |
-| Johnson & Johnson | US Surgery Demand Planning Co - Op | Raritan, NJ | Co-op | Aug 17 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/US-Surgery-Demand-Planning-Co-Op_R-094088-1) |
 | Motorola | Supply Chain Data Analyst Intern | Chicago, IL | Internship | Aug 11 | [Apply ↗](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489) |
 | ITT | Trade & Supply Chain Data Analytics Co - op | Orchard Park, NY | Co-op | Aug 4 | [Apply ↗](https://careersenus-itt-inc.icims.com/jobs/17342/job?mobile=true&needsRedirect=false) |
 | TikTok | Data Science Intern - Tiktok Shop - Supply Chain & Logistics | Seattle, WA | Internship | May 28 | [Apply ↗](https://lifeattiktok.com/search/7644719084681234741) |
@@ -64,13 +63,12 @@ _19 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_60 active listings_
+_58 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Amazon | Product Manager Technical (PMT) Intern - Summer 2027 🆕 | Seattle, WA | Summer Internship | Aug 20 | [Apply ↗](https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) |
 | IDeaS | Associate Product Manager - Commercial Capabilities 🆕 | Bloomington, MN | Unknown | Aug 19 | [Apply ↗](https://ideas-sas.icims.com/jobs/42560/job?mobile=true&needsRedirect=false) |
-| Goldman Sachs | AWM Product Management Analyst Intern 🆕 | Dallas, TX | Internship | Aug 19 | [Apply ↗](https://higher.gs.com/roles/171513?type=students) |
 | TikTok | Product Manager Intern - Business Integrity | Seattle, WA | Internship | Aug 18 | [Apply ↗](https://lifeattiktok.com/search/7673895973460576517) |
 | TikTok | Product Manager Intern - Scaled Growth | San Jose, CA | Internship | Aug 14 | [Apply ↗](https://lifeattiktok.com/search/7673559305519794437) |
 | TikTok | Product Manager Intern - Content and Services | San Jose, CA | Internship | Aug 14 | [Apply ↗](https://lifeattiktok.com/search/7673337777708550405) |
@@ -112,7 +110,6 @@ _60 active listings_
 | Magnite | Associate Product Manager - Traffic Shaping | Boston, MA | Unknown | Jul 20 | [Apply ↗](https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/Massachusetts---Boston/Associate-Product-Manager--Traffic-Shaping_R-01360-1) |
 | Databricks | Product Management Intern | Bellevue, WA | Internship | Jul 16 | [Apply ↗](https://boards.greenhouse.io/embed/job_app?token=6883068002) |
 | Databricks | Associate Product Manager New Grad | Bellevue, WA | New Graduate | Jul 16 | [Apply ↗](https://boards.greenhouse.io/embed/job_app?token=7586263002) |
-| Sharp Electronics | Associate Product Manager | Memphis, TN | Unknown | Jul 15 | [Apply ↗](https://job-boards.greenhouse.io/sharpelectronics/jobs/4254963009) |
 | BlackRock | Global Product Intern | Wilmington, DE | Internship | Jul 15 | [Apply ↗](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/XMLNAME-2027-Global-Product-Intern-Non-New-York_R265169) |
 | Owens & Minor | Associate Product Manager | Alpharetta, GA | Unknown | Jul 8 | [Apply ↗](https://owensminor.wd1.myworkdayjobs.com/OMCareers/job/Alpharetta-GA/Product-Manager--Alpharetta--GA--ONSITE-_REQ_26_30401) |
 | TikTok | Product Manager Intern - TikTok Ads Agent - Scaled Growth | San Jose, CA | Internship | Jul 7 | [Apply ↗](https://lifeattiktok.com/search/7657728959042046213) |
