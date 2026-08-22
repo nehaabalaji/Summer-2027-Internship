@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **122** active jobs
-🏢 **65** companies
-🆕 **6** added in the last 24 hours
+📊 **126** active jobs
+🏢 **66** companies
+🆕 **10** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **August 22, 2026**
 
@@ -63,12 +63,14 @@ _19 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_61 active listings_
+_63 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | TikTok | Product Manager Intern - Content and Service Ads 🆕 | San Jose, CA | Internship | Aug 22 | [Apply ↗](https://lifeattiktok.com/search/7676283436713593093) |
 | TikTok | AI Product Manager Intern - Product Social 🆕 | San Jose, CA | Internship | Aug 22 | [Apply ↗](https://lifeattiktok.com/search/7675616554318596357) |
+| Springs Window Fashions | Product Management Intern 🆕 | Long Island City, NY | Internship | Aug 22 | [Apply ↗](https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false) |
+| Springs Window Fashions | Product Management Competitive Product Assessment Intern - Summer 2027 🆕 | Middleton, WI | Summer Internship | Aug 22 | [Apply ↗](https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false) |
 | Eudia | Product Intern 🆕 | Palo Alto, CA | Internship | Aug 21 | [Apply ↗](https://job-boards.greenhouse.io/eudia/jobs/4379570009) |
 | Amazon | Product Manager Technical (PMT) Intern - Summer 2027 🆕 | Seattle, WA | Summer Internship | Aug 20 | [Apply ↗](https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) |
 | IDeaS | Associate Product Manager - Commercial Capabilities 🆕 | Bloomington, MN | Unknown | Aug 19 | [Apply ↗](https://ideas-sas.icims.com/jobs/42560/job?mobile=true&needsRedirect=false) |
@@ -149,10 +151,11 @@ _1 active listing_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_21 active listings_
+_22 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Springs Window Fashions | Data Analyst Intern - Consumer Business Unit 🆕 | Middleton, WI | Internship | Aug 22 | [Apply ↗](https://careers-springswindowfashions.icims.com/jobs/12874/job?mobile=true&needsRedirect=false) |
 | LPL Financial Holdings | Data Analytics New Grad - Multiple Teams 🆕 | Fort Mill, SC | New Graduate | Aug 21 | [Apply ↗](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Foundational-Analyst-Rotational-Program--FAR----Data-Analytics_R-052057-1) |
 | National Software Management | Entry Level Data Analyst - Business Analyst 🆕 | Jersey City, NJ | Entry Level | Aug 20 | [Apply ↗](https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000144639269) |
 | Regions Bank | Technology, Operations, Digital, and Data Analytics Intern 🆕 | Hoover, AL | Internship | Aug 19 | [Apply ↗](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Analytics_R105426) |
@@ -195,10 +198,11 @@ _2 active listings_
 
 <h2 id="other">📁 Other</h2>
 
-_8 active listings_
+_9 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Springs Window Fashions | Dealer Business Operations & Analytics Intern - Summer 2027 🆕 | Middleton, WI | Summer Internship | Aug 22 | [Apply ↗](https://careers-springswindowfashions.icims.com/jobs/12886/job?mobile=true&needsRedirect=false) |
 | SpaceX | New Graduate Engineer, Manufacturing (Starship) | Starbase, TX | New Graduate | Aug 19 | [Apply ↗](https://boards.greenhouse.io/spacex/jobs/8729120002?gh_jid=8729120002) |
 | TikTok | Product Operations Intern - TikTok Shop Apps and API | Seattle, WA | Internship | Aug 13 | [Apply ↗](https://lifeattiktok.com/search/7669705525866383621) |
 | National Laboratory of the Rockies | Transportation Systems Analysis Intern - Year - Round | Golden, CO | Internship | Aug 13 | [Apply ↗](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14385) |
