@@ -5,8 +5,8 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **126** active jobs
-🏢 **66** companies
+📊 **125** active jobs
+🏢 **65** companies
 🆕 **7** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **August 23, 2026**
@@ -151,7 +151,7 @@ _1 active listing_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_22 active listings_
+_21 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -173,7 +173,6 @@ _22 active listings_
 | Brio Water Technology | AI Automation & Business Analytics Intern - Rotational Program | Glendale, CA | Internship | Jul 31 | [Apply ↗](https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb) |
 | Meds | Entry Level Data Analyst | Austin, TX | Entry Level | Jul 27 | [Apply ↗](https://jobs.lever.co/meds/366be0ea-89b9-4193-a486-a92f3ee4d1d6/apply) |
 | Medpace | Clinical Business Intelligence Intern | Cincinnati, OH | Internship | Jul 7 | [Apply ↗](https://careers.medpace.com/jobs/12845?icims=1) |
-| Eurofins | Business Intelligence Intern | Lancaster, PA | Internship | Jun 9 | [Apply ↗](https://jobs.smartrecruiters.com/Eurofins/744000131132249) |
 | Software Quality Experts | Entry Level Business Analyst - Data Analyst | Dulles, VA | Entry Level | Feb 27 | [Apply ↗](https://jobs.smartrecruiters.com/SQexpetsLLC/743999653805861) |
 | Insilico Logix | Business Analyst - Data Analyst Entry Level | Reston, VA | Entry Level | Feb 24 | [Apply ↗](https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331) |
 | ByteDance | Benefits Operation Data Analyst Project Intern | San Jose, CA | Internship | Feb 13 | [Apply ↗](https://jobs.bytedance.com/en/position/7605524889478842677/detail) |
