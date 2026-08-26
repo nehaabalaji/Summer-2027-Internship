@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **144** active jobs
-🏢 **76** companies
-🆕 **13** added in the last 24 hours
+📊 **145** active jobs
+🏢 **77** companies
+🆕 **14** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **August 26, 2026**
 
@@ -65,7 +65,7 @@ _20 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_72 active listings_
+_73 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -111,6 +111,7 @@ _72 active listings_
 | Alto-Shaam | Associate Product Manager - Pricing | Menomonee Falls, WI | Unknown | Aug 7 | [Apply ↗](https://jobs.smartrecruiters.com/Alto-Shaam/744000142148579) |
 | TikTok | Strategy Product Manager Intern - Platform Responsibility | San Jose, CA | Internship | Aug 6 | [Apply ↗](https://lifeattiktok.com/search/7670420287191517493) |
 | TikTok | Product Manager Intern - Product Infrastructure - Account | San Jose, CA | Internship | Aug 6 | [Apply ↗](https://lifeattiktok.com/search/7670009830602721589) |
+| Solace Health | Associate Product Manager 🆕 | Redwood City, CA | Unknown | Aug 6 | [Apply ↗](https://jobs.ashbyhq.com/solace/ee8ee239-ad20-4c1e-868d-3357799589ea/application?embed=true) |
 | IXL Learning | Associate Product Manager New Grad | San Mateo, CA | New Graduate | Aug 6 | [Apply ↗](https://www.ixl.com/company/jobs?gh_jid=8663710002) |
 | American Express | Product Management Intern - Global Merchant & Network Services | Phoenix, AZ | Internship | Aug 5 | [Apply ↗](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148) |
 | TikTok | Recommendation Product Manager Intern - Content Ecosystem | San Jose, CA | Internship | Aug 4 | [Apply ↗](https://lifeattiktok.com/search/7667874197682899205) |

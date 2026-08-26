@@ -1250,7 +1250,7 @@
     "active": true,
     "last_verified": "2026-08-26",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -1844,7 +1844,7 @@
     "active": true,
     "last_verified": "2026-08-26",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -2966,7 +2966,7 @@
     "active": true,
     "last_verified": "2026-08-26",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -4284,9 +4284,9 @@
     "salary_currency": null,
     "sponsorship": "Unknown",
     "active": true,
-    "last_verified": "2026-08-25",
+    "last_verified": "2026-08-26",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -5301,6 +5301,39 @@
     "source": "SimplifyJobs GitHub (Summer Internships)",
     "source_key": "simplify_summer",
     "source_job_id": "f940c913-da8e-4109-8de2-54cd5d65acfa",
+    "description": "Product",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-08-26",
+    "needs_review": false,
+    "consecutive_misses": 0,
+    "seed": false
+  },
+  {
+    "id": "solace-health-486661c3-e797-48f7-baad-dcdb88e75608",
+    "company": "Solace Health",
+    "company_logo": "",
+    "title": "Associate Product Manager",
+    "normalized_title": "associate product manager",
+    "location": "Redwood City, CA",
+    "city": "Redwood City",
+    "state": "CA",
+    "country": "United States",
+    "category": "Product Management",
+    "subcategory": "product manager",
+    "category_confidence": 1.0,
+    "job_type": "Unknown",
+    "work_arrangement": "Unknown",
+    "date_posted": "2026-08-06",
+    "date_discovered": "2026-08-26",
+    "application_url": "https://jobs.ashbyhq.com/solace/ee8ee239-ad20-4c1e-868d-3357799589ea/application?embed=true",
+    "source_url": "https://jobs.ashbyhq.com/solace/ee8ee239-ad20-4c1e-868d-3357799589ea/application?embed=true",
+    "source": "SimplifyJobs GitHub (New Grad)",
+    "source_key": "simplify_newgrad",
+    "source_job_id": "486661c3-e797-48f7-baad-dcdb88e75608",
     "description": "Product",
     "salary_min": null,
     "salary_max": null,
