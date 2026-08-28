@@ -5,11 +5,11 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **149** active jobs
-🏢 **77** companies
-🆕 **16** added in the last 24 hours
+📊 **153** active jobs
+🏢 **82** companies
+🆕 **8** added in the last 24 hours
 📁 **8** categories with listings
-🕒 Last updated: **August 27, 2026**
+🕒 Last updated: **August 28, 2026**
 
 ## Categories
 
@@ -30,7 +30,7 @@ _6 active listings_
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Magna | Supply Chain Internship | Highland Park, MI | Internship | Aug 30 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Highland-Park-Michigan-US/Supply-Chain-Internship_R00242299) |
-| Johnson & Johnson | Supply Chain Risk Management Co - Op 🆕 | Titusville, NJ | Co-op | Aug 25 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Supply-Chain-Risk-Management-Co-Op_R-095278) |
+| Johnson & Johnson | Supply Chain Risk Management Co - Op | Titusville, NJ | Co-op | Aug 25 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Supply-Chain-Risk-Management-Co-Op_R-095278) |
 | Motorola | Supply Chain Data Analyst Intern | Chicago, IL | Internship | Aug 11 | [Apply ↗](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489) |
 | ITT | Trade & Supply Chain Data Analytics Co - op | Orchard Park, NY | Co-op | Aug 4 | [Apply ↗](https://careersenus-itt-inc.icims.com/jobs/17342/job?mobile=true&needsRedirect=false) |
 | TikTok | Data Science Intern - Tiktok Shop - Supply Chain & Logistics | Seattle, WA | Internship | May 28 | [Apply ↗](https://lifeattiktok.com/search/7644719084681234741) |
@@ -67,11 +67,13 @@ _22 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_72 active listings_
+_76 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Vertiv | Services Product Management Intern - Summer 2027 🆕 | Westerville, OH | Summer Internship | Aug 27 | [Apply ↗](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278667) |
+| TELUS Digital | Product Analyst Intern 🆕 | Columbus, OH | Internship | Aug 27 | [Apply ↗](https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7/application?embed=true) |
+| Johns Manville | Product Management Intern 🆕 | Denver, CO | Internship | Aug 27 | [Apply ↗](https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432) |
 | Solace Health | Senior Associate Product Manager 🆕 | Redwood City, CA | Unknown | Aug 26 | [Apply ↗](https://jobs.ashbyhq.com/solace/fffa0e2e-e92f-4e00-bd9f-cb39049b7934/application?embed=true) |
 | Vertiv | DC Power Product Management Intern - Summer 2027 🆕 | Delaware, OH | Summer Internship | Aug 25 | [Apply ↗](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279952) |
 | GE Vernova | Controls Product Management Intern - Summer 2027 🆕 | Longmont, CO | Summer Internship | Aug 25 | [Apply ↗](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803) |
@@ -80,8 +82,8 @@ _72 active listings_
 | Copart | Technology Product Analyst Intern | Dallas, TX | Internship | Aug 25 | [Apply ↗](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110789) |
 | Brunswick | Product Management Intern - Parts & Accessories 🆕 | Fond du Lac, WI | Internship | Aug 25 | [Apply ↗](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Merucry-Marine--Product-Management-Intern---Parts---Accessories_JR-051142) |
 | Brunswick | Product Management Intern - Oils & Lubricants 🆕 | Fond du Lac, WI | Internship | Aug 25 | [Apply ↗](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213) |
-| TikTok | Product Manager Intern - Pgc 🆕 | San Jose, CA | Internship | Aug 24 | [Apply ↗](https://lifeattiktok.com/search/7673365923163638069) |
-| Procter & Gamble | IT Project & Product Manager Intern 🆕 | Cincinnati, OH | Internship | Aug 24 | [Apply ↗](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Project---Product-Manager-Internship_R000157500) |
+| TikTok | Product Manager Intern - Pgc | San Jose, CA | Internship | Aug 24 | [Apply ↗](https://lifeattiktok.com/search/7673365923163638069) |
+| Procter & Gamble | IT Project & Product Manager Intern | Cincinnati, OH | Internship | Aug 24 | [Apply ↗](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Project---Product-Manager-Internship_R000157500) |
 | TikTok | Product Manager Intern - Content and Service Ads | San Jose, CA | Internship | Aug 22 | [Apply ↗](https://lifeattiktok.com/search/7676283436713593093) |
 | TikTok | AI Product Manager Intern - Product Social | San Jose, CA | Internship | Aug 22 | [Apply ↗](https://lifeattiktok.com/search/7675616554318596357) |
 | Springs Window Fashions | Product Management Intern | Long Island City, NY | Internship | Aug 22 | [Apply ↗](https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false) |
@@ -89,6 +91,7 @@ _72 active listings_
 | Eudia | Product Intern | Palo Alto, CA | Internship | Aug 21 | [Apply ↗](https://job-boards.greenhouse.io/eudia/jobs/4379570009) |
 | Amazon | Product Manager Technical (PMT) Intern - Summer 2027 | Seattle, WA | Summer Internship | Aug 20 | [Apply ↗](https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) |
 | IDeaS | Associate Product Manager - Commercial Capabilities | Bloomington, MN | Unknown | Aug 19 | [Apply ↗](https://ideas-sas.icims.com/jobs/42560/job?mobile=true&needsRedirect=false) |
+| Goldman Sachs | AWM Product Management Analyst Intern | Dallas, TX | Internship | Aug 19 | [Apply ↗](https://higher.gs.com/roles/171513?type=students) |
 | TikTok | Product Manager Intern - Business Integrity | Seattle, WA | Internship | Aug 18 | [Apply ↗](https://lifeattiktok.com/search/7673895973460576517) |
 | TikTok | Product Manager Intern - Scaled Growth | San Jose, CA | Internship | Aug 14 | [Apply ↗](https://lifeattiktok.com/search/7673559305519794437) |
 | TikTok | Product Manager Intern - Content and Services | San Jose, CA | Internship | Aug 14 | [Apply ↗](https://lifeattiktok.com/search/7673337777708550405) |
@@ -125,6 +128,7 @@ _72 active listings_
 | Skydio | Product Management Intern | San Mateo, CA | Internship | Jul 31 | [Apply ↗](https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application?embed=true) |
 | Bosch Home Comfort | Product Management Intern | Southfield, MI | Internship | Jul 29 | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000140457960) |
 | Appian | Product Manager Intern | McLean, VA | Internship | Jul 23 | [Apply ↗](https://job-boards.greenhouse.io/appian/jobs/8041243) |
+| ROCKWOOL Group | Product Management Intern 🆕 | Chicago, IL | Internship | Jul 21 | [Apply ↗](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Product-Management---Intern_R0035795) |
 | Hubs.is | Product Intern | Remote | Internship | Jul 21 | [Apply ↗](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true) |
 | Magnite | Associate Product Manager - Traffic Shaping | Boston, MA | Unknown | Jul 20 | [Apply ↗](https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/Massachusetts---Boston/Associate-Product-Manager--Traffic-Shaping_R-01360-1) |
 | Databricks | Product Management Intern | Bellevue, WA | Internship | Jul 16 | [Apply ↗](https://boards.greenhouse.io/embed/job_app?token=6883068002) |
@@ -151,7 +155,7 @@ _4 active listings_
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Magna | Purchasing Intern - Summer 2026 | Plymouth, MI | Summer Internship | Aug 30 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Plymouth-Michigan-US/Purchasing-Intern--Summer-2026_R00225563-1) |
-| Boeing | Entry Level or Associate Procurement Agent 🆕 | USA - Mesa, AZ | Entry Level | Aug 27 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Entry-Level-or-Associate-Procurement-Agent_JR2026519046) |
+| Boeing | Entry Level or Associate Procurement Agent 🆕 | USA - Mesa, AZ | Entry Level | Aug 26 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Entry-Level-or-Associate-Procurement-Agent_JR2026519046) |
 | TikTok | Category Management Project Intern | Seattle, WA | Internship | Aug 18 | [Apply ↗](https://lifeattiktok.com/search/7674880292247406901) |
 | General Mills | Internship - Sourcing Analyst | Minneapolis, MN | Internship | Aug 6 | [Apply ↗](https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Internship---Sourcing-Analyst_10128706) |
 
@@ -161,21 +165,23 @@ _2 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| S&B Engineers and Constructors | Integrated Logistics and Support Intern 🆕 | New Orleans, LA | Internship | Aug 24 | [Apply ↗](https://taicareers-sbec.icims.com/jobs/14454/job?mobile=true&needsRedirect=false) |
+| S&B Engineers and Constructors | Integrated Logistics and Support Intern | New Orleans, LA | Internship | Aug 24 | [Apply ↗](https://taicareers-sbec.icims.com/jobs/14454/job?mobile=true&needsRedirect=false) |
 | Tyson Foods | Fleet Operations Year Round Internship | Springdale, AR | Internship | Aug 6 | [Apply ↗](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Springdale-AR-Terminal-Office---Springdale-Arkansas/Fleet-Operations-Year-Round-Internship_R0477340-3) |
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_26 active listings_
+_27 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Iberdrola Group | Technology - Cyber & Data Intern 🆕 | Boston, MA | Internship | Aug 28 | [Apply ↗](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Technology--Cyber---Data-Internship-Program_R-32747) |
+| Clyde Companies | Business Intelligence Intern | Orem, UT | Internship | Aug 27 | [Apply ↗](https://careers.clydeinc.com/jobs/34757?icims=1) |
 | MKS Instruments | Business Intelligence - Data Analytics Intern 🆕 | Andover, MA | Internship | Aug 26 | [Apply ↗](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657) |
 | The Walt Disney Company | Labor Systems Data Analytics & Integration Intern - Spring 2027 | Lake Buena Vista, FL | Spring Internship | Aug 24 | [Apply ↗](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1) |
 | Procter & Gamble | Analytics & Insights Intern - Advanced Analytics | Cincinnati, OH | Internship | Aug 24 | [Apply ↗](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Analytics---Insights-Internship--Advanced-Analytics-_R000157697) |
 | Procter & Gamble | Analytics & Insights Intern | Fayetteville, NC | Internship | Aug 24 | [Apply ↗](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Analytics---Insights-Internship_R000157696) |
 | Pennsylvania State University | Operations Research Engineer Intern - Undersea Systems | State College, PA | Internship | Aug 24 | [Apply ↗](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Operations-Research-Undersea-Systems-Analyst_REQ_0000081646-1) |
-| Freddie Mac | Single - Family Data Intern 🆕 | McLean, VA | Internship | Aug 24 | [Apply ↗](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Data-Intern--Summer-2027_JR17545) |
+| Freddie Mac | Single - Family Data Intern | McLean, VA | Internship | Aug 24 | [Apply ↗](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Data-Intern--Summer-2027_JR17545) |
 | Audax Group | Data Analyst Co - op - Business Solutions | Boston, MA | Co-op | Aug 24 | [Apply ↗](https://job-boards.greenhouse.io/audaxgroup/jobs/4722880005) |
 | Springs Window Fashions | Data Analyst Intern - Consumer Business Unit | Middleton, WI | Internship | Aug 22 | [Apply ↗](https://careers-springswindowfashions.icims.com/jobs/12874/job?mobile=true&needsRedirect=false) |
 | National Software Management | Entry Level Data Analyst - Business Analyst | Jersey City, NJ | Entry Level | Aug 20 | [Apply ↗](https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000144639269) |
@@ -189,7 +195,6 @@ _26 active listings_
 | Vertiv | Planning Analytics Intern - Summer 2027 | Westerville, OH | Summer Internship | Aug 14 | [Apply ↗](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279236) |
 | Arlington County VA | Business Intelligence Intern | Arlington County, VA | Internship | Aug 14 | [Apply ↗](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1727) |
 | GCI | Telecommunications Intern - Computer Science - Data Analytics | Anchorage, AK | Internship | Aug 7 | [Apply ↗](https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003640) |
-| Clyde Companies | Business Intelligence Intern | Orem, UT | Internship | Aug 1 | [Apply ↗](https://careers.clydeinc.com/jobs/22659?icims=1) |
 | Brio Water Technology | AI Automation & Business Analytics Intern - Rotational Program | Glendale, CA | Internship | Jul 31 | [Apply ↗](https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb) |
 | Meds | Entry Level Data Analyst | Austin, TX | Entry Level | Jul 27 | [Apply ↗](https://jobs.lever.co/meds/366be0ea-89b9-4193-a486-a92f3ee4d1d6/apply) |
 | Medpace | Clinical Business Intelligence Intern | Cincinnati, OH | Internship | Jul 7 | [Apply ↗](https://careers.medpace.com/jobs/12845?icims=1) |
@@ -218,11 +223,10 @@ _3 active listings_
 
 <h2 id="other">📁 Other</h2>
 
-_12 active listings_
+_11 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Johnson & Johnson | Data Operations & Analytics Fall Co - op | Somerset, NJ | Co-op | Aug 27 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Somerset-New-Jersey-United-States-of-America/Data-Operations---Analytics-Spring-Co-op_R-091978) |
 | Primetals Technologies | IT Data & Analytics Intern - Asset Demand & Procurement 🆕 | Lake Mary, FL | Internship | Aug 25 | [Apply ↗](https://mhicareers.com/job/Lake-Mary-IT-Data-&-Analytics-Intern-FL-32746/1429739133/?ats=successfactors) |
 | The Walt Disney Company | Transportation Logistics & Analytics Intern - Spring 2027 | Lake Buena Vista, FL | Spring Internship | Aug 24 | [Apply ↗](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Spring-2027_10158253-1) |
 | Springs Window Fashions | Dealer Business Operations & Analytics Intern - Summer 2027 | Middleton, WI | Summer Internship | Aug 22 | [Apply ↗](https://careers-springswindowfashions.icims.com/jobs/12886/job?mobile=true&needsRedirect=false) |
