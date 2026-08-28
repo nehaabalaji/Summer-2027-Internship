@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **153** active jobs
+📊 **156** active jobs
 🏢 **82** companies
-🆕 **8** added in the last 24 hours
+🆕 **12** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **August 28, 2026**
 
@@ -161,10 +161,11 @@ _4 active listings_
 
 <h2 id="logistics">🚚 Logistics</h2>
 
-_2 active listings_
+_3 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Magna | Logistics Intern 🆕 | Muncie, IN | Internship | Aug 28 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Muncie-Indiana-US/Logistics-Intern_R00258647) |
 | S&B Engineers and Constructors | Integrated Logistics and Support Intern | New Orleans, LA | Internship | Aug 24 | [Apply ↗](https://taicareers-sbec.icims.com/jobs/14454/job?mobile=true&needsRedirect=false) |
 | Tyson Foods | Fleet Operations Year Round Internship | Springdale, AR | Internship | Aug 6 | [Apply ↗](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Springdale-AR-Terminal-Office---Springdale-Arkansas/Fleet-Operations-Year-Round-Internship_R0477340-3) |
 
@@ -174,6 +175,7 @@ _27 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Johns Hopkins Applied Physics Laboratory | Modeler and Data Analyst New Grad 🆕 | Laurel, MD | New Graduate | Aug 28 | [Apply ↗](https://careers.jhuapl.edu/jobs/59858?icims=1) |
 | Iberdrola Group | Technology - Cyber & Data Intern 🆕 | Boston, MA | Internship | Aug 28 | [Apply ↗](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Technology--Cyber---Data-Internship-Program_R-32747) |
 | Clyde Companies | Business Intelligence Intern | Orem, UT | Internship | Aug 27 | [Apply ↗](https://careers.clydeinc.com/jobs/34757?icims=1) |
 | MKS Instruments | Business Intelligence - Data Analytics Intern 🆕 | Andover, MA | Internship | Aug 26 | [Apply ↗](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657) |
@@ -193,7 +195,6 @@ _27 active listings_
 | KeyBank | Data Intern - Key Technology & Services - Data Track | Brooklyn, OH | Internship | Aug 17 | [Apply ↗](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385) |
 | American Fidelity | Data Intern | Oklahoma City, OK | Internship | Aug 17 | [Apply ↗](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Data-Internship--Okalhoma-City-Local-Only-_JR1024) |
 | Vertiv | Planning Analytics Intern - Summer 2027 | Westerville, OH | Summer Internship | Aug 14 | [Apply ↗](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279236) |
-| Arlington County VA | Business Intelligence Intern | Arlington County, VA | Internship | Aug 14 | [Apply ↗](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1727) |
 | GCI | Telecommunications Intern - Computer Science - Data Analytics | Anchorage, AK | Internship | Aug 7 | [Apply ↗](https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003640) |
 | Brio Water Technology | AI Automation & Business Analytics Intern - Rotational Program | Glendale, CA | Internship | Jul 31 | [Apply ↗](https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb) |
 | Meds | Entry Level Data Analyst | Austin, TX | Entry Level | Jul 27 | [Apply ↗](https://jobs.lever.co/meds/366be0ea-89b9-4193-a486-a92f3ee4d1d6/apply) |
@@ -213,20 +214,22 @@ _2 active listings_
 
 <h2 id="manufacturing">🏭 Manufacturing</h2>
 
-_3 active listings_
+_4 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Magna | Manufacturing Engineering Intern - Summer 2026 | Plymouth, MI | Summer Internship | Aug 30 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Plymouth-Michigan-US/Manufacturing-Engineering-Intern--Summer-2026_R00225565) |
 | Magna | Manufacturing Engineering (Co - op Student) | Milton, CA | Co-op | Aug 30 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Milton-Ontario-CA/Manufacturing-Engineering--Co-op-Student-_R00250454) |
+| Johnson & Johnson | Process Engineering Co - op 🆕 | Irving, TX | Co-op | Aug 28 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Irving-Texas-United-States-of-America/Process-Engineering-Co-op_R-095316) |
 | Boeing | Entry level Industrial Engineer 🆕 | USA - Mesa, AZ | Entry Level | Aug 26 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Entry-level-Industrial-Engineer_JR2026512616-1) |
 
 <h2 id="other">📁 Other</h2>
 
-_11 active listings_
+_12 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| SpaceX | New Graduate Engineer, Manufacturing (Starshield) 🆕 | Hawthorne, CA | New Graduate | Aug 28 | [Apply ↗](https://boards.greenhouse.io/spacex/jobs/8752547002?gh_jid=8752547002) |
 | Primetals Technologies | IT Data & Analytics Intern - Asset Demand & Procurement 🆕 | Lake Mary, FL | Internship | Aug 25 | [Apply ↗](https://mhicareers.com/job/Lake-Mary-IT-Data-&-Analytics-Intern-FL-32746/1429739133/?ats=successfactors) |
 | The Walt Disney Company | Transportation Logistics & Analytics Intern - Spring 2027 | Lake Buena Vista, FL | Spring Internship | Aug 24 | [Apply ↗](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Spring-2027_10158253-1) |
 | Springs Window Fashions | Dealer Business Operations & Analytics Intern - Summer 2027 | Middleton, WI | Summer Internship | Aug 22 | [Apply ↗](https://careers-springswindowfashions.icims.com/jobs/12886/job?mobile=true&needsRedirect=false) |
