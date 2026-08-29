@@ -4286,7 +4286,7 @@
     "active": true,
     "last_verified": "2026-08-29",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
