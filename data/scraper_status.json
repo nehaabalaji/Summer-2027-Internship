@@ -1,311 +1,311 @@
 {
   "sources": {
     "amazon": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 173,
       "jobs_raw": 203
     },
     "doordash": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 468
     },
     "instacart": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 123
     },
     "airbnb": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 171
     },
     "stripe": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 4,
-      "jobs_raw": 575
+      "jobs_raw": 574
     },
     "lyft": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 169
     },
     "hubspot": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 144
     },
     "databricks": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 4,
-      "jobs_raw": 858
+      "jobs_raw": 857
     },
     "palantir": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 72,
       "jobs_raw": 307
     },
     "simplify_summer": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 1057,
       "jobs_raw": 1057
     },
     "simplify_newgrad": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
-      "jobs_found": 1192,
-      "jobs_raw": 1192
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
+      "jobs_found": 1195,
+      "jobs_raw": 1195
     },
     "target": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 119,
       "jobs_raw": 119
     },
     "nike": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 0
     },
     "gm": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
-      "jobs_found": 12,
-      "jobs_raw": 12
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
+      "jobs_found": 13,
+      "jobs_raw": 13
     },
     "boeing": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 30,
       "jobs_raw": 30
     },
     "shell": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 3,
       "jobs_raw": 3
     },
     "intel": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 20,
       "jobs_raw": 20
     },
     "3m": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 1,
       "jobs_raw": 1
     },
     "abbott": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 22,
       "jobs_raw": 22
     },
     "chrobinson": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 2,
       "jobs_raw": 2
     },
     "tyson": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 7,
       "jobs_raw": 7
     },
     "generalmills": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 14,
       "jobs_raw": 14
     },
     "flexport": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 5,
       "jobs_raw": 165
     },
     "spacex": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 46,
-      "jobs_raw": 2229
+      "jobs_raw": 2230
     },
     "nuro": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 2,
       "jobs_raw": 101
     },
     "faire": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 67
     },
     "stitchfix": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 12
     },
     "figureai": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 4,
       "jobs_raw": 126
     },
     "disney": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 2
     },
     "riotgames": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 1,
       "jobs_raw": 167
     },
     "openai_ashby": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 758
     },
     "notion_ashby": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 4,
       "jobs_raw": 133
     },
     "discord": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 51
     },
     "cloudflare": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 9,
       "jobs_raw": 309
     },
     "asana": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 123
     },
     "figma": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 1,
       "jobs_raw": 163
     },
     "pinterest": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 209
     },
     "brex": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 294
     },
     "plaid_lever": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "error",
       "error": "HTTP 404 for https://api.lever.co/v0/postings/plaid",
       "last_successful_run": "2026-08-27T06:23:13+00:00",
@@ -313,146 +313,146 @@
       "jobs_raw": 0
     },
     "plaid_ashby": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 102
     },
     "linkedin": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 53
     },
     "linkedin_lever": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 23
     },
     "lucidmotors": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 3,
       "jobs_raw": 332
     },
     "waymo": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 2,
-      "jobs_raw": 352
+      "jobs_raw": 350
     },
     "zoox_lever": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 246
     },
     "redwoodmaterials": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 144
     },
     "nike_nke": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 0
     },
     "cadence": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 27,
       "jobs_raw": 27
     },
     "paypal": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 0
     },
     "adobe": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 1,
       "jobs_raw": 1
     },
     "cisco": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 7,
       "jobs_raw": 7
     },
     "magna": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 42,
       "jobs_raw": 42
     },
     "cat": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 25,
       "jobs_raw": 25
     },
     "dell_External": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 0,
       "jobs_raw": 0
     },
     "jj": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 17,
       "jobs_raw": 17
     },
     "unilever_Unilever_Experienced_Professionals": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 2,
       "jobs_raw": 2
     },
     "jbhunt": {
-      "last_attempted_run": "2026-08-29T20:14:06+00:00",
+      "last_attempted_run": "2026-08-30T02:47:11+00:00",
       "status": "ok",
       "error": null,
-      "last_successful_run": "2026-08-29T20:14:06+00:00",
+      "last_successful_run": "2026-08-30T02:47:11+00:00",
       "jobs_found": 21,
       "jobs_raw": 21
     }
