@@ -1577,10 +1577,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-09-01",
     "needs_review": true,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -3626,7 +3626,7 @@
     "active": true,
     "last_verified": "2026-09-01",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -4283,10 +4283,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-09-01",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -4872,7 +4872,7 @@
     "source": "J&J Careers (Workday)",
     "source_key": "jj",
     "source_job_id": "R-091978",
-    "description": "",
+    "description": "AI/ML/Data",
     "salary_min": null,
     "salary_max": null,
     "salary_currency": null,
@@ -5870,7 +5870,7 @@
     "active": true,
     "last_verified": "2026-09-01",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
