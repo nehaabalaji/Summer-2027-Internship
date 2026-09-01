@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **186** active jobs
-🏢 **92** companies
-🆕 **36** added in the last 24 hours
+📊 **191** active jobs
+🏢 **95** companies
+🆕 **43** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **September 1, 2026**
 
@@ -25,7 +25,7 @@ Find a role, click **Apply ↗**, and land on the employer's original applicatio
 
 <h2 id="supply-chain">📦 Supply Chain</h2>
 
-_9 active listings_
+_8 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -33,7 +33,6 @@ _9 active listings_
 | Johnson & Johnson | Electrophysiology Supply Chain (Engineers) Intern 🆕 | Irvine, CA | Internship | Aug 31 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Irvine-California-United-States-of-America/Electrophysiology-Supply-Chain--Engineers--Intern_R-094578) |
 | Johnson & Johnson | Electrophysiology Supply Chain (Business) Intern 🆕 | Irvine, CA | Internship | Aug 31 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Irvine-California-United-States-of-America/Electrophysiology-Supply-Chain-Intern_R-094580-1) |
 | Northwood Space | Supply Chain Data & Analytics Intern | Torrance, CA | Internship | Aug 29 | [Apply ↗](https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true) |
-| Jabil | Supply Chain Data Analyst Intern | Tampa, FL | Internship | Aug 28 | [Apply ↗](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Supply-Chain-Data-Analyst-Intern_J2462080) |
 | Motorola | Supply Chain Data Analyst Intern | Chicago, IL | Internship | Aug 11 | [Apply ↗](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489) |
 | ITT | Trade & Supply Chain Data Analytics Co - op | Orchard Park, NY | Co-op | Aug 4 | [Apply ↗](https://careersenus-itt-inc.icims.com/jobs/17342/job?mobile=true&needsRedirect=false) |
 | TikTok | Data Science Intern - Tiktok Shop - Supply Chain & Logistics | Seattle, WA | Internship | May 28 | [Apply ↗](https://lifeattiktok.com/search/7644719084681234741) |
@@ -41,11 +40,12 @@ _9 active listings_
 
 <h2 id="operations">⚙️ Operations</h2>
 
-_23 active listings_
+_24 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Magna | Manufacturing Process Improvement Intern - Summer 2026 | Plymouth, MI | Summer Internship | Sep 30 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Plymouth-Michigan-US/Manufacturing-Process-Improvement-Intern--Summer-2026_R00225569) |
+| United Airlines | Airport Operations Intern - Safety Strategy 🆕 | Chicago, IL | Internship | Sep 1 | [Apply ↗](https://careers.united.com/us/en/job/WHQ00026456) |
 | GE Vernova | Operations Intern - Customer Data Management 🆕 | Schenectady, NY | Internship | Aug 31 | [Apply ↗](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Schenectady/GE-Vernova-Operations-Intern---Customer-Data-Management-2027_R5050478-2) |
 | L3Harris Technologies | Engineering Operations Intern | Waco, TX | Internship | Aug 27 | [Apply ↗](https://jobs.l3harris.com/job/Waco-Intern,-Engineering-Operations-TX-76705/1423786200/?ats=successfactors) |
 | Brunswick | Advanced Manufacturing - Operations Analytics Engineering Co - op - Global Operations Excellence | Fond du Lac, WI | Co-op | Aug 25 | [Apply ↗](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238) |
@@ -71,13 +71,14 @@ _23 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_98 active listings_
+_99 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Vanguard | Technical Product Manager Intern 🆕 | Dallas, TX | Internship | Sep 1 | [Apply ↗](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technical-Product-Manager_181969) |
 | Travelers | Product Management Intern - Pmdp 🆕 | Hartford, CT | Internship | Sep 1 | [Apply ↗](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Product-Management-Development-Program--PMDP--Intern_R-52317) |
+| Tencent | Communications Platform as a Service Product Management Intern 🆕 | Palo Alto, CA | Internship | Sep 1 | [Apply ↗](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019) |
 | Machina Labs | Product Manager Intern 🆕 | Chatsworth, LA | Internship | Sep 1 | [Apply ↗](https://jobs.lever.co/MachinaLabs/c54d0857-09f3-479c-8d8d-cfa55d358be6/apply) |
-| IXL Learning | Associate Product Manager New Grad | San Mateo, CA | New Graduate | Sep 1 | [Apply ↗](https://www.ixl.com/company/jobs?gh_jid=8765765002) |
 | Emerson Electric | Product Operations Engineer Intern 🆕 | Shakopee, MN | Internship | Sep 1 | [Apply ↗](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009540) |
 | Emerson Electric | Product Management Engineering Intern 🆕 | Houston, TX | Internship | Sep 1 | [Apply ↗](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009499) |
 | Emerson Electric | Product Management Engineering Intern 🆕 | Shakopee, MN | Internship | Sep 1 | [Apply ↗](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009634) |
@@ -196,12 +197,16 @@ _2 active listings_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_34 active listings_
+_38 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Vermeer | Data Analytics and Corporate Strategy Intern 🆕 | Pella, IA | Internship | Sep 1 | [Apply ↗](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Data-Analytics-and-Corporate-Strategy-Intern_REQ-22176) |
 | Travelers | Business Insights & Analytics Intern - BI&A LDP 🆕 | Hartford, CT | Internship | Sep 1 | [Apply ↗](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304) |
+| Post Holdings | Business Intelligence Intern - Summer 2027 🆕 | Lakeville, MN | Summer Internship | Sep 1 | [Apply ↗](https://jobs.postholdings.com/jobs/31924?icims=1) |
+| L3Harris Technologies | IT Business Analyst Intern 🆕 | Rochester, NY | Internship | Sep 1 | [Apply ↗](https://jobs.l3harris.com/job/Rochester-IT-Business-Analysis-Intern-NY-14606/1425549200/?ats=successfactors) |
 | Johns Hopkins Applied Physics Laboratory | Sensor Systems - Data Analytics New Grad 🆕 | Laurel, MD | New Graduate | Sep 1 | [Apply ↗](https://careers.jhuapl.edu/jobs/59770?icims=1) |
+| Johns Hopkins Applied Physics Laboratory | Data Analyst New Grad - Engagement Optimization 🆕 | Laurel, MD | New Graduate | Sep 1 | [Apply ↗](https://careers.jhuapl.edu/jobs/59507?icims=1) |
 | Emerson Electric | Data Analytics Co - op 🆕 | Marshalltown, IA | Co-op | Sep 1 | [Apply ↗](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008130) |
 | Emerson Electric | Data Analyst Co - op 🆕 | Marshalltown, IA | Co-op | Sep 1 | [Apply ↗](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009200) |
 | Edison International | Summer Internship - Data Analytics - Science - Applied Math 🆕 | Santa Ana, CA | Summer Internship | Sep 1 | [Apply ↗](https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors) |
