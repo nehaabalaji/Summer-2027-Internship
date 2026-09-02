@@ -6,7 +6,7 @@ Find a role, click **Apply ↗**, and land on the employer's original applicatio
 
 <!-- JOBS:START -->
 📊 **198** active jobs
-🏢 **99** companies
+🏢 **98** companies
 🆕 **35** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **September 2, 2026**
@@ -41,11 +41,12 @@ _9 active listings_
 
 <h2 id="operations">⚙️ Operations</h2>
 
-_24 active listings_
+_25 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Magna | Manufacturing Process Improvement Intern - Summer 2026 | Plymouth, MI | Summer Internship | Sep 30 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Plymouth-Michigan-US/Manufacturing-Process-Improvement-Intern--Summer-2026_R00225569) |
+| Johnson & Johnson | Operational Excellence Co - Op 🆕 | Wilson, NC | Co-op | Sep 2 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Wilson-North-Carolina-United-States-of-America/Operational-Excellence-Co-Op_R-095579) |
 | Fenwick & West | Forward Deployed Operations Intern 🆕 | Boston, MA | Internship | Sep 1 | [Apply ↗](https://fenwick.wd1.myworkdayjobs.com/Fenwick_External_Careers/job/Silicon-Valley/Forward-Deployed-Operations-Intern_R2964) |
 | GE Vernova | Operations Intern - Customer Data Management 🆕 | Schenectady, NY | Internship | Aug 31 | [Apply ↗](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Schenectady/GE-Vernova-Operations-Intern---Customer-Data-Management-2027_R5050478-2) |
 | L3Harris Technologies | Engineering Operations Intern | Waco, TX | Internship | Aug 27 | [Apply ↗](https://jobs.l3harris.com/job/Waco-Intern,-Engineering-Operations-TX-76705/1423786200/?ats=successfactors) |
@@ -200,12 +201,11 @@ _2 active listings_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_38 active listings_
+_37 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | STAG | Operations Research Analyst Intern - SkillBridge 🆕 | Hampton, VA | Internship | Sep 2 | [Apply ↗](https://ats.rippling.com/stag-careers/jobs/460b168c-070a-4132-b874-6e5c9323ccaa) |
-| Vermeer | Data Analytics and Corporate Strategy Intern 🆕 | Pella, IA | Internship | Sep 1 | [Apply ↗](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Data-Analytics-and-Corporate-Strategy-Intern_REQ-22176) |
 | Travelers | Business Insights & Analytics Intern - BI&A LDP 🆕 | Hartford, CT | Internship | Sep 1 | [Apply ↗](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304) |
 | Post Holdings | Business Intelligence Intern - Summer 2027 🆕 | Lakeville, MN | Summer Internship | Sep 1 | [Apply ↗](https://jobs.postholdings.com/jobs/31924?icims=1) |
 | L3Harris Technologies | IT Business Analyst Intern 🆕 | Rochester, NY | Internship | Sep 1 | [Apply ↗](https://jobs.l3harris.com/job/Rochester-IT-Business-Analysis-Intern-NY-14606/1425549200/?ats=successfactors) |
