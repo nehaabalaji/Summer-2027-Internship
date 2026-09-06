@@ -5,8 +5,8 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **225** active jobs
-🏢 **104** companies
+📊 **226** active jobs
+🏢 **105** companies
 🆕 **4** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **September 6, 2026**
@@ -70,7 +70,7 @@ _26 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_111 active listings_
+_112 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -126,6 +126,7 @@ _111 active listings_
 | Nationwide | State Product Analyst Intern - Personal Lines | Des Moines, IA | Internship | Aug 21 | [Apply ↗](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-State-Product-Analyst-Intern---Personal-Lines_099794) |
 | Amazon | Product Manager Technical (PMT) Intern - Summer 2027 | Seattle, WA | Summer Internship | Aug 20 | [Apply ↗](https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) |
 | IDeaS | Associate Product Manager - Commercial Capabilities | Bloomington, MN | Unknown | Aug 19 | [Apply ↗](https://ideas-sas.icims.com/jobs/42560/job?mobile=true&needsRedirect=false) |
+| Goldman Sachs | AWM Product Management Analyst Intern | Dallas, TX | Internship | Aug 19 | [Apply ↗](https://higher.gs.com/roles/171513?type=students) |
 | TikTok | Product Manager Intern - Business Integrity | Seattle, WA | Internship | Aug 18 | [Apply ↗](https://lifeattiktok.com/search/7673895973460576517) |
 | PIMCO | Product Strategy Analyst Intern 🆕 | Newport Beach, CA | Internship | Aug 17 | [Apply ↗](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626) |
 | TikTok | Product Manager Intern - Scaled Growth | San Jose, CA | Internship | Aug 14 | [Apply ↗](https://lifeattiktok.com/search/7673559305519794437) |
