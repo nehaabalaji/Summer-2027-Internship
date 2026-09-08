@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **240** active jobs
-🏢 **112** companies
-🆕 **15** added in the last 24 hours
+📊 **244** active jobs
+🏢 **113** companies
+🆕 **19** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **September 8, 2026**
 
@@ -25,11 +25,12 @@ Find a role, click **Apply ↗**, and land on the employer's original applicatio
 
 <h2 id="supply-chain">📦 Supply Chain</h2>
 
-_7 active listings_
+_8 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Magna | Supply Chain Internship | Highland Park, MI | Internship | Sep 30 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Highland-Park-Michigan-US/Supply-Chain-Internship_R00242299) |
+| Johnson & Johnson | Kentucky Distribution Center Summer 2027 Intern 🆕 | Shepherdsville, KY | Summer Internship | Sep 8 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Shepherdsville-Kentucky-United-States-of-America/Kentucky-Distribution-Center-Summer-2027-Intern_R-096263) |
 | General Motors | TRACK: Entry - Level - Global Purchasing & Supply Chain (GPSC) Rotational Program 🆕 | Warren, MI | Entry Level | Sep 7 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/TRACK--Entry-Level---Global-Purchasing---Supply-Chain--GPSC--Rotational-Program_JR-202617450) |
 | General Motors | 2027 Summer Intern - Global Purchasing and Supply Chain 🆕 | Warren, MI | Summer Internship | Sep 7 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Purchasing-and-Supply-Chain_JR-202617448) |
 | Johnson & Johnson | Supply Chain Operations Co - Op | Santa Clara, CA | Co-op | Sep 2 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Supply-Chain-Operations-Co-Op_R-095767) |
@@ -73,10 +74,12 @@ _27 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_116 active listings_
+_118 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| ID.me | Product Intern 🆕 | Mountain View, CA | Internship | Sep 8 | [Apply ↗](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003) |
+| ID.me | Associate Product Manager New Grad 🆕 | Mountain View, CA | New Graduate | Sep 8 | [Apply ↗](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986694003) |
 | Dick's Sporting Goods | Product Management Intern - Corporate Internship 🆕 | Pittsburgh, PA | Internship | Sep 8 | [Apply ↗](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1) |
 | Cox | Product Management Intern - Summer 2027 🆕 | Long Island, NY | Summer Internship | Sep 8 | [Apply ↗](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Product-Management-Intern---Summer-2027--North-Hills--NY-_R202682185) |
 | Cox | Product Management Intern - Summer 2027 🆕 | Atlanta, GA | Summer Internship | Sep 8 | [Apply ↗](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174) |
@@ -214,11 +217,12 @@ _2 active listings_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_45 active listings_
+_46 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Merck | Business Intelligence Intern - Research Lab 🆕 | North Wales, PA | Internship | Sep 8 | [Apply ↗](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Business-Intelligence---Intern_R412411) |
+| Dick's Sporting Goods | Data Analytics & Engineering Intern 🆕 | Pittsburgh, PA | Internship | Sep 8 | [Apply ↗](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Data-Analytics---Engineering---Summer-2027-Internship_202608778-1) |
 | Xcel Energy | Grid Data Intern 🆕 | Minneapolis, MN | Internship | Sep 7 | [Apply ↗](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Grid-Data-Intern---MN_JR115742-1) |
 | Xcel Energy | Gas Data Intern 🆕 | Denver, CO | Internship | Sep 7 | [Apply ↗](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Gas-Data-Intern--CO_JR116314-1) |
 | Walmart | Transportation Data Analyst 2 Intern - Intern Conversion 🆕 | Bentonville, AR | Internship | Sep 7 | [Apply ↗](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Change-Building-AR-Bentonville-Home-Office/XMLNAME-2026-Intern-Conversion--2027-Transportation-Data-Analyst-II_R-2630083) |
