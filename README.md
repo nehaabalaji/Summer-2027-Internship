@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **262** active jobs
+📊 **265** active jobs
 🏢 **120** companies
-🆕 **36** added in the last 24 hours
+🆕 **39** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **September 9, 2026**
 
@@ -286,21 +286,24 @@ _57 active listings_
 
 <h2 id="project--program-management">📋 Project & Program Management</h2>
 
-_4 active listings_
+_6 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Tyson Foods | PMO Tools Year Round Intern | Off-Site Employees (Corp Use) - Springdale, AR | Internship | Sep 30 | [Apply ↗](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Off-Site-Employees-Corp-Use---Springdale-Arkansas/PMO-Tools-Year-Round-Intern_R0476514-1) |
 | Boeing | Boeing Summer 2027 Internship Program (Paid) - Program Management | USA - Arlington, VA | Summer Internship | Sep 30 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Program-Management_JR2026521026-1) |
+| Amazon | Startup Project Manager Intern Spring and Summer 2027 (Bellevue, WA), GEMS NA Startup 🆕 | Bellevue, WA | Summer Internship | Sep 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10534582/startup-project-manager-intern-spring-and-summer-2027-bellevue-wa-gems-na-startup) |
+| Amazon | Startup Project Manager (Execution) Intern Spring and Summer 2027 (Bellevue, WA), GEMS NA Startup 🆕 | Cleburne, TX | Summer Internship | Sep 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10534584/startup-project-manager-execution-intern-spring-and-summer-2027-bellevue-wa-gems-na-startup) |
 | Mary Free Bed Rehabilitation Hospital | IT Intern - Project Management | Grand Rapids, MI | Internship | Jul 13 | [Apply ↗](https://maryfreebed.wd12.myworkdayjobs.com/mfb/job/Grand-Rapids-MI/IT-Intern---Project-Management_JB102944) |
 | Oracle | Project Manager Intern | Seattle, WA | Internship | May 21 | [Apply ↗](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334344) |
 
 <h2 id="manufacturing">🏭 Manufacturing</h2>
 
-_7 active listings_
+_8 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| General Motors | 2027 Summer Intern - Manufacturing Engineering - Global Artisan Innovation Center 🆕 | Warren, MI | Summer Internship | Sep 9 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering---Global-Artisan-Innovation-Center_JR-202619920) |
 | Johnson & Johnson | Production Planning Co - Op Spring 2027 | Warsaw, IN | Co-op | Sep 4 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Warsaw-Indiana-United-States-of-America/Production-Planning-Co-Op-Spring-2027_R-096903) |
 | Hewlett Packard | Quality Engineer Intern | Spring, TX | Internship | Sep 2 | [Apply ↗](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Quality-Engineering-Intern_UNI4756-1) |
 | General Motors | 2027 Summer Intern - Manufacturing Engineering - Body Center | Warren, MI | Summer Internship | Sep 2 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering---Body-Center_JR-202619475) |
