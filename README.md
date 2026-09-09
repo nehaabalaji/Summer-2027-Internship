@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **254** active jobs
-🏢 **118** companies
-🆕 **28** added in the last 24 hours
+📊 **262** active jobs
+🏢 **120** companies
+🆕 **36** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **September 9, 2026**
 
@@ -42,13 +42,12 @@ _10 active listings_
 
 <h2 id="operations">⚙️ Operations</h2>
 
-_27 active listings_
+_26 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Boeing | Boeing Summer 2027 Internship Program (Paid) - Business Operations | USA - Everett, WA | Summer Internship | Sep 30 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1) |
 | Philips | Service Contracts Lifecycle Operations Intern 🆕 | Nashville, TN | Internship | Sep 8 | [Apply ↗](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern--Service-Contracts-Lifecycle-Operations--Nashville--TN-Summer-2027_591619) |
-| Johnson & Johnson | Operational Excellence Co - Op | Wilson, NC | Co-op | Sep 3 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Wilson-North-Carolina-United-States-of-America/Operational-Excellence-Co-Op_R-095579) |
 | Xcel Energy | Gas & Electric Design Analytics and Process Improvement Intern - MN | Minneapolis, MN | Internship | Sep 2 | [Apply ↗](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Gas---Electric-Design-Analytics-and-Process-Improvement-Intern---MN_JR115641) |
 | Waymo | 2027 Summer Intern, MBA, Operations Planning | San Francisco, CA | Summer Internship | Sep 1 | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8165014) |
 | First National Bank | Enterprise Operations Intern - Multiple Teams | Pittsburgh, PA | Internship | Sep 1 | [Apply ↗](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Operations-Intern_2026-01839) |
@@ -223,11 +222,18 @@ _2 active listings_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_48 active listings_
+_57 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | TikTok | Global Customer Experience Business Analytics Intern 🆕 | San Jose, CA | Internship | Sep 9 | [Apply ↗](https://lifeattiktok.com/search/7681633701767612677) |
+| SpawGlass | Data Intern 🆕 | Houston, TX | Internship | Sep 9 | [Apply ↗](https://jobs.lever.co/spawglass/e93076f9-bbd1-47b1-b96e-ada63b12bd3b/apply) |
+| Navy Federal | Summer Associate Intern - Business Intelligence & Data Analytics 🆕 | Winchester, VA | Summer Internship | Sep 9 | [Apply ↗](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32107) |
+| Navy Federal | Business Intelligence Analyst Summer Associate Intern 🆕 | Vienna, VA | Summer Internship | Sep 9 | [Apply ↗](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32330) |
+| Navy Federal | Business Intelligence Analyst Intern - Consumer Lending 🆕 | Pensacola, FL | Internship | Sep 9 | [Apply ↗](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32321) |
+| Navy Federal | Business Intelligence Analyst Intern 🆕 | Pensacola, FL | Internship | Sep 9 | [Apply ↗](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32262) |
+| Navy Federal | Business Intelligence Analyst Intern 🆕 | Vienna, VA | Internship | Sep 9 | [Apply ↗](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32290) |
+| Navy Federal | Business Intelligence Analyst Intern 🆕 | Winchester, VA | Internship | Sep 9 | [Apply ↗](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32031) |
 | U.S. Bank | Business Analytics Intern 🆕 | Minneapolis, MN | Internship | Sep 8 | [Apply ↗](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Business-Analytics-Summer-Intern_2026-0025907) |
 | Protective Life | Business Analytics Intern 🆕 | Birmingham, AL | Internship | Sep 8 | [Apply ↗](https://jobs.lever.co/protective/40354575-2b06-42cd-93fb-f9ea82bdec7c/apply) |
 | Merck | Business Intelligence Intern - Research Lab 🆕 | North Wales, PA | Internship | Sep 8 | [Apply ↗](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Business-Intelligence---Intern_R412411) |
@@ -237,6 +243,7 @@ _48 active listings_
 | Walmart | Transportation Data Analyst 2 Intern - Intern Conversion 🆕 | Bentonville, AR | Internship | Sep 7 | [Apply ↗](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Change-Building-AR-Bentonville-Home-Office/XMLNAME-2026-Intern-Conversion--2027-Transportation-Data-Analyst-II_R-2630083) |
 | Tokyo Electron | Business Intelligence Analyst Intern 🆕 | Austin, TX | Internship | Sep 7 | [Apply ↗](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Business-Intelligence-Analyst-Summer-2027-Intern_R26-01504) |
 | NXP Semiconductors | Data Analytics Engineer Intern - Summer 2027 🆕 | Austin, TX | Summer Internship | Sep 7 | [Apply ↗](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Data-Analytics-Engineer-Intern---Summer-2027_R-10065538) |
+| Hewlett Packard | Business Intelligence and Infrastructure Analyst Intern 🆕 | Vancouver, WA | Internship | Sep 7 | [Apply ↗](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1) |
 | Loram | Enterprise Power BI Reporting Intern | Hamel, MN | Internship | Sep 4 | [Apply ↗](https://jobs.smartrecruiters.com/Loram1/3743990015086465) |
 | Johns Hopkins Applied Physics Laboratory | Sensor Systems Intern - Data Analytics | Laurel, MD | Internship | Sep 4 | [Apply ↗](https://careers.jhuapl.edu/jobs/59958?icims=1) |
 | AArete | Business Analytics Intern - Summer 2027 | Chicago, IL | Summer Internship | Sep 4 | [Apply ↗](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false) |
@@ -260,6 +267,7 @@ _48 active listings_
 | Freddie Mac | Single - Family Data Intern | McLean, VA | Internship | Aug 24 | [Apply ↗](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Data-Intern--Summer-2027_JR17545) |
 | Audax Group | Data Analyst Co - op - Business Solutions | Boston, MA | Co-op | Aug 24 | [Apply ↗](https://job-boards.greenhouse.io/audaxgroup/jobs/4722880005) |
 | Springs Window Fashions | Data Analyst Intern - Consumer Business Unit | Middleton, WI | Internship | Aug 22 | [Apply ↗](https://careers-springswindowfashions.icims.com/jobs/12874/job?mobile=true&needsRedirect=false) |
+| LPL Financial Holdings | Data Analytics New Grad - Multiple Teams | Fort Mill, SC | New Graduate | Aug 21 | [Apply ↗](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Foundational-Analyst-Rotational-Program--FAR----Data-Analytics_R-052057-1) |
 | National Software Management | Entry Level Data Analyst - Business Analyst | Jersey City, NJ | Entry Level | Aug 20 | [Apply ↗](https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000144639269) |
 | Regions Bank | Technology, Operations, Digital, and Data Analytics Intern | Hoover, AL | Internship | Aug 19 | [Apply ↗](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Analytics_R105426) |
 | Allegheny County | Business Analytics Intern | Pittsburgh, PA | Internship | Aug 19 | [Apply ↗](https://alleghenycounty.bamboohr.com/careers/663/) |
