@@ -5,8 +5,8 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **300** active jobs
-🏢 **143** companies
+📊 **299** active jobs
+🏢 **142** companies
 🆕 **33** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **September 12, 2026**
@@ -75,7 +75,7 @@ _27 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_137 active listings_
+_136 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -92,7 +92,6 @@ _137 active listings_
 | L3Harris Technologies | Product Management Intern 🆕 | Lynchburg, VA | Internship | Sep 10 | [Apply ↗](https://jobs.l3harris.com/job/Lynchburg-Product-Management-Intern-VA-24501-6952/1414571100/?ats=successfactors) |
 | ISN Software | Product Strategy Intern 🆕 | Dallas, TX | Internship | Sep 10 | [Apply ↗](https://isnetworld.com/en/about/careers/jobs?gh_jid=6188490004) |
 | Hudl | Product Management Intern 🆕 | Lincoln, NE | Internship | Sep 10 | [Apply ↗](https://job-boards.greenhouse.io/hudl/jobs/8155103) |
-| Charles Schwab | Product Management Intern - Thinkorswim 🆕 | Austin, TX | Internship | Sep 10 | [Apply ↗](https://career-schwab.icims.com/jobs/126266/job?mobile=true&needsRedirect=false) |
 | Xcel Energy | Residential Energy Product Strategy Intern 🆕 | Denver, CO | Internship | Sep 9 | [Apply ↗](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Residential-Energy-Product-Strategy-Intern--CO_JR115817-1) |
 | USAA | Digital Technical Product Management Intern 🆕 | San Antonio, TX | Internship | Sep 9 | [Apply ↗](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Digital-Technical-Product-Management-Intern_R0120759) |
 | TikTok | Product Manager Intern | San Jose, CA | Internship | Sep 9 | [Apply ↗](https://lifeattiktok.com/search/7649673091993454853) |
