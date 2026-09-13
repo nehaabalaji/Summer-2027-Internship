@@ -75,7 +75,7 @@ _27 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_136 active listings_
+_137 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -159,6 +159,7 @@ _136 active listings_
 | Nationwide | State Product Analyst Intern - Personal Lines | Des Moines, IA | Internship | Aug 21 | [Apply ↗](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-State-Product-Analyst-Intern---Personal-Lines_099794) |
 | Amazon | Product Manager Technical (PMT) Intern - Summer 2027 | Seattle, WA | Summer Internship | Aug 20 | [Apply ↗](https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) |
 | IDeaS | Associate Product Manager - Commercial Capabilities | Bloomington, MN | Unknown | Aug 19 | [Apply ↗](https://ideas-sas.icims.com/jobs/42560/job?mobile=true&needsRedirect=false) |
+| Goldman Sachs | AWM Product Management Analyst Intern | Dallas, TX | Internship | Aug 19 | [Apply ↗](https://higher.gs.com/roles/171513?type=students) |
 | TikTok | Product Manager Intern - Business Integrity | Seattle, WA | Internship | Aug 18 | [Apply ↗](https://lifeattiktok.com/search/7673895973460576517) |
 | PIMCO | Product Strategy Analyst Intern | Newport Beach, CA | Internship | Aug 17 | [Apply ↗](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626) |
 | TikTok | Product Manager Intern - Scaled Growth | San Jose, CA | Internship | Aug 14 | [Apply ↗](https://lifeattiktok.com/search/7673559305519794437) |
@@ -235,7 +236,7 @@ _1 active listing_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_78 active listings_
+_77 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -294,7 +295,6 @@ _78 active listings_
 | FGS Global | Research & Insights Intern | Washington, DC | Internship | Aug 31 | [Apply ↗](https://job-boards.greenhouse.io/fgsglobal/jobs/4805006007) |
 | National Software Management | Entry Level Data Analyst - Business Analyst | Atlanta, GA | Entry Level | Aug 28 | [Apply ↗](https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000146255004) |
 | Vertiv | Business Analytics Intern - Summer 2027 | Westerville, OH | Summer Internship | Aug 27 | [Apply ↗](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278794) |
-| MKS Instruments | Business Intelligence - Data Analytics Intern | Andover, MA | Internship | Aug 26 | [Apply ↗](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657) |
 | Brunswick | Power BI - Ops Analytics Co - op | Fond du Lac, WI | Co-op | Aug 25 | [Apply ↗](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Power-BI-Ops-Analytics-Co-op_JR-051236) |
 | Procter & Gamble | Analytics & Insights Intern - Advanced Analytics | Cincinnati, OH | Internship | Aug 24 | [Apply ↗](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Analytics---Insights-Internship--Advanced-Analytics-_R000157697) |
 | Procter & Gamble | Analytics & Insights Intern | Fayetteville, NC | Internship | Aug 24 | [Apply ↗](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Analytics---Insights-Internship_R000157696) |
