@@ -4286,7 +4286,7 @@
     "active": true,
     "last_verified": "2026-09-13",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -8609,7 +8609,7 @@
     "active": true,
     "last_verified": "2026-09-13",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
