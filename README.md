@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **301** active jobs
-🏢 **142** companies
-🆕 **2** added in the last 24 hours
+📊 **307** active jobs
+🏢 **143** companies
+🆕 **10** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **September 14, 2026**
 
@@ -32,7 +32,7 @@ _11 active listings_
 | Magna | Supply Chain Internship | Highland Park, MI | Internship | Sep 30 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Highland-Park-Michigan-US/Supply-Chain-Internship_R00242299) |
 | Johnson & Johnson | Warehouse Operations & Analytics Co - Op - Spring 2026 (CAR - T Manufacturing) 🆕 | Raritan, NJ | Co-op | Sep 14 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Warehouse-Operations---Analytics-Co-Op---Spring-2026--CAR-T-Manufacturing-_R-095094) |
 | Johnson & Johnson | Global Supply Chain Reliability Co - op 🆕 | Titusville, NJ | Co-op | Sep 14 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Global-Supply-Chain-Reliability-Co-op_R-092949-1) |
-| Johnson & Johnson | Supply Chain Data Management Co - Op | New Brunswick, NJ | Co-op | Sep 9 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Supply-Chain-Data-Management-Co-Op_R-096999) |
+| General Motors | Summer 2027 - Global Purchasing & Supply Chain MBA Intern 🆕 | Warren, MI | Summer Internship | Sep 14 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027---Global-Purchasing---Supply-Chain-MBA-Intern_JR-202619651) |
 | Amazon | Supply Chain Manager Intern - Co - op, ROBOTICS - 2027 | North Reading, MA | Co-op | Sep 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10535281/supply-chain-manager-intern-co-op-robotics-2027) |
 | Nike | NIKE, Inc. Product Supply Chain (PSC) Footwear & Apparel Graduate Internship | Beaverton, OR | Internship | Sep 8 | [Apply ↗](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Product-Supply-Chain--PSC--Footwear---Apparel-Graduate-Internship_R-91695-1) |
 | Ingredion | Supply Chain Data Science Intern | Westchester, IL | Internship | Sep 8 | [Apply ↗](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-40226-1) |
@@ -77,10 +77,13 @@ _27 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_137 active listings_
+_139 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| State Farm | Technology Product Analyst Intern - Innovation Group 🆕 | Tempe, AZ | Internship | Sep 14 | [Apply ↗](https://jobs.statefarm.com/jobs/45986?icims=1) |
+| Robinhood | Associate Product Manager New Grad 🆕 | Menlo Park, CA | New Graduate | Sep 14 | [Apply ↗](https://boards.greenhouse.io/robinhood/jobs/8199973) |
+| Oshkosh | Product Intern 🆕 | New Hudson, MI | Internship | Sep 14 | [Apply ↗](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Product-Intern---Summer-2027_R50276) |
 | USAA | Product Management Analyst Intern - Property and Casualty 🆕 | San Antonio, TX | Internship | Sep 11 | [Apply ↗](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949) |
 | The Friedkin Group | Product Analyst Intern 🆕 | Houston, TX | Internship | Sep 11 | [Apply ↗](https://external-careers-friedkin.icims.com/jobs/6762/job?mobile=true&needsRedirect=false) |
 | Momentive | Product Management Intern - Specialty Additives 🆕 | Friendly, WV | Internship | Sep 11 | [Apply ↗](https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816) |
@@ -161,7 +164,6 @@ _137 active listings_
 | Nationwide | State Product Analyst Intern - Personal Lines | Des Moines, IA | Internship | Aug 21 | [Apply ↗](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-State-Product-Analyst-Intern---Personal-Lines_099794) |
 | Amazon | Product Manager Technical (PMT) Intern - Summer 2027 | Seattle, WA | Summer Internship | Aug 20 | [Apply ↗](https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) |
 | IDeaS | Associate Product Manager - Commercial Capabilities | Bloomington, MN | Unknown | Aug 19 | [Apply ↗](https://ideas-sas.icims.com/jobs/42560/job?mobile=true&needsRedirect=false) |
-| Goldman Sachs | AWM Product Management Analyst Intern | Dallas, TX | Internship | Aug 19 | [Apply ↗](https://higher.gs.com/roles/171513?type=students) |
 | TikTok | Product Manager Intern - Business Integrity | Seattle, WA | Internship | Aug 18 | [Apply ↗](https://lifeattiktok.com/search/7673895973460576517) |
 | PIMCO | Product Strategy Analyst Intern | Newport Beach, CA | Internship | Aug 17 | [Apply ↗](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626) |
 | TikTok | Product Manager Intern - Scaled Growth | San Jose, CA | Internship | Aug 14 | [Apply ↗](https://lifeattiktok.com/search/7673559305519794437) |
@@ -221,11 +223,13 @@ _137 active listings_
 
 <h2 id="procurement--sourcing">🛒 Procurement & Sourcing</h2>
 
-_2 active listings_
+_4 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | General Mills | Internship - Sourcing Analyst | Minneapolis, MN | Internship | Sep 30 | [Apply ↗](https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Internship---Sourcing-Analyst_10128706) |
+| Magna | Purchasing Intern 🆕 | Muncie, IN | Internship | Sep 14 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Muncie-Indiana-US/Purchasing-Intern_R00261645) |
+| Boeing | Entry Level Procurement Analyst 🆕 | USA - Dallas, TX | Entry Level | Sep 14 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Dallas-TX/Entry-Level-Procurement-Analyst_JR2026523224-2) |
 | General Motors | 2027 Summer Intern - Supplier Quality | Warren, MI | Summer Internship | Sep 4 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Supplier-Quality_JR-202617840) |
 
 <h2 id="logistics">🚚 Logistics</h2>
@@ -238,10 +242,11 @@ _1 active listing_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_77 active listings_
+_78 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Johnson & Johnson | Business Intelligence Co - Op 🆕 | Irving, TX | Co-op | Sep 14 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Irving-Texas-United-States-of-America/Business-Intelligence-Co-Op_R-097003-1) |
 | Wellmark | Data Analytics & Governance Internship | Des Moines, IA | Internship | Sep 11 | [Apply ↗](https://jobs.smartrecruiters.com/WellmarkInc/744000148917718) |
 | USAA | Decision Science Analyst Intern 🆕 | San Antonio, TX | Internship | Sep 11 | [Apply ↗](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Decision-Science-Analyst-Intern_R0120923) |
 | The Friedkin Group | IT Data Analytics Intern - Business Systems & AI 🆕 | Houston, TX | Internship | Sep 11 | [Apply ↗](https://external-careers-friedkin.icims.com/jobs/6759/job?mobile=true&needsRedirect=false) |
@@ -349,10 +354,11 @@ _7 active listings_
 
 <h2 id="other">📁 Other</h2>
 
-_33 active listings_
+_34 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Fidelity Investments | Alternative Data Operations Co - op 🆕 | Boston, MA | Co-op | Sep 14 | [Apply ↗](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Alternative-Data-Operations_2135327) |
 | General Motors | Entry - Level Manufacturing Weld Engineer - Fairfax | Kansas City, KS | Entry Level | Sep 11 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Kansas-City-Kansas-United-States-of-America/Entry-Level-Manufacturing-Weld-Engineer---Fairfax_JR-202617830) |
 | Amazon | Data Center Engineering Operations Technician Internship | Sterling, VA | Internship | Sep 11 | [Apply ↗](https://www.amazon.jobs/en/jobs/10537998/data-center-engineering-operations-technician-internship) |
 | Dominion Energy | Electrical Engineer Intern - Operations Analytics | Glen Allen, VA | Internship | Sep 8 | [Apply ↗](https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-ET-Operations-Analytics-VA-23060/1427633000/?ats=successfactors) |
