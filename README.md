@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **352** active jobs
+📊 **350** active jobs
 🏢 **164** companies
-🆕 **38** added in the last 24 hours
+🆕 **39** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **September 16, 2026**
 
@@ -276,6 +276,7 @@ _85 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Intel | Operations Research, Engineering Analytics Graduate Intern 🆕 | US, AZ | Internship | Sep 16 | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502) |
 | RSM | Business Intelligence Consulting Intern 🆕 | Des Moines, IA | Internship | Sep 15 | [Apply ↗](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Business-Intelligence-Consulting-Intern---Summer-2027_JR121327) |
 | QTS | Tableau Analytics and Business Intelligence Intern 🆕 | Overland Park, KS | Internship | Sep 15 | [Apply ↗](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Tableau-Analytics-and-Business-Intelligence_R2026-2090) |
 | Dairyland Power Cooperative | Business Analyst Intern 🆕 | La Crosse, WI | Internship | Sep 15 | [Apply ↗](https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Business-Analyst-Intern_JR101065) |
@@ -326,7 +327,6 @@ _85 active listings_
 | AArete | Business Analytics Intern - Summer 2027 | Chicago, IL | Summer Internship | Sep 4 | [Apply ↗](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false) |
 | Land O'Lakes | Business Insights & Analytics Intern - Animal Nutrition | Arden Hills, MN | Internship | Sep 3 | [Apply ↗](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Arden-Hills-MN-USA/Business-Insights---Analytics-Intern---Animal-Nutrition_R-40421) |
 | United Parcel Service | Business Analytics Intern - Americas Region | Atlanta, GA | Internship | Sep 1 | [Apply ↗](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Americas-Region-Business-Analytics-Summer-2027-Intern_R26030513) |
-| United Airlines | Tech Ops Analytics & Business Intelligence Intern - Summer 2027 | Chicago, IL | Summer Internship | Sep 1 | [Apply ↗](https://careers.united.com/us/en/job/WHQ00026447) |
 | Travelers | Business Insights & Analytics Intern - BI&A LDP | Hartford, CT | Internship | Sep 1 | [Apply ↗](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304) |
 | Post Holdings | Business Intelligence Intern - Summer 2027 | Lakeville, MN | Summer Internship | Sep 1 | [Apply ↗](https://jobs.postholdings.com/jobs/31924?icims=1) |
 | Johns Hopkins Applied Physics Laboratory | Sensor Systems - Data Analytics New Grad | Laurel, MD | New Graduate | Sep 1 | [Apply ↗](https://careers.jhuapl.edu/jobs/59770?icims=1) |
@@ -392,11 +392,11 @@ _8 active listings_
 
 <h2 id="other">📁 Other</h2>
 
-_41 active listings_
+_39 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Johnson & Johnson | Warehouse Data Analytics Co - Op 🆕 | Gurabo, United States | Co-op | Sep 15 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/Warehouse-Data-Analytics-Co-Op_R-098705) |
+| Johnson & Johnson | Warehouse and Logistics Process Improvement Co - Op 🆕 | Gurabo, United States | Co-op | Sep 16 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/Warehouse-Data-Analytics-Co-Op_R-098705) |
 | Johnson & Johnson | Regional Operations Co - Op 🆕 | Raritan, NJ | Co-op | Sep 15 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Regional-Operations-Co-Op_R-098405) |
 | Johnson & Johnson | Inventory Analyst Co - Op 🆕 | Guaynabo, United States | Co-op | Sep 15 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Guaynabo-Puerto-Rico-United-States-of-America/Inventory-Analyst-Co-Op_R-097463) |
 | Altar'd State | Store Operations Data Analyst Intern 🆕 | Knoxville, TN | Internship | Sep 15 | [Apply ↗](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-Store-Operations-Intern_SOSJ12464) |
@@ -418,8 +418,6 @@ _41 active listings_
 | General Motors | 2027 Summer Intern - Manufacturing Weld Engineer | Lake Orion, MI | Summer Internship | Sep 3 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Lake-Orion-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Weld-Engineer_JR-202619474) |
 | General Motors | 2027 Summer Intern - Manufacturing Tool and Die | Kansas City, KS | Summer Internship | Sep 3 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Kansas-City-Kansas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Tool-and-Die_JR-202619470) |
 | Corning | Digital & IT Intern - Manufacturing AI - ML | Charlotte, NC | Internship | Sep 2 | [Apply ↗](https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Manufacturing-AIML-Summer-2027-NC-28216/1425708000/?ats=successfactors) |
-| United Airlines | Operations Strategy & Analytics Intern - Summer 2027 | Chicago, IL | Summer Internship | Sep 1 | [Apply ↗](https://careers.united.com/us/en/job/WHQ00026619) |
-| United Airlines | Operations Strategy & Analytics Intern | Chicago, IL | Internship | Sep 1 | [Apply ↗](https://careers.united.com/us/en/job/WHQ00026618) |
 | General Motors | 2027 Summer Intern - Global Manufacturing Electrical & SDV | Warren, MI | Summer Internship | Sep 1 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Manufacturing-Electrical---SDV_JR-202619352) |
 | Corning | Digital & IT Intern - Analyst - Manufacturing | Glendale, AZ | Internship | Sep 1 | [Apply ↗](https://corningjobs.corning.com/job/Glendale-Digital-&-IT-Intern,-Analyst,-Phoenix-Manufacturing-Summer-2027-AZ-85301/1425543900/?ats=successfactors) |
 | Oshkosh | Supply Chain Data Analytics Intern - Year Round | Greenville, WI | Internship | Aug 31 | [Apply ↗](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greenville-Wisconsin-United-States/Intelligent-Supply-Chain-Intern--Year-Round-_R49907) |
