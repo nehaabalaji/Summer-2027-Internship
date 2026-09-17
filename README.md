@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **366** active jobs
-🏢 **173** companies
-🆕 **35** added in the last 24 hours
+📊 **370** active jobs
+🏢 **174** companies
+🆕 **38** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **September 17, 2026**
 
@@ -46,11 +46,12 @@ _14 active listings_
 
 <h2 id="operations">⚙️ Operations</h2>
 
-_32 active listings_
+_33 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Boeing | Boeing Summer 2027 Internship Program (Paid) - Business Operations | USA - Everett, WA | Summer Internship | Sep 30 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1) |
+| Johnson & Johnson | Process Excellence & AI Co - op 🆕 | Milpitas, CA | Co-op | Sep 17 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Milpitas-California-United-States-of-America/Process-Excellence---AI-Co-op_R-099367) |
 | Cyvl | Data Operations Intern - Summer 2027 🆕 | Boston, MA | Summer Internship | Sep 16 | [Apply ↗](https://jobs.ashbyhq.com/cyvl/f44bb1cf-7100-46f7-b3c2-6d2a566d4b0d/application?embed=true) |
 | Johnson & Johnson | Operations Continuous Improvement Co - Op 🆕 | Gurabo, United States | Co-op | Sep 15 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/Operations-Continuous-Improvement-Co-Op_R-099631) |
 | Johnson & Johnson | Operational Excellence Co - Op | Wilson, NC | Co-op | Sep 14 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Wilson-North-Carolina-United-States-of-America/Operational-Excellence-Co-Op_R-095579) |
@@ -85,11 +86,14 @@ _32 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_165 active listings_
+_168 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Visa | Associate Product Manager Intern - APM 🆕 | Austin, TX | Internship | Sep 17 | [Apply ↗](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W) |
+| Visa | Associate Product Manager Intern - APM 🆕 | Foster City, CA | Internship | Sep 17 | [Apply ↗](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1) |
+| Visa | Associate Product Manager 🆕 | Foster City, CA | Unknown | Sep 17 | [Apply ↗](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088600W) |
+| Copart | Technology Product Analyst Intern | Dallas, TX | Internship | Sep 17 | [Apply ↗](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR111532) |
 | Visa | Associate Product Manager New Grad - Multiple Teams 🆕 | Austin, TX | New Graduate | Sep 16 | [Apply ↗](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088601W-1) |
 | Rockwell Automation | Product Management Intern 🆕 | Mequon, WI | Internship | Sep 16 | [Apply ↗](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Product-Management_R26-6971-1) |
 | Nasdaq | Product Owner Intern 🆕 | Atlanta, GA | Internship | Sep 16 | [Apply ↗](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Product-Owner-Intern---2027-Summer-Internship_R0026976) |
