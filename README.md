@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **375** active jobs
-🏢 **176** companies
-🆕 **31** added in the last 24 hours
+📊 **374** active jobs
+🏢 **177** companies
+🆕 **32** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **September 18, 2026**
 
@@ -25,11 +25,10 @@ Find a role, click **Apply ↗**, and land on the employer's original applicatio
 
 <h2 id="supply-chain">📦 Supply Chain</h2>
 
-_14 active listings_
+_13 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Magna | Supply Chain Internship | Highland Park, MI | Internship | Sep 30 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Highland-Park-Michigan-US/Supply-Chain-Internship_R00242299) |
 | Nike | NIKE, Inc. Supply Chain Planning Graduate Internship 🆕 | Beaverton, OR | Internship | Sep 17 | [Apply ↗](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Supply-Chain-Planning-Graduate-Internship_R-92368-1) |
 | Oshkosh | Supply Chain Intern - Data Analytics & AI 🆕 | Hagerstown, MD | Internship | Sep 16 | [Apply ↗](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Supply-Chain-Intern---Data-Analytics---AI_R49953-1) |
 | Johnson & Johnson | Supply Chain Distributions Co - op | Mooresville, IN | Co-op | Sep 15 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Mooresville-Indiana-United-States-of-America/Supply-Chain-Distributions-Co-op_R-099096) |
@@ -89,13 +88,13 @@ _169 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Tesla | Product Manager Intern - Residential Energy Engineering | Palo Alto, CA | Internship | Sep 18 | [Apply ↗](https://www.tesla.com/careers/search/job/283841) |
 | Rundoo | Product Manager Intern 🆕 | Redwood City, CA | Internship | Sep 18 | [Apply ↗](https://jobs.ashbyhq.com/rundoo/b7d71a5a-4a88-4e97-a6db-e0446eefb389/application?embed=true) |
 | Zurn Elkay Water Solutions | Product Management Intern 🆕 | Paso Robles, CA | Internship | Sep 17 | [Apply ↗](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109) |
 | W.R. Berkley | Product Management Analyst Intern - Claims 🆕 | Manassas, VA | Internship | Sep 17 | [Apply ↗](https://careers-berkley.icims.com/jobs/14439/job?mobile=true&needsRedirect=false) |
 | Visa | Associate Product Manager Intern - APM 🆕 | Austin, TX | Internship | Sep 17 | [Apply ↗](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W) |
 | Visa | Associate Product Manager Intern - APM 🆕 | Foster City, CA | Internship | Sep 17 | [Apply ↗](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1) |
 | Visa | Associate Product Manager 🆕 | Foster City, CA | Unknown | Sep 17 | [Apply ↗](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088600W) |
+| Invesco | ETF Product Intern 🆕 | Downers Grove, IL | Internship | Sep 17 | [Apply ↗](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Downers-Grove-Illinois/Early-Career-Intern-ETF-Product_R-15546) |
 | Gordon Food Service | Digital Product Management Intern 🆕 | Wyoming, MI | Internship | Sep 17 | [Apply ↗](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336) |
 | Fidelity National Information Services | Product Management Intern - FIS University Program 🆕 | Milwaukee, WI | Internship | Sep 17 | [Apply ↗](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Product-Management--FIS-University-Program_JR0309691) |
 | Visa | Associate Product Manager New Grad - Multiple Teams 🆕 | Austin, TX | New Graduate | Sep 16 | [Apply ↗](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088601W-1) |
