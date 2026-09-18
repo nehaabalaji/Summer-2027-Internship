@@ -1052,7 +1052,7 @@
     "active": true,
     "last_verified": "2026-09-18",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -3065,7 +3065,7 @@
     "active": true,
     "last_verified": "2026-09-18",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -4283,10 +4283,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-09-18",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -7682,10 +7682,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-09-18",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -8540,10 +8540,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-09-18",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -9959,10 +9959,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-09-18",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -13853,10 +13853,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-09-18",
     "needs_review": true,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -15206,10 +15206,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-09-18",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -16192,6 +16192,39 @@
     "source_key": "simplify_summer",
     "source_job_id": "c8aca959-9a59-41e5-b70f-6b65d4b67856",
     "description": "AI/ML/Data",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-09-18",
+    "needs_review": false,
+    "consecutive_misses": 0,
+    "seed": false
+  },
+  {
+    "id": "cisco-2026181",
+    "company": "Cisco",
+    "company_logo": "",
+    "title": "Business Analyst I (Intern) United States",
+    "normalized_title": "business analyst i intern united states",
+    "location": "RTP, NC",
+    "city": "RTP",
+    "state": "NC",
+    "country": "United States",
+    "category": "Business Analytics",
+    "subcategory": "business analyst",
+    "category_confidence": 1.0,
+    "job_type": "Internship",
+    "work_arrangement": "Unknown",
+    "date_posted": "2026-09-18",
+    "date_discovered": "2026-09-18",
+    "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Business-Analyst-I--Intern--United-States_2026181",
+    "source_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Business-Analyst-I--Intern--United-States_2026181",
+    "source": "Cisco Careers (Workday)",
+    "source_key": "cisco",
+    "source_job_id": "2026181",
+    "description": "",
     "salary_min": null,
     "salary_max": null,
     "salary_currency": null,
