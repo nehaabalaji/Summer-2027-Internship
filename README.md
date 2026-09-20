@@ -5,8 +5,8 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **373** active jobs
-🏢 **181** companies
+📊 **372** active jobs
+🏢 **180** companies
 🆕 **11** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **September 20, 2026**
@@ -85,7 +85,7 @@ _33 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_173 active listings_
+_172 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -116,7 +116,6 @@ _173 active listings_
 | The Walt Disney Company | Associate Product Manager - APM Program | Glendale, CA | Unknown | Sep 15 | [Apply ↗](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Associate-Product-Manager-Program_10160554-1) |
 | Stanley Black & Decker | Associate Product Manager - Combo Kits - Craftsman | Towson, MD | Unknown | Sep 15 | [Apply ↗](https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager--Combo-Kits---CRAFTSMAN-_REQ-1000052282) |
 | PricewaterhouseCoopers (PwC) | Product Management Intern - Commercial Tech & Innovation | Rosemont, IL | Internship | Sep 15 | [Apply ↗](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Advisory-National---Commercial-Tech---Innovation---Product-Management-Intern---Summer-2027_760527WD) |
-| NVIDIA | Product Management MBA Intern - Data Center GPU | Santa Clara, CA | Internship | Sep 15 | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1) |
 | Illinois Tool Works | Product Management Intern | Troy, OH | Internship | Sep 15 | [Apply ↗](https://careers.itw.com/global/en/job/JR10105) |
 | Duolingo | Associate Product Manager Intern | Pittsburgh, PA | Internship | Sep 15 | [Apply ↗](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806188002) |
 | Acxiom | Product Manager Intern - Real Identity Product Team | Conway, AR | Internship | Sep 15 | [Apply ↗](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Management_JR014473-1) |
