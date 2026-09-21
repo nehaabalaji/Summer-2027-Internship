@@ -5,8 +5,8 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **369** active jobs
-🏢 **181** companies
+📊 **367** active jobs
+🏢 **179** companies
 🆕 **2** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **September 21, 2026**
@@ -44,7 +44,7 @@ _12 active listings_
 
 <h2 id="operations">⚙️ Operations</h2>
 
-_32 active listings_
+_31 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -54,7 +54,6 @@ _32 active listings_
 | Johnson & Johnson | Process Excellence & AI Co - op | Milpitas, CA | Co-op | Sep 17 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Milpitas-California-United-States-of-America/Process-Excellence---AI-Co-op_R-099367) |
 | Cyvl | Data Operations Intern - Summer 2027 | Boston, MA | Summer Internship | Sep 16 | [Apply ↗](https://jobs.ashbyhq.com/cyvl/f44bb1cf-7100-46f7-b3c2-6d2a566d4b0d/application?embed=true) |
 | Genworth Financial | Process Improvement Analyst Intern | Raleigh, NC | Internship | Sep 14 | [Apply ↗](https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Process-Improvement-Analyst-Intern_REQ-260360-1) |
-| Enact Mortgage Insurance | Process Improvement Analyst Intern | Raleigh, NC | Internship | Sep 14 | [Apply ↗](https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Process-Improvement-Analyst-Intern_REQ-260360) |
 | Philips | Service Contracts Lifecycle Operations Intern | Nashville, TN | Internship | Sep 8 | [Apply ↗](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern--Service-Contracts-Lifecycle-Operations--Nashville--TN-Summer-2027_591619) |
 | Xcel Energy | Gas & Electric Design Analytics and Process Improvement Intern - MN | Minneapolis, MN | Internship | Sep 2 | [Apply ↗](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Gas---Electric-Design-Analytics-and-Process-Improvement-Intern---MN_JR115641) |
 | Waymo | 2027 Summer Intern, MBA, Operations Planning | San Francisco, CA | Summer Internship | Sep 1 | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8165014) |
@@ -83,7 +82,7 @@ _32 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_173 active listings_
+_172 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -239,7 +238,6 @@ _173 active listings_
 | Bosch Home Comfort | Product Management Intern | Southfield, MI | Internship | Jul 29 | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000140457960) |
 | TikTok | Global Product Strategy & Operation Project Intern - Ads Interface and Platform Product | San Jose, CA | Internship | Jul 24 | [Apply ↗](https://lifeattiktok.com/search/7663478489194612997) |
 | Appian | Product Manager Intern | McLean, VA | Internship | Jul 23 | [Apply ↗](https://job-boards.greenhouse.io/appian/jobs/8041243) |
-| ROCKWOOL Group | Product Management Intern | Chicago, IL | Internship | Jul 21 | [Apply ↗](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Product-Management---Intern_R0035795) |
 | Hubs.is | Product Intern | Remote | Internship | Jul 21 | [Apply ↗](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true) |
 | Databricks | Product Management Intern | Bellevue, WA | Internship | Jul 16 | [Apply ↗](https://boards.greenhouse.io/embed/job_app?token=6883068002) |
 | Databricks | Associate Product Manager New Grad | Bellevue, WA | New Graduate | Jul 16 | [Apply ↗](https://boards.greenhouse.io/embed/job_app?token=7586263002) |
@@ -399,13 +397,12 @@ _7 active listings_
 
 <h2 id="manufacturing">🏭 Manufacturing</h2>
 
-_8 active listings_
+_7 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Johnson & Johnson | Process Engineer Summer Intern | Jacksonville, FL | Summer Internship | Sep 17 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Process-Engineer-Summer-Intern_R-099289) |
 | Johnson & Johnson | Process Engineer Spring Co - op | Jacksonville, FL | Co-op | Sep 17 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Process-Engineer-Spring-Co-op_R-099278-1) |
-| Johnson & Johnson | GTO Manufacturing Engineering Co - Op | Cornelia, GA | Co-op | Sep 16 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-Op_R-098898) |
 | Oshkosh | Advanced Manufacturing Intern | Mcconnellsburg, PA | Internship | Sep 15 | [Apply ↗](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49614) |
 | Polar Semiconductor | Industrial Engineer Intern | Bloomington, MN | Internship | Sep 10 | [Apply ↗](https://polarsemi.wd501.myworkdayjobs.com/Polar/job/Bloomington-MN-USA/Manufacturing-Planning-Intern_R3785) |
 | General Motors | 2027 Summer Intern - PFMEA Manufacturing Engineer | Warren, MI | Summer Internship | Sep 9 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950) |
@@ -414,10 +411,11 @@ _8 active listings_
 
 <h2 id="other">📁 Other</h2>
 
-_36 active listings_
+_37 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| General Motors | 2027 Summer Intern - Global Manufacturing Electrical & SDV | Warren, MI | Summer Internship | Sep 21 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Manufacturing-Electrical---SDV_JR-202619352) |
 | Flex | Manufacturing Data & Analytics Co - op 🆕 | Libertyville, IL | Co-op | Sep 18 | [Apply ↗](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Manufacturing-Data---Analytics-Co-Op---Spring-2027_WD229700) |
 | Acxiom | Product Operations Intern | Conway, AR | Internship | Sep 17 | [Apply ↗](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014479-1) |
 | General Motors | Entry - Level Manufacturing Group Leader - Production - Bedford | Bedford, IN | Entry Level | Sep 16 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Bedford-Indiana-United-States-of-America/Entry-Level-Manufacturing-Group-Leader---Production---Bedford_JR-202620438) |
