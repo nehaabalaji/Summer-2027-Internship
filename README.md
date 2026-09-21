@@ -5,7 +5,7 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **373** active jobs
+📊 **369** active jobs
 🏢 **181** companies
 🆕 **2** added in the last 24 hours
 📁 **8** categories with listings
@@ -25,7 +25,7 @@ Find a role, click **Apply ↗**, and land on the employer's original applicatio
 
 <h2 id="supply-chain">📦 Supply Chain</h2>
 
-_13 active listings_
+_12 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -41,11 +41,10 @@ _13 active listings_
 | General Motors | TRACK: Entry - Level - Global Purchasing & Supply Chain (GPSC) Rotational Program | Warren, MI | Entry Level | Sep 7 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/TRACK--Entry-Level---Global-Purchasing---Supply-Chain--GPSC--Rotational-Program_JR-202617450) |
 | General Motors | 2027 Summer Intern - Global Purchasing and Supply Chain | Warren, MI | Summer Internship | Sep 7 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Purchasing-and-Supply-Chain_JR-202617448) |
 | TikTok | Data Science Intern - Tiktok Shop - Supply Chain & Logistics | Seattle, WA | Internship | May 28 | [Apply ↗](https://lifeattiktok.com/search/7644719084681234741) |
-| Amazon | Amazon Robotics - 2026 Supply Chain Intern - Co - op, Robotics Supply Chain | North Reading, MA | Co-op | Sep 19, 2025 | [Apply ↗](https://www.amazon.jobs/en/jobs/3088741/amazon-robotics-2026-supply-chain-intern-co-op-robotics-supply-chain) |
 
 <h2 id="operations">⚙️ Operations</h2>
 
-_33 active listings_
+_32 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -53,7 +52,6 @@ _33 active listings_
 | Johnson & Johnson | Operational Excellence Engineering Co - Op 🆕 | Danvers, MA | Co-op | Sep 18 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Operational-Excellence-Engineering-Co-Op_R-099800) |
 | Republic Airways | Strategic Operations Intern | Carmel, IN | Internship | Sep 17 | [Apply ↗](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Strategic-Operations-Intern---Spring-2027_JR-007634) |
 | Johnson & Johnson | Process Excellence & AI Co - op | Milpitas, CA | Co-op | Sep 17 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Milpitas-California-United-States-of-America/Process-Excellence---AI-Co-op_R-099367) |
-| Johnson & Johnson | Operations Continuous Improvement Co - Op | Gurabo, United States | Co-op | Sep 16 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/Operations-Continuous-Improvement-Co-Op_R-099631) |
 | Cyvl | Data Operations Intern - Summer 2027 | Boston, MA | Summer Internship | Sep 16 | [Apply ↗](https://jobs.ashbyhq.com/cyvl/f44bb1cf-7100-46f7-b3c2-6d2a566d4b0d/application?embed=true) |
 | Genworth Financial | Process Improvement Analyst Intern | Raleigh, NC | Internship | Sep 14 | [Apply ↗](https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Process-Improvement-Analyst-Intern_REQ-260360-1) |
 | Enact Mortgage Insurance | Process Improvement Analyst Intern | Raleigh, NC | Internship | Sep 14 | [Apply ↗](https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Process-Improvement-Analyst-Intern_REQ-260360) |
@@ -265,13 +263,12 @@ _173 active listings_
 
 <h2 id="procurement--sourcing">🛒 Procurement & Sourcing</h2>
 
-_5 active listings_
+_4 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | General Mills | Internship - Sourcing Analyst | Minneapolis, MN | Internship | Sep 30 | [Apply ↗](https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Internship---Sourcing-Analyst_10128706) |
 | Johnson & Johnson | Supplier Development Engineer Co - Op 🆕 | Danvers, MA | Co-op | Sep 20 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Supplier-Development-Engineer-Co-Op_R-098406) |
-| Boeing | Entry Level Procurement Analyst | USA - Dallas, TX | Entry Level | Sep 15 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Dallas-TX/Entry-Level-Procurement-Analyst_JR2026523224-2) |
 | Magna | Purchasing Intern | Muncie, IN | Internship | Sep 14 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Muncie-Indiana-US/Purchasing-Intern_R00261645) |
 | General Motors | 2027 Summer Inter - Supplier Quality Intern | Warren, MI | Summer Internship | Sep 14 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Inter---Supplier-Quality-Intern_JR-202619692) |
 
@@ -417,12 +414,11 @@ _8 active listings_
 
 <h2 id="other">📁 Other</h2>
 
-_37 active listings_
+_36 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Flex | Manufacturing Data & Analytics Co - op 🆕 | Libertyville, IL | Co-op | Sep 18 | [Apply ↗](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Manufacturing-Data---Analytics-Co-Op---Spring-2027_WD229700) |
-| Johnson & Johnson | Warehouse and Logistics Process Improvement Co - Op | Gurabo, United States | Co-op | Sep 17 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/Warehouse-Data-Analytics-Co-Op_R-098705) |
 | Acxiom | Product Operations Intern | Conway, AR | Internship | Sep 17 | [Apply ↗](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014479-1) |
 | General Motors | Entry - Level Manufacturing Group Leader - Production - Bedford | Bedford, IN | Entry Level | Sep 16 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Bedford-Indiana-United-States-of-America/Entry-Level-Manufacturing-Group-Leader---Production---Bedford_JR-202620438) |
 | Altar'd State | Store Operations Data Analyst Intern | Knoxville, TN | Internship | Sep 15 | [Apply ↗](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-Store-Operations-Intern_SOSJ12464) |
