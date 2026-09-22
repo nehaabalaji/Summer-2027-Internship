@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **373** active jobs
-🏢 **183** companies
-🆕 **12** added in the last 24 hours
+📊 **375** active jobs
+🏢 **184** companies
+🆕 **14** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **September 22, 2026**
 
@@ -44,7 +44,7 @@ _12 active listings_
 
 <h2 id="operations">⚙️ Operations</h2>
 
-_30 active listings_
+_31 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -52,6 +52,7 @@ _30 active listings_
 | National Life | Strategic Operations Analyst Intern 🆕 | Montpelier, VT | Internship | Sep 21 | [Apply ↗](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4410899009) |
 | Johnson & Johnson | Operational Excellence Engineering Co - Op | Danvers, MA | Co-op | Sep 18 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Operational-Excellence-Engineering-Co-Op_R-099800) |
 | Republic Airways | Strategic Operations Intern | Carmel, IN | Internship | Sep 17 | [Apply ↗](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Strategic-Operations-Intern---Spring-2027_JR-007634) |
+| Lowe's | Store Operations Corporate Facilities Intern 🆕 | Mooresville, NC | Internship | Sep 16 | [Apply ↗](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Corporate-Facilities---Undergrad-Internship---Summer-2027_JR-02650834-1) |
 | Cyvl | Data Operations Intern - Summer 2027 | Boston, MA | Summer Internship | Sep 16 | [Apply ↗](https://jobs.ashbyhq.com/cyvl/f44bb1cf-7100-46f7-b3c2-6d2a566d4b0d/application?embed=true) |
 | Philips | Service Contracts Lifecycle Operations Intern | Nashville, TN | Internship | Sep 8 | [Apply ↗](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern--Service-Contracts-Lifecycle-Operations--Nashville--TN-Summer-2027_591619) |
 | Xcel Energy | Gas & Electric Design Analytics and Process Improvement Intern - MN | Minneapolis, MN | Internship | Sep 2 | [Apply ↗](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Gas---Electric-Design-Analytics-and-Process-Improvement-Intern---MN_JR115641) |
@@ -81,11 +82,12 @@ _30 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_176 active listings_
+_177 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Rivian | MBA Intern Co - op - Product Management Product Development 🆕 | Palo Alto, CA | Co-op | Sep 22 | [Apply ↗](https://careers.rivian.com/jobs/33793?icims=1) |
+| Google | Product Manager Intern - Summer 2027 🆕 | San Bruno, CA | Summer Internship | Sep 22 | [Apply ↗](https://www.google.com/about/careers/applications/jobs/results/134770032394543814) |
 | ByteDance | Product Management Project Intern - Global Payment 🆕 | San Jose, CA | Internship | Sep 22 | [Apply ↗](https://jobs.bytedance.com/en/position/7686394581777631541/detail) |
 | Zimmer Biomet Holdings | Product Management Intern - Artificial Intelligence Product Management 🆕 | Remote | Internship | Sep 21 | [Apply ↗](https://careers.zimmerbiomet.com/us/en/job/12745) |
 | Mastercard | Product Management Intern 🆕 | Harrison, NY | Internship | Sep 21 | [Apply ↗](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Product-Management-Intern--Summer-2027---United-States_R-287624-1) |
