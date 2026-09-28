@@ -5,7 +5,7 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **367** active jobs
+📊 **365** active jobs
 🏢 **177** companies
 🆕 **0** added in the last 24 hours
 📁 **8** categories with listings
@@ -83,7 +83,7 @@ _30 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_172 active listings_
+_171 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -100,7 +100,6 @@ _172 active listings_
 | Google | Product Manager Intern - Summer 2027 | San Bruno, CA | Summer Internship | Sep 22 | [Apply ↗](https://www.google.com/about/careers/applications/jobs/results/134770032394543814) |
 | ByteDance | Product Management Project Intern - Global Payment | San Jose, CA | Internship | Sep 22 | [Apply ↗](https://jobs.bytedance.com/en/position/7686394581777631541/detail) |
 | Zimmer Biomet Holdings | Product Management Intern - Artificial Intelligence Product Management | Remote | Internship | Sep 21 | [Apply ↗](https://careers.zimmerbiomet.com/us/en/job/12745) |
-| Mastercard | Product Management Intern | Harrison, NY | Internship | Sep 21 | [Apply ↗](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Product-Management-Intern--Summer-2027---United-States_R-287624-1) |
 | Hard Rock Digital | Associate Product Manager - Associate Game Producer - Casino Games | Hollywood, FL | Unknown | Sep 21 | [Apply ↗](https://hardrockdigital.recruitee.com/o/associate-product-manager-associate-game-producer-casino-games) |
 | USAA | Digital - Technical Product Manager Intern - Digital and Omnichannel Servicing | San Antonio, TX | Internship | Sep 18 | [Apply ↗](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Operations---Digital-Technical-Product-Manager-Intern_R0121101) |
 | Rundoo | Product Manager Intern | Redwood City, CA | Internship | Sep 18 | [Apply ↗](https://jobs.ashbyhq.com/rundoo/b7d71a5a-4a88-4e97-a6db-e0446eefb389/application?embed=true) |
@@ -291,7 +290,6 @@ _94 active listings_
 | Zekelman Industries | Business Intelligence Intern - Program Development | Austin, TX | Internship | Sep 23 | [Apply ↗](https://zekelman.wd12.myworkdayjobs.com/Careers/job/Troy-MI/Intern--Business-Intelligence_JR002769) |
 | American Family Insurance Group | Consumer Research and Insights Intern | Madison, WI | Internship | Sep 22 | [Apply ↗](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Consumer-Research-and-Insights-Intern-2027_R39474) |
 | The Walt Disney Company | Decision Science Intern | Lake Buena Vista, FL | Internship | Sep 21 | [Apply ↗](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Decision-Science-Undergraduate-Intern--Spring-2027_10159998) |
-| Sanofi | mRNA Drug Substance Process Characterization Data Analytics and Visualization Co - op | Waltham, MA | Co-op | Sep 21 | [Apply ↗](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-mRNA-Drug-Substance-Process-Characterization-Data-Analytics-and-Visualization--Waltham--MA_R2854370) |
 | Koch Industries | Business Analytics & Insights Intern | Green Bay, WI | Internship | Sep 21 | [Apply ↗](https://koch.avature.net/en_US/careers/JobDetail/194813) |
 | Erie Insurance Group | Data Intern 2 | Erie, PA | Internship | Sep 21 | [Apply ↗](https://jobs.erieinsurance.com/job/Erie-Intern-II-(Data)-PA-16506/1432176200/?ats=successfactors) |
 | Johnson & Johnson | Production Data Analyst Co - op - Manufacturing | Danvers, MA | Co-op | Sep 18 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Production-Data-Analyst-Co-Op_R-098904) |
@@ -374,6 +372,7 @@ _94 active listings_
 | Vertiv | Planning Analytics Intern - Summer 2027 | Westerville, OH | Summer Internship | Aug 14 | [Apply ↗](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279236) |
 | GCI | Telecommunications Intern - Computer Science - Data Analytics | Anchorage, AK | Internship | Aug 7 | [Apply ↗](https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003640) |
 | Brio Water Technology | AI Automation & Business Analytics Intern - Rotational Program | Glendale, CA | Internship | Jul 31 | [Apply ↗](https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb) |
+| T. Rowe Price | Technology and Data Intern | Owings Mills, MD | Internship | Jul 23 | [Apply ↗](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677) |
 | Medpace | Clinical Business Intelligence Intern | Cincinnati, OH | Internship | Jul 7 | [Apply ↗](https://careers.medpace.com/jobs/12845?icims=1) |
 | Software Quality Experts | Entry Level Business Analyst - Data Analyst | Dulles, VA | Entry Level | Feb 27 | [Apply ↗](https://jobs.smartrecruiters.com/SQexpetsLLC/743999653805861) |
 | Data Cloud Merge | Entry Level Business Analyst | Philadelphia, PA | Entry Level | Feb 20 | [Apply ↗](https://jobs.smartrecruiters.com/DataCloudMerge/744000039093905) |
@@ -397,11 +396,10 @@ _8 active listings_
 
 <h2 id="manufacturing">🏭 Manufacturing</h2>
 
-_7 active listings_
+_6 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Johnson & Johnson | Process Engineering Co - Op | Anasco, United States | Co-op | Sep 23 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Anasco-Puerto-Rico-United-States-of-America/Process-Engineering-Co-Op_R-098445) |
 | Johnson & Johnson | Manufacturing Engineering Co - Op | Milpitas, CA | Co-op | Sep 23 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Milpitas-California-United-States-of-America/Manufacturing-Engineering-Co-Op_R-099376) |
 | Johnson & Johnson | Industrial Engineer Co - Op | Irving, TX | Co-op | Sep 22 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Irving-Texas-United-States-of-America/Industrial-Engineer-Co-Op_R-099653) |
 | Oshkosh | Advanced Manufacturing Intern | Mcconnellsburg, PA | Internship | Sep 15 | [Apply ↗](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49614) |
@@ -415,7 +413,7 @@ _37 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Johnson & Johnson | Operations Co - Op | San Lorenzo, United States | Co-op | Sep 23 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/San-Lorenzo-Puerto-Rico-United-States-of-America/Operations-Co-Op_R-099330) |
+| General Motors | 2027 Summer Intern - Business Operations & Cost Optimization, Cadillac Racing Program Management | Milford, MI | Summer Internship | Sep 28 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Business-Operations---Cost-Optimization--Cadillac-Racing-Program-Management_JR-202619989) |
 | Jabil | Operations Analytics & Reporting Intern | Tampa, FL | Internship | Sep 23 | [Apply ↗](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Operations-Analytics---Reporting-Intern_J2465601) |
 | Johnson & Johnson | Technical Operations Engineering Co - Op | San Lorenzo, United States | Co-op | Sep 22 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/San-Lorenzo-Puerto-Rico-United-States-of-America/Technical-Operations-Engineering-Co-Op_R-099385) |
 | Flex | Manufacturing Data & Analytics Co - op | Libertyville, IL | Co-op | Sep 18 | [Apply ↗](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Manufacturing-Data---Analytics-Co-Op---Spring-2027_WD229700) |

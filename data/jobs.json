@@ -1217,7 +1217,7 @@
     "active": true,
     "last_verified": "2026-09-28",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -1514,7 +1514,7 @@
     "active": true,
     "last_verified": "2026-09-28",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -3659,7 +3659,7 @@
     "active": true,
     "last_verified": "2026-09-28",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -10886,7 +10886,7 @@
     "active": true,
     "last_verified": "2026-09-28",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -14105,7 +14105,7 @@
     "category_confidence": 1.0,
     "job_type": "Summer Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-15",
+    "date_posted": "2026-09-28",
     "date_discovered": "2026-09-15",
     "application_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Business-Operations---Cost-Optimization--Cadillac-Racing-Program-Management_JR-202619989",
     "source_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Business-Operations---Cost-Optimization--Cadillac-Racing-Program-Management_JR-202619989",
@@ -14117,10 +14117,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": false,
-    "last_verified": "2026-09-27",
+    "active": true,
+    "last_verified": "2026-09-28",
     "needs_review": true,
-    "consecutive_misses": 2,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -14879,7 +14879,7 @@
     "active": true,
     "last_verified": "2026-09-28",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -15008,10 +15008,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": false,
-    "last_verified": "2026-09-26",
+    "active": true,
+    "last_verified": "2026-09-28",
     "needs_review": false,
-    "consecutive_misses": 2,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -16724,10 +16724,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-09-28",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -16889,10 +16889,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-09-28",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -17189,7 +17189,7 @@
     "active": true,
     "last_verified": "2026-09-28",
     "needs_review": true,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -17219,10 +17219,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-09-28",
     "needs_review": true,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -17252,10 +17252,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-09-28",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -17387,7 +17387,7 @@
     "active": true,
     "last_verified": "2026-09-28",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -17420,7 +17420,7 @@
     "active": true,
     "last_verified": "2026-09-28",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -17486,7 +17486,7 @@
     "active": true,
     "last_verified": "2026-09-28",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
