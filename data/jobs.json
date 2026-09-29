@@ -2702,7 +2702,7 @@
     "active": true,
     "last_verified": "2026-09-29",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -5207,10 +5207,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-09-29",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -5276,7 +5276,7 @@
     "active": true,
     "last_verified": "2026-09-29",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -7088,10 +7088,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-09-29",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -7157,7 +7157,7 @@
     "active": true,
     "last_verified": "2026-09-29",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -8411,7 +8411,7 @@
     "active": true,
     "last_verified": "2026-09-29",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -10985,7 +10985,7 @@
     "active": true,
     "last_verified": "2026-09-29",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -12800,7 +12800,7 @@
     "active": true,
     "last_verified": "2026-09-29",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -12833,7 +12833,7 @@
     "active": true,
     "last_verified": "2026-09-29",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -12998,7 +12998,7 @@
     "active": true,
     "last_verified": "2026-09-29",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -13295,7 +13295,7 @@
     "active": true,
     "last_verified": "2026-09-29",
     "needs_review": true,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -13919,10 +13919,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-09-29",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -14549,7 +14549,7 @@
     "active": true,
     "last_verified": "2026-09-29",
     "needs_review": true,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -15869,7 +15869,7 @@
     "active": true,
     "last_verified": "2026-09-29",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -16001,7 +16001,7 @@
     "active": true,
     "last_verified": "2026-09-29",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -16034,7 +16034,7 @@
     "active": true,
     "last_verified": "2026-09-29",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -16265,7 +16265,7 @@
     "active": true,
     "last_verified": "2026-09-29",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -16925,7 +16925,7 @@
     "active": true,
     "last_verified": "2026-09-29",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -17351,10 +17351,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-09-29",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -17651,7 +17651,7 @@
     "active": true,
     "last_verified": "2026-09-29",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -17882,7 +17882,7 @@
     "active": true,
     "last_verified": "2026-09-29",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -18106,6 +18106,72 @@
     "source_key": "simplify_summer",
     "source_job_id": "3e456223-d5b0-4c98-9c23-c9658c558899",
     "description": "AI/ML/Data",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-09-29",
+    "needs_review": false,
+    "consecutive_misses": 0,
+    "seed": false
+  },
+  {
+    "id": "zurn-elkay-water-solutions-c15b6c17-1727-4aaf-8fe1-537a96872d7b",
+    "company": "Zurn Elkay Water Solutions",
+    "company_logo": "",
+    "title": "Product Management Intern - Summer 2027",
+    "normalized_title": "product management intern summer 2027",
+    "location": "Erie, PA",
+    "city": "Erie",
+    "state": "PA",
+    "country": "United States",
+    "category": "Product Management",
+    "subcategory": "product management",
+    "category_confidence": 1.0,
+    "job_type": "Summer Internship",
+    "work_arrangement": "Unknown",
+    "date_posted": "2026-09-16",
+    "date_discovered": "2026-09-29",
+    "application_url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1",
+    "source_url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1",
+    "source": "SimplifyJobs GitHub (Summer Internships)",
+    "source_key": "simplify_summer",
+    "source_job_id": "c15b6c17-1727-4aaf-8fe1-537a96872d7b",
+    "description": "Product",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-09-29",
+    "needs_review": false,
+    "consecutive_misses": 0,
+    "seed": false
+  },
+  {
+    "id": "altice-usa-5a537b13-411e-49f8-a1f4-631a90f3d9d6",
+    "company": "Altice USA",
+    "company_logo": "",
+    "title": "Mobile Device Product Management Intern",
+    "normalized_title": "mobile device product management intern",
+    "location": "Bethpage, NY",
+    "city": "Bethpage",
+    "state": "NY",
+    "country": "United States",
+    "category": "Product Management",
+    "subcategory": "product management",
+    "category_confidence": 1.0,
+    "job_type": "Internship",
+    "work_arrangement": "Unknown",
+    "date_posted": "2026-09-29",
+    "date_discovered": "2026-09-29",
+    "application_url": "https://www.optimumcareers.com/job/Bethpage-Intern-Mobile-Device-Product-Management-NY-11714/1434760800/?ats=successfactors",
+    "source_url": "https://www.optimumcareers.com/job/Bethpage-Intern-Mobile-Device-Product-Management-NY-11714/1434760800/?ats=successfactors",
+    "source": "SimplifyJobs GitHub (Summer Internships)",
+    "source_key": "simplify_summer",
+    "source_job_id": "5a537b13-411e-49f8-a1f4-631a90f3d9d6",
+    "description": "Product",
     "salary_min": null,
     "salary_max": null,
     "salary_currency": null,
