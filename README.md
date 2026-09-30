@@ -7,7 +7,7 @@ Find a role, click **Apply ↗**, and land on the employer's original applicatio
 <!-- JOBS:START -->
 📊 **353** active jobs
 🏢 **174** companies
-🆕 **13** added in the last 24 hours
+🆕 **14** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **September 30, 2026**
 
@@ -267,11 +267,10 @@ _4 active listings_
 
 <h2 id="logistics">🚚 Logistics</h2>
 
-_2 active listings_
+_1 active listing_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Magna | Logistics Intern | Muncie, IN | Internship | Sep 30 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Muncie-Indiana-US/Logistics-Intern_R00258647) |
 | Applied Materials | Logistics Automation New Grad | Santa Clara, CA | New Graduate | Sep 14 | [Apply ↗](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Logistics-Automation-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2627714) |
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
@@ -399,10 +398,11 @@ _3 active listings_
 
 <h2 id="other">📁 Other</h2>
 
-_35 active listings_
+_36 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Johnson & Johnson | Manufacturing Operation Co - Op 🆕 | San Lorenzo, United States | Co-op | Sep 30 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/San-Lorenzo-Puerto-Rico-United-States-of-America/Manufacturing-Operation-Co-Op_R-099356) |
 | Verizon Communications | Data Scientist Intern - Fiber Engineering & Operations 🆕 | Irving, TX | Internship | Sep 29 | [Apply ↗](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386) |
 | TikTok | Cross - border E - commerce Product Operations Intern - TikTok Shop - User & Promotion Growth Product 🆕 | Seattle, WA | Internship | Sep 29 | [Apply ↗](https://lifeattiktok.com/search/7689010193607051525) |
 | General Motors | 2027 Summer Intern - Business Operations & Cost Optimization, Cadillac Racing Program Management | Milford, MI | Summer Internship | Sep 28 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Business-Operations---Cost-Optimization--Cadillac-Racing-Program-Management_JR-202619989) |
