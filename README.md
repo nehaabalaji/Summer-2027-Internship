@@ -5,8 +5,8 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **356** active jobs
-🏢 **181** companies
+📊 **355** active jobs
+🏢 **180** companies
 🆕 **19** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **October 3, 2026**
@@ -278,7 +278,7 @@ _2 active listings_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_87 active listings_
+_86 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -312,7 +312,6 @@ _87 active listings_
 | Wellmark | Data Analytics & Governance Internship | Des Moines, IA | Internship | Sep 11 | [Apply ↗](https://jobs.smartrecruiters.com/WellmarkInc/744000148917718) |
 | USAA | Decision Science Analyst Intern | San Antonio, TX | Internship | Sep 11 | [Apply ↗](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Decision-Science-Analyst-Intern_R0120923) |
 | The Friedkin Group | IT Data Analytics Intern - Business Systems & AI | Houston, TX | Internship | Sep 11 | [Apply ↗](https://external-careers-friedkin.icims.com/jobs/6759/job?mobile=true&needsRedirect=false) |
-| TD Bank | Data Analyst Co - op - Global Technology & Solutions | Mt Laurel Township, NJ | Co-op | Sep 11 | [Apply ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Analyst_R_1510236) |
 | SCOR | Strategy & Business Intelligence Intern | Charlotte, NC | Internship | Sep 11 | [Apply ↗](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5394) |
 | Nationwide | Personal Lines Business Insights Intern | Columbus, OH | Internship | Sep 11 | [Apply ↗](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Personal-Lines-Business-Insights-Intern_100197) |
 | Merck | Data Analytics and Insights Intern | Rahway, NJ | Internship | Sep 11 | [Apply ↗](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Data-Analytics-and-Insights---Intern_R413657) |
