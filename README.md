@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **359** active jobs
-🏢 **182** companies
-🆕 **20** added in the last 24 hours
+📊 **356** active jobs
+🏢 **181** companies
+🆕 **19** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **October 3, 2026**
 
@@ -82,12 +82,11 @@ _27 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_170 active listings_
+_169 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Koch Industries | Product Management Intern 🆕 | Eden Prairie, MN | Internship | Oct 3 | [Apply ↗](https://koch.avature.net/en_US/careers/JobDetail/195099) |
-| Johnson & Johnson | Product Analyst Co - op | Shepherdsville, KY | Co-op | Oct 3 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Shepherdsville-Kentucky-United-States-of-America/Product-Analyst-Co-op_R-101018) |
 | Trimble | Product Management Intern | Westminster, CO | Internship | Oct 2 | [Apply ↗](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893) |
 | IDeaS | Product Management Intern 🆕 | Bloomington, MN | Internship | Oct 2 | [Apply ↗](https://ideas-sas.icims.com/jobs/42648/job?mobile=true&needsRedirect=false) |
 | C3.ai | AI Product Manager Intern - Summer 2027 🆕 | Redwood City, CA | Summer Internship | Oct 2 | [Apply ↗](https://c3.ai/job-description/8860563002?gh_jid=8860563002) |
@@ -279,7 +278,7 @@ _2 active listings_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_88 active listings_
+_87 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -289,7 +288,6 @@ _88 active listings_
 | Intuit | Business Data Analyst Intern - Strategy & Planning 🆕 | Mountain View, CA | Internship | Oct 1 | [Apply ↗](https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360) |
 | ITT | Data Analytics - AI Intern - Summer 2027 🆕 | Irvine, CA | Summer Internship | Sep 30 | [Apply ↗](https://careersenus-itt-inc.icims.com/jobs/17657/job?mobile=true&needsRedirect=false) |
 | W.W. Grainger | Business Analyst Intern | Green Bay, WI | Internship | Sep 29 | [Apply ↗](https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Business-Analyst-Intern-WI-54301-5160/1434550000/?ats=successfactors) |
-| Verizon Communications | Business Intelligence Intern - Fiber Engineering & Operations - Transformation & Business Enablement | Irving, TX | Internship | Sep 29 | [Apply ↗](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Business-Intelligence-Summer-2027-Internship_R-1101387) |
 | ibotta | Business Intelligence Intern | Denver, CO | Internship | Sep 29 | [Apply ↗](https://jobs.ashbyhq.com/ibotta/3a27a6fc-5d2c-4b88-8b19-8f9f7094f899/application?embed=true) |
 | Maricopa Association of Governments | Socioeconomic Data Intern | Phoenix, AZ | Internship | Sep 25 | [Apply ↗](https://azmag.wd108.myworkdayjobs.com/magcareers/job/Phoenix-AZ/Socioeconomic-Data-Intern_JR24) |
 | Cencora | Business Analytics Intern | Remote | Internship | Sep 25 | [Apply ↗](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Business-Analytics-Intern_R2616423) |
@@ -390,11 +388,10 @@ _9 active listings_
 
 <h2 id="manufacturing">🏭 Manufacturing</h2>
 
-_6 active listings_
+_5 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Johnson & Johnson | Manufacturing Engineering Co - Op 🆕 | Anasco, United States | Co-op | Oct 3 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Anasco-Puerto-Rico-United-States-of-America/Manufacturing-Engineering-Co-Op_R-102845) |
 | Johnson & Johnson | Production, Planning & Logistic Co - Op 🆕 | Cornelia, GA | Co-op | Oct 2 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/PP-L-Co-Op_R-098908) |
 | Charter Manufacturing | Smart Manufacturing Engineer Intern 🆕 | Mequon, WI | Internship | Oct 2 | [Apply ↗](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133) |
 | Oshkosh | Advanced Manufacturing Intern | Mcconnellsburg, PA | Internship | Sep 15 | [Apply ↗](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49614) |
