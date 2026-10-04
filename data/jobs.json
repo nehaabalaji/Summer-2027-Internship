@@ -788,7 +788,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -2159,10 +2159,10 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-01",
+    "date_posted": "2026-08-05",
     "date_discovered": "2026-08-16",
-    "application_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012638",
-    "source_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012638",
+    "application_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148",
+    "source_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148",
     "source": "SimplifyJobs GitHub (Summer Internships)",
     "source_key": "simplify_summer",
     "source_job_id": "d73faddb-6b91-4205-a34a-ecb8289ec010",
@@ -4451,7 +4451,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -4484,7 +4484,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -4748,7 +4748,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -5012,7 +5012,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -5243,7 +5243,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -5639,7 +5639,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -6794,7 +6794,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -6827,7 +6827,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -6860,7 +6860,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -6893,7 +6893,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -6959,7 +6959,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -7157,7 +7157,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -7190,7 +7190,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -7421,7 +7421,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -7619,7 +7619,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -7949,7 +7949,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": true,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -7982,7 +7982,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -8015,7 +8015,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": true,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -8114,7 +8114,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -8246,7 +8246,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -8378,7 +8378,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -8411,7 +8411,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -8444,14 +8444,14 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
     "id": "general-motors-jr-202619522",
     "company": "General Motors",
     "company_logo": "",
-    "title": "Entry - Level Manufacturing Group Leader - Production - Bedford",
+    "title": "Entry Level Manufacturing Group Leader - Production - Bedford",
     "normalized_title": "entry level manufacturing group leader production bedford",
     "location": "Bedford, IN",
     "city": "Bedford",
@@ -8462,10 +8462,10 @@
     "category_confidence": 0.0,
     "job_type": "Entry Level",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-17",
+    "date_posted": "2026-10-30",
     "date_discovered": "2026-09-03",
-    "application_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Bedford-Indiana-United-States-of-America/Entry-Level-Manufacturing-Group-Leader---Production---Bedford_JR-202620438",
-    "source_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Bedford-Indiana-United-States-of-America/Entry-Level-Manufacturing-Group-Leader---Production---Bedford_JR-202620438",
+    "application_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Bedford-Indiana-United-States-of-America/Entry-Level-Manufacturing-Group-Leader---Production---Bedford_JR-202619522",
+    "source_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Bedford-Indiana-United-States-of-America/Entry-Level-Manufacturing-Group-Leader---Production---Bedford_JR-202619522",
     "source": "General Motors Careers (Workday)",
     "source_key": "gm",
     "source_job_id": "JR-202619522",
@@ -8708,7 +8708,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": true,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -8741,7 +8741,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": true,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -9320,7 +9320,7 @@
     "category_confidence": 0.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-04",
+    "date_posted": "2026-10-30",
     "date_discovered": "2026-09-04",
     "application_url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate-412-West---Springdale-Arkansas/Year-round-Intern---Transportation-Services_R0483113-2",
     "source_url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate-412-West---Springdale-Arkansas/Year-round-Intern---Transportation-Services_R0483113-2",
@@ -9434,7 +9434,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -9599,7 +9599,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": true,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -9632,7 +9632,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": true,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -9848,7 +9848,7 @@
     "category_confidence": 0.0,
     "job_type": "Entry Level",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-05",
+    "date_posted": "2026-09-04",
     "date_discovered": "2026-09-04",
     "application_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Bedford-Indiana-United-States-of-America/Entry-Level-Manufacturing-Group-Leader---Tool-and-Die---Bedford_JR-202619646",
     "source_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Bedford-Indiana-United-States-of-America/Entry-Level-Manufacturing-Group-Leader---Tool-and-Die---Bedford_JR-202619646",
@@ -10211,7 +10211,7 @@
     "category_confidence": 1.0,
     "job_type": "Summer Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-08",
+    "date_posted": "2026-09-07",
     "date_discovered": "2026-09-07",
     "application_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Purchasing-and-Supply-Chain_JR-202617448",
     "source_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Purchasing-and-Supply-Chain_JR-202617448",
@@ -10244,7 +10244,7 @@
     "category_confidence": 1.0,
     "job_type": "Entry Level",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-08",
+    "date_posted": "2026-09-07",
     "date_discovered": "2026-09-07",
     "application_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/TRACK--Entry-Level---Global-Purchasing---Supply-Chain--GPSC--Rotational-Program_JR-202617450",
     "source_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/TRACK--Entry-Level---Global-Purchasing---Supply-Chain--GPSC--Rotational-Program_JR-202617450",
@@ -10391,7 +10391,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -10424,7 +10424,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -10805,10 +10805,10 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-10-02",
+    "date_posted": "2026-09-08",
     "date_discovered": "2026-09-09",
-    "application_url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893",
-    "source_url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893",
+    "application_url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1",
+    "source_url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1",
     "source": "SimplifyJobs GitHub (Summer Internships)",
     "source_key": "simplify_summer",
     "source_job_id": "63bb5635-fcbb-4c10-ac91-d7f76b6c3d75",
@@ -10919,7 +10919,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -10985,7 +10985,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -11051,7 +11051,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": true,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -11102,7 +11102,7 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-09",
+    "date_posted": "2026-09-08",
     "date_discovered": "2026-09-09",
     "application_url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Product-Supply-Chain--PSC--Footwear---Apparel-Graduate-Internship_R-91695-1",
     "source_url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Product-Supply-Chain--PSC--Footwear---Apparel-Graduate-Internship_R-91695-1",
@@ -11183,7 +11183,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -11282,7 +11282,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -11315,7 +11315,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -11348,7 +11348,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -11381,7 +11381,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -11414,7 +11414,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -11480,7 +11480,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -11678,7 +11678,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -11711,7 +11711,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -11843,7 +11843,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -11975,7 +11975,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -12239,7 +12239,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -12668,7 +12668,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -12734,7 +12734,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -13031,7 +13031,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -13097,7 +13097,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -13130,7 +13130,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -13412,7 +13412,7 @@
     "category_confidence": 1.0,
     "job_type": "Summer Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-15",
+    "date_posted": "2026-09-14",
     "date_discovered": "2026-09-14",
     "application_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027---Global-Purchasing---Supply-Chain-MBA-Intern_JR-202619651",
     "source_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027---Global-Purchasing---Supply-Chain-MBA-Intern_JR-202619651",
@@ -13478,7 +13478,7 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-15",
+    "date_posted": "2026-09-14",
     "date_discovered": "2026-09-14",
     "application_url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Muncie-Indiana-US/Purchasing-Intern_R00261645",
     "source_url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Muncie-Indiana-US/Purchasing-Intern_R00261645",
@@ -13775,7 +13775,7 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-15",
+    "date_posted": "2026-09-14",
     "date_discovered": "2026-09-14",
     "application_url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Global-Supply-Chain---Operations-Undergraduate-Internship_R-92068",
     "source_url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Global-Supply-Chain---Operations-Undergraduate-Internship_R-92068",
@@ -13808,7 +13808,7 @@
     "category_confidence": 1.0,
     "job_type": "Summer Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-15",
+    "date_posted": "2026-09-14",
     "date_discovered": "2026-09-14",
     "application_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Inter---Supplier-Quality-Intern_JR-202619692",
     "source_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Inter---Supplier-Quality-Intern_JR-202619692",
@@ -13922,7 +13922,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -14105,7 +14105,7 @@
     "category_confidence": 1.0,
     "job_type": "Summer Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-29",
+    "date_posted": "2026-09-28",
     "date_discovered": "2026-09-15",
     "application_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Business-Operations---Cost-Optimization--Cadillac-Racing-Program-Management_JR-202619989",
     "source_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Business-Operations---Cost-Optimization--Cadillac-Racing-Program-Management_JR-202619989",
@@ -14219,7 +14219,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": true,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -14303,7 +14303,7 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-15",
+    "date_posted": "2026-09-14",
     "date_discovered": "2026-09-15",
     "application_url": "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049",
     "source_url": "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049",
@@ -14369,7 +14369,7 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-16",
+    "date_posted": "2026-09-15",
     "date_discovered": "2026-09-15",
     "application_url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Highland-Park-Michigan-US/Program-Management-Internship_R00261699",
     "source_url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Highland-Park-Michigan-US/Program-Management-Internship_R00261699",
@@ -15128,7 +15128,7 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-17",
+    "date_posted": "2026-09-16",
     "date_discovered": "2026-09-16",
     "application_url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502",
     "source_url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502",
@@ -15275,7 +15275,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -15788,7 +15788,7 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-18",
+    "date_posted": "2026-09-17",
     "date_discovered": "2026-09-17",
     "application_url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Supply-Chain-Planning-Graduate-Internship_R-92368-1",
     "source_url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Supply-Chain-Planning-Graduate-Internship_R-92368-1",
@@ -15869,7 +15869,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -16217,7 +16217,7 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-19",
+    "date_posted": "2026-09-18",
     "date_discovered": "2026-09-18",
     "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Business-Analyst-I--Intern--United-States_2026181",
     "source_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Business-Analyst-I--Intern--United-States_2026181",
@@ -16298,7 +16298,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -16364,7 +16364,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -16562,7 +16562,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": true,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -16757,10 +16757,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-03",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -16826,7 +16826,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -17123,7 +17123,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -17321,7 +17321,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -17504,7 +17504,7 @@
     "category_confidence": 1.0,
     "job_type": "Summer Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-24",
+    "date_posted": "2026-09-23",
     "date_discovered": "2026-09-23",
     "application_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Lean-Material-Strategies---Warehouse-Management-Systems_JR-202620424",
     "source_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Lean-Material-Strategies---Warehouse-Management-Systems_JR-202620424",
@@ -18014,7 +18014,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": true,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -18146,7 +18146,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -18395,7 +18395,7 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-10-01",
+    "date_posted": "2026-09-30",
     "date_discovered": "2026-09-30",
     "application_url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-on-Thompson---Springdale-Arkansas/Year-Round-Intern---Procurement_R0487094-2",
     "source_url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-on-Thompson---Springdale-Arkansas/Year-Round-Intern---Procurement_R0487094-2",
@@ -18428,7 +18428,7 @@
     "category_confidence": 0.0,
     "job_type": "Co-op",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-10-01",
+    "date_posted": "2026-09-30",
     "date_discovered": "2026-09-30",
     "application_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/San-Lorenzo-Puerto-Rico-United-States-of-America/Manufacturing-Operation-Co-Op_R-099356",
     "source_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/San-Lorenzo-Puerto-Rico-United-States-of-America/Manufacturing-Operation-Co-Op_R-099356",
@@ -18509,7 +18509,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -18608,7 +18608,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -18641,7 +18641,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -18707,7 +18707,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -18758,7 +18758,7 @@
     "category_confidence": 1.0,
     "job_type": "Summer Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-10-02",
+    "date_posted": "2026-10-01",
     "date_discovered": "2026-10-01",
     "application_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Program-Management_JR-202621456",
     "source_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Program-Management_JR-202621456",
@@ -18824,7 +18824,7 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-10-02",
+    "date_posted": "2026-10-01",
     "date_discovered": "2026-10-01",
     "application_url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Supply-Planning-Year-Round-Intern_R0478122-2",
     "source_url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Supply-Planning-Year-Round-Intern_R0478122-2",
@@ -18857,7 +18857,7 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-10-02",
+    "date_posted": "2026-10-01",
     "date_discovered": "2026-10-01",
     "application_url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Demand-Planning-Year-Round-Intern---Prepared-Foods_R0488662-3",
     "source_url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Demand-Planning-Year-Round-Intern---Prepared-Foods_R0488662-3",
@@ -19070,7 +19070,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -19169,7 +19169,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -19202,7 +19202,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": true,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -19253,7 +19253,7 @@
     "category_confidence": 1.0,
     "job_type": "Co-op",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-10-03",
+    "date_posted": "2026-10-02",
     "date_discovered": "2026-10-02",
     "application_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/PP-L-Co-Op_R-098908",
     "source_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/PP-L-Co-Op_R-098908",
@@ -19286,7 +19286,7 @@
     "category_confidence": 1.0,
     "job_type": "Co-op",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-10-03",
+    "date_posted": "2026-10-02",
     "date_discovered": "2026-10-02",
     "application_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Supply-Chain-Co-Op_R-101911",
     "source_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Supply-Chain-Co-Op_R-101911",
@@ -19334,7 +19334,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -19499,7 +19499,7 @@
     "active": true,
     "last_verified": "2026-10-04",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -19525,6 +19525,39 @@
     "source_key": "figureai",
     "source_job_id": "4718858006",
     "description": "",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-10-04",
+    "needs_review": false,
+    "consecutive_misses": 0,
+    "seed": false
+  },
+  {
+    "id": "tiktok-87d8c1bb-eb89-4c66-9a12-28941bbb9fee",
+    "company": "TikTok",
+    "company_logo": "",
+    "title": "Seller Strategy Business Analyst Intern - TikTok Shop - US Operation",
+    "normalized_title": "seller strategy business analyst intern tiktok shop us operation",
+    "location": "Seattle, WA",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "United States",
+    "category": "Business Analytics",
+    "subcategory": "business analyst",
+    "category_confidence": 1.0,
+    "job_type": "Internship",
+    "work_arrangement": "Unknown",
+    "date_posted": "2026-06-15",
+    "date_discovered": "2026-10-04",
+    "application_url": "https://lifeattiktok.com/search/7558622480857188626",
+    "source_url": "https://lifeattiktok.com/search/7558622480857188626",
+    "source": "SimplifyJobs GitHub (Summer Internships)",
+    "source_key": "simplify_summer",
+    "source_job_id": "87d8c1bb-eb89-4c66-9a12-28941bbb9fee",
+    "description": "AI/ML/Data",
     "salary_min": null,
     "salary_max": null,
     "salary_currency": null,
