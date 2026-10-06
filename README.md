@@ -6,8 +6,8 @@ Find a role, click **Apply ↗**, and land on the employer's original applicatio
 
 <!-- JOBS:START -->
 📊 **349** active jobs
-🏢 **181** companies
-🆕 **12** added in the last 24 hours
+🏢 **180** companies
+🆕 **13** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **October 6, 2026**
 
@@ -86,6 +86,7 @@ _168 active listings_
 | Fireworks AI | Associate Product Manager 🆕 | San Mateo, CA | Unknown | Oct 6 | [Apply ↗](https://jobs.ashbyhq.com/fireworks/69375f41-258a-4c25-ad78-5985606c438a/application?embed=true) |
 | Cadence Solutions | Product Management Intern 🆕 | Remote | Internship | Oct 6 | [Apply ↗](https://job-boards.greenhouse.io/solutions/jobs/4715294006) |
 | Astera Labs | Platform Solutions Product Management Intern 🆕 | Cary, NC | Internship | Oct 6 | [Apply ↗](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731590005) |
+| Allegion | Product Management Intern 🆕 | Carmel, IN | Internship | Oct 6 | [Apply ↗](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Product-Management_JR37369-1) |
 | Mohawk | Product Management Intern 🆕 | Calhoun, GA | Internship | Oct 5 | [Apply ↗](https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors) |
 | Axos Bank | Product Intern 🆕 | Omaha, NE | Internship | Oct 5 | [Apply ↗](https://axos.wd5.myworkdayjobs.com/Axos/job/Edison-NJ/Product-Intern_JR5663) |
 | Koch Industries | Product Management Intern | Eden Prairie, MN | Internship | Oct 3 | [Apply ↗](https://koch.avature.net/en_US/careers/JobDetail/195099) |
@@ -110,7 +111,6 @@ _168 active listings_
 | ABB | Product Management Intern | New Berlin, WI | Internship | Sep 24 | [Apply ↗](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280) |
 | Rivian | MBA Intern Co - op - Product Management Product Development | Palo Alto, CA | Co-op | Sep 22 | [Apply ↗](https://careers.rivian.com/jobs/33793?icims=1) |
 | Rhoda AI | Engineer Product Manager Intern - Robot Data Systems | Mountain View, CA | Internship | Sep 22 | [Apply ↗](https://jobs.ashbyhq.com/rhoda-ai/ecadb13f-b6cd-4070-9a31-80c9fa355fe4/application?embed=true) |
-| Mastercard | Product Management Intern - Summer 2027 | O'Fallon, MO | Summer Internship | Sep 22 | [Apply ↗](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625) |
 | Google | Product Manager Intern - Summer 2027 | San Bruno, CA | Summer Internship | Sep 22 | [Apply ↗](https://www.google.com/about/careers/applications/jobs/results/134770032394543814) |
 | ByteDance | Product Management Project Intern - Global Payment | San Jose, CA | Internship | Sep 22 | [Apply ↗](https://jobs.bytedance.com/en/position/7686394581777631541/detail) |
 | Zimmer Biomet Holdings | Product Management Intern - Artificial Intelligence Product Management | Remote | Internship | Sep 21 | [Apply ↗](https://careers.zimmerbiomet.com/us/en/job/12745) |
@@ -387,10 +387,11 @@ _10 active listings_
 
 <h2 id="manufacturing">🏭 Manufacturing</h2>
 
-_5 active listings_
+_6 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Johnson & Johnson | GTO Manufacturing Engineering Co - Op | Cornelia, GA | Co-op | Oct 6 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-Op_R-098898) |
 | General Motors | 2027 Summer Intern - PFMEA Manufacturing Engineer | Warren, MI | Summer Internship | Oct 5 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950) |
 | Johnson & Johnson | Production, Planning & Logistic Co - Op | Cornelia, GA | Co-op | Oct 2 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/PP-L-Co-Op_R-098908) |
 | Charter Manufacturing | Smart Manufacturing Engineer Intern | Mequon, WI | Internship | Oct 2 | [Apply ↗](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133) |
@@ -399,13 +400,12 @@ _5 active listings_
 
 <h2 id="other">📁 Other</h2>
 
-_31 active listings_
+_30 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | General Motors | Entry Level Manufacturing Group Leader - Tool and Die - Bedford | Bedford, IN | Entry Level | Oct 30 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Bedford-Indiana-United-States-of-America/Entry-Level-Manufacturing-Group-Leader---Tool-and-Die---Bedford_JR-202619646) |
 | General Motors | Entry Level Manufacturing Group Leader - Production - Bedford | Bedford, IN | Entry Level | Oct 30 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Bedford-Indiana-United-States-of-America/Entry-Level-Manufacturing-Group-Leader---Production---Bedford_JR-202619522) |
-| General Motors | 2027 Summer Intern - Global Manufacturing Robotics & Automation | Warren, MI | Summer Internship | Oct 6 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348) |
 | Johnson & Johnson | Technical Operations Engineer Co - Op 🆕 | San Lorenzo, United States | Co-op | Oct 5 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/San-Lorenzo-Puerto-Rico-United-States-of-America/Technical-Operations-Engineer-Co-Op_R-099063) |
 | Scout Clean Energy | Operations Engineering Intern | Boulder, CO | Internship | Oct 2 | [Apply ↗](https://apply.workable.com/scout-clean-energy/j/7BF0CEDF9F/apply) |
 | Regeneron Pharmaceuticals | Precision Medicine Operations Co - op | Armonk, NY | Co-op | Oct 2 | [Apply ↗](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/Armonk/XMLNAME-2027-Co-op-Precision-Medicine-Operations_R51082-1) |

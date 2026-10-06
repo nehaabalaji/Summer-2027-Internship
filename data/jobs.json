@@ -6035,7 +6035,7 @@
     "active": true,
     "last_verified": "2026-10-06",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -7484,10 +7484,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-06",
     "needs_review": true,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -15161,7 +15161,7 @@
     "category_confidence": 1.0,
     "job_type": "Co-op",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-16",
+    "date_posted": "2026-10-06",
     "date_discovered": "2026-09-16",
     "application_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-Op_R-098898",
     "source_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-Op_R-098898",
@@ -15173,10 +15173,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": false,
-    "last_verified": "2026-09-21",
+    "active": true,
+    "last_verified": "2026-10-06",
     "needs_review": false,
-    "consecutive_misses": 2,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -15605,7 +15605,7 @@
     "active": true,
     "last_verified": "2026-10-06",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -17285,10 +17285,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-06",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -17321,7 +17321,7 @@
     "active": true,
     "last_verified": "2026-10-06",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -17618,7 +17618,7 @@
     "active": true,
     "last_verified": "2026-10-06",
     "needs_review": true,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -20085,6 +20085,39 @@
     "source": "SimplifyJobs GitHub (New Grad)",
     "source_key": "simplify_newgrad",
     "source_job_id": "2fe008c6-a902-4295-bf8d-b42eec551e68",
+    "description": "Product",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-10-06",
+    "needs_review": false,
+    "consecutive_misses": 0,
+    "seed": false
+  },
+  {
+    "id": "allegion-5fdf7b23-cdb5-4291-bf68-d6e4d8443b70",
+    "company": "Allegion",
+    "company_logo": "",
+    "title": "Product Management Intern",
+    "normalized_title": "product management intern",
+    "location": "Carmel, IN",
+    "city": "Carmel",
+    "state": "IN",
+    "country": "United States",
+    "category": "Product Management",
+    "subcategory": "product management",
+    "category_confidence": 1.0,
+    "job_type": "Internship",
+    "work_arrangement": "Unknown",
+    "date_posted": "2026-10-06",
+    "date_discovered": "2026-10-06",
+    "application_url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Product-Management_JR37369-1",
+    "source_url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Product-Management_JR37369-1",
+    "source": "SimplifyJobs GitHub (Summer Internships)",
+    "source_key": "simplify_summer",
+    "source_job_id": "5fdf7b23-cdb5-4291-bf68-d6e4d8443b70",
     "description": "Product",
     "salary_min": null,
     "salary_max": null,
