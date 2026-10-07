@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **353** active jobs
-🏢 **181** companies
-🆕 **14** added in the last 24 hours
+📊 **356** active jobs
+🏢 **183** companies
+🆕 **18** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **October 7, 2026**
 
@@ -25,10 +25,11 @@ Find a role, click **Apply ↗**, and land on the employer's original applicatio
 
 <h2 id="supply-chain">📦 Supply Chain</h2>
 
-_15 active listings_
+_16 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Johnson & Johnson | US Surgery Demand Planning Co - Op, Summer 2027 🆕 | Raritan, NJ | Co-op | Oct 7 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/US-Surgery-Demand-Planning-Co-Op--Summer-2027_R-102582) |
 | Midland States Bank | Associate Solutions Engineer Intern - Data Warehouse 🆕 | St. Louis, MO | Internship | Oct 5 | [Apply ↗](https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---Associate-Solutions-Engineer---Data-Warehouse_JR1462) |
 | Johnson & Johnson | Supply Chain Co - Op | New Brunswick, NJ | Co-op | Oct 2 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Supply-Chain-Co-Op_R-101911) |
 | Figure | Supply Chain Analytics Intern [Winter 2027] | San Jose, CA | Internship | Oct 2 | [Apply ↗](https://job-boards.greenhouse.io/figureai/jobs/4718858006) |
@@ -84,6 +85,7 @@ _169 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Figma | Early Career, Associate Product Manager (2027) 🆕 | San Francisco, CA | Unknown | Oct 7 | [Apply ↗](https://boards.greenhouse.io/figma/jobs/6180116004?gh_jid=6180116004) |
 | KnowBe4 | Associate Product Manager Intern 🆕 | Clearwater, FL | Internship | Oct 6 | [Apply ↗](https://job-boards.greenhouse.io/knowbe4/jobs/8871835002) |
 | impact.com | Associate Product Manager - Contracting - Action Processing 🆕 | Seattle, WA | Unknown | Oct 6 | [Apply ↗](https://job-boards.greenhouse.io/impact/jobs/8871230002) |
 | Fireworks AI | Associate Product Manager 🆕 | San Mateo, CA | Unknown | Oct 6 | [Apply ↗](https://jobs.ashbyhq.com/fireworks/69375f41-258a-4c25-ad78-5985606c438a/application?embed=true) |
@@ -249,7 +251,6 @@ _169 active listings_
 | Tessera Labs | Product Manager Intern | San Jose, CA | Internship | Jun 8 | [Apply ↗](https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544/application?embed=true) |
 | Oracle | Product Manager Intern - Ovip | Kansas City, MO | Internship | May 21 | [Apply ↗](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334348) |
 | TikTok | Product Manager Project Intern - Ads Interface and Platform | San Jose, CA | Internship | Apr 30 | [Apply ↗](https://lifeattiktok.com/search/7634027348048709941) |
-| TikTok | Data Product Manager Project Intern - Monetization | San Jose, CA | Internship | Apr 23 | [Apply ↗](https://lifeattiktok.com/search/7631277919231625525) |
 | Globus Medical | Associate Product Manager | King of Prussia, PA | Unknown | Mar 11 | [Apply ↗](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Product-Manager_JR105815) |
 | Databricks | Associate Product Manager, New Grad (2027 Start) | Bellevue, CA | New Graduate | Aug 8, 2024 | [Apply ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002) |
 | Databricks | Product Management Intern (Summer 2027) | Bellevue, CA | Summer Internship | Aug 17, 2023 | [Apply ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) |
@@ -277,10 +278,11 @@ _3 active listings_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_90 active listings_
+_91 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Auto-Owners Insurance | Business Intelligence Engineer Intern 🆕 | Lansing, MI | Internship | Oct 7 | [Apply ↗](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineering-Intern---Summer-2027_R_14662) |
 | KLA | PLM Business Intelligence & Analytics Intern 🆕 | Ann Arbor, MI | Internship | Oct 6 | [Apply ↗](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568-2) |
 | Axos Bank | Data Intern 🆕 | Omaha, NE | Internship | Oct 6 | [Apply ↗](https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/Data-Intern_JR5642) |
 | Astera Labs | Data Analyst New Grad 🆕 | San Jose, CA | New Graduate | Oct 6 | [Apply ↗](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731994005) |
@@ -391,10 +393,11 @@ _10 active listings_
 
 <h2 id="manufacturing">🏭 Manufacturing</h2>
 
-_6 active listings_
+_7 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Johnson & Johnson | GTO Manufacturing Engineering Co - op, Summer 2027 🆕 | Cornelia, GA | Co-op | Oct 7 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-op--Summer-2027_R-103371) |
 | Johnson & Johnson | GTO Manufacturing Engineering Co - Op | Cornelia, GA | Co-op | Oct 6 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-Op_R-098898) |
 | General Motors | 2027 Summer Intern - PFMEA Manufacturing Engineer | Warren, MI | Summer Internship | Oct 5 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950) |
 | Johnson & Johnson | Production, Planning & Logistic Co - Op | Cornelia, GA | Co-op | Oct 2 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/PP-L-Co-Op_R-098908) |
