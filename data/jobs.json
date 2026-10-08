@@ -2237,10 +2237,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-08",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -3623,10 +3623,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-08",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -6233,7 +6233,7 @@
     "active": true,
     "last_verified": "2026-10-08",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -10916,10 +10916,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-08",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -12272,7 +12272,7 @@
     "active": true,
     "last_verified": "2026-10-08",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -13490,10 +13490,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-08",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -14490,8 +14490,8 @@
     "id": "johnson-johnson-r-098405",
     "company": "Johnson & Johnson",
     "company_logo": "",
-    "title": "Regional Operations Co - Op",
-    "normalized_title": "regional operations co op",
+    "title": "Regional Operations & Customer Support Co - Op",
+    "normalized_title": "regional operations customer support co op",
     "location": "Raritan, NJ",
     "city": "Raritan",
     "state": "NJ",
@@ -14501,7 +14501,7 @@
     "category_confidence": 0.0,
     "job_type": "Co-op",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-15",
+    "date_posted": "2026-10-08",
     "date_discovered": "2026-09-15",
     "application_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Regional-Operations-Co-Op_R-098405",
     "source_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Regional-Operations-Co-Op_R-098405",
@@ -14513,10 +14513,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": false,
-    "last_verified": "2026-09-18",
+    "active": true,
+    "last_verified": "2026-10-08",
     "needs_review": true,
-    "consecutive_misses": 2,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -14744,10 +14744,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-08",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -15602,10 +15602,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-08",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -16298,7 +16298,7 @@
     "active": true,
     "last_verified": "2026-10-08",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -18671,10 +18671,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-08",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -18704,10 +18704,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-08",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -19895,7 +19895,7 @@
     "active": true,
     "last_verified": "2026-10-08",
     "needs_review": true,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -20159,7 +20159,7 @@
     "active": true,
     "last_verified": "2026-10-08",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -20646,6 +20646,39 @@
     "source": "SimplifyJobs GitHub (Summer Internships)",
     "source_key": "simplify_summer",
     "source_job_id": "6a1545b0-b5cd-4c8f-8e2b-432ee694bd7d",
+    "description": "Product",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-10-08",
+    "needs_review": false,
+    "consecutive_misses": 0,
+    "seed": false
+  },
+  {
+    "id": "wsfs-bank-2355c32e-a301-4b8a-bf6b-352e71daf514",
+    "company": "WSFS Bank",
+    "company_logo": "",
+    "title": "Product Intern",
+    "normalized_title": "product intern",
+    "location": "Wilmington, DE",
+    "city": "Wilmington",
+    "state": "DE",
+    "country": "United States",
+    "category": "Product Management",
+    "subcategory": "product intern",
+    "category_confidence": 1.0,
+    "job_type": "Internship",
+    "work_arrangement": "Unknown",
+    "date_posted": "2026-10-08",
+    "date_discovered": "2026-10-08",
+    "application_url": "https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Product_R-104113-2",
+    "source_url": "https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Product_R-104113-2",
+    "source": "SimplifyJobs GitHub (Summer Internships)",
+    "source_key": "simplify_summer",
+    "source_job_id": "2355c32e-a301-4b8a-bf6b-352e71daf514",
     "description": "Product",
     "salary_min": null,
     "salary_max": null,
