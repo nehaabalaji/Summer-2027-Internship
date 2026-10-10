@@ -5,8 +5,8 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **349** active jobs
-🏢 **177** companies
+📊 **347** active jobs
+🏢 **176** companies
 🆕 **19** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **October 10, 2026**
@@ -272,7 +272,7 @@ _3 active listings_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_89 active listings_
+_87 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -295,7 +295,6 @@ _89 active listings_
 | W.W. Grainger | Business Analyst Intern | Green Bay, WI | Internship | Sep 29 | [Apply ↗](https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Business-Analyst-Intern-WI-54301-5160/1434550000/?ats=successfactors) |
 | ibotta | Business Intelligence Intern | Denver, CO | Internship | Sep 29 | [Apply ↗](https://jobs.ashbyhq.com/ibotta/3a27a6fc-5d2c-4b88-8b19-8f9f7094f899/application?embed=true) |
 | Medpace | Junior Business Intelligence Engineer Intern | Cincinnati, OH | Internship | Sep 28 | [Apply ↗](https://careers.medpace.com/jobs/13026?icims=1) |
-| Maricopa Association of Governments | Socioeconomic Data Intern | Phoenix, AZ | Internship | Sep 25 | [Apply ↗](https://azmag.wd108.myworkdayjobs.com/magcareers/job/Phoenix-AZ/Socioeconomic-Data-Intern_JR24) |
 | Cencora | Business Analytics Intern | Remote | Internship | Sep 25 | [Apply ↗](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Business-Analytics-Intern_R2616423) |
 | American Century Investments | Enterprise Data Intern | Southlake, TX | Internship | Sep 25 | [Apply ↗](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Enterprise-Data-Intern_R0005751) |
 | Zekelman Industries | Business Intelligence Intern - Program Development | Austin, TX | Internship | Sep 23 | [Apply ↗](https://zekelman.wd12.myworkdayjobs.com/Careers/job/Troy-MI/Intern--Business-Intelligence_JR002769) |
@@ -315,7 +314,6 @@ _89 active listings_
 | 3M | Internship - 2027 Undergraduate Business Analytics Intern - Consumer Business Group (CBG) | US, MN | Internship | Sep 14 | [Apply ↗](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) |
 | 3M | Business Analyst Intern - Consumer Business Group | Maplewood, MN | Internship | Sep 14 | [Apply ↗](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) |
 | Wellmark | Data Analytics & Governance Internship | Des Moines, IA | Internship | Sep 11 | [Apply ↗](https://jobs.smartrecruiters.com/WellmarkInc/744000148917718) |
-| Nationwide | Personal Lines Business Insights Intern | Columbus, OH | Internship | Sep 11 | [Apply ↗](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Personal-Lines-Business-Insights-Intern_100197) |
 | Merck | Data Analytics and Insights Intern | Rahway, NJ | Internship | Sep 11 | [Apply ↗](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Data-Analytics-and-Insights---Intern_R413657) |
 | Citizens Financial Group | Business Insights Intern - Multiple Teams | Boston, MA | Internship | Sep 11 | [Apply ↗](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49283) |
 | Amcor | Business Intelligence Intern | Oshkosh, WI | Internship | Sep 11 | [Apply ↗](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Oshkosh-Division-Head-Office-WI/Business-Intelligence-Internship_REQ_95255) |
