@@ -5,8 +5,8 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **345** active jobs
-🏢 **180** companies
+📊 **344** active jobs
+🏢 **179** companies
 🆕 **16** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **October 15, 2026**
@@ -363,7 +363,7 @@ _86 active listings_
 
 <h2 id="project--program-management">📋 Project & Program Management</h2>
 
-_9 active listings_
+_8 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -371,7 +371,6 @@ _9 active listings_
 | General Motors | 2027 Summer Intern - Program Management, GM Defense , | Warren, MI | Summer Internship | Oct 12 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Program-Management--GM-Defense--_JR-202622043) |
 | Amazon | Program Manager Intern - Summer 2027 | Seattle, WA | Summer Internship | Oct 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10575248/program-manager-intern-summer-2027) |
 | Applied Materials | Non - Technical Project - Program Manager New Grad | Austin, TX | New Graduate | Sep 25 | [Apply ↗](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Non-Technical-Project-Program-Management-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2628156) |
-| Tesla | Service Program & Project Management Intern | Austin, TX | Internship | Sep 16 | [Apply ↗](https://www.tesla.com/careers/search/job/283443) |
 | Magna | Program Management Internship | Highland Park, MI | Internship | Sep 15 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Highland-Park-Michigan-US/Program-Management-Internship_R00261699) |
 | Amazon | Startup Project Manager (Support) Intern Spring and Summer 2027 (Bellevue, WA), | Bellevue, WA | Summer Internship | Sep 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10534582/startup-project-manager-support-intern-spring-and-summer-2027-bellevue-wa) |
 | Amazon | Startup Project Manager (Execution) Intern Spring and Summer 2027 (CA, CT, TX) | Cleburne, TX | Summer Internship | Sep 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10534584/startup-project-manager-execution-intern-spring-and-summer-2027-ca-ct-tx) |
