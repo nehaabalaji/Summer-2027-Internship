@@ -6131,10 +6131,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-15",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -7472,7 +7472,7 @@
     "category_confidence": 0.0,
     "job_type": "Summer Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-10-06",
+    "date_posted": "2026-10-05",
     "date_discovered": "2026-09-02",
     "application_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348",
     "source_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348",
@@ -8048,7 +8048,7 @@
     "active": true,
     "last_verified": "2026-10-16",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -8177,10 +8177,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-15",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -8408,10 +8408,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-15",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -10127,7 +10127,7 @@
     "active": true,
     "last_verified": "2026-10-16",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -13064,7 +13064,7 @@
     "active": true,
     "last_verified": "2026-10-16",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -13427,7 +13427,7 @@
     "active": true,
     "last_verified": "2026-10-16",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -13955,7 +13955,7 @@
     "active": true,
     "last_verified": "2026-10-16",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -13988,7 +13988,7 @@
     "active": true,
     "last_verified": "2026-10-16",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -14369,7 +14369,7 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-16",
+    "date_posted": "2026-10-30",
     "date_discovered": "2026-09-15",
     "application_url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Highland-Park-Michigan-US/Program-Management-Internship_R00261699",
     "source_url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Highland-Park-Michigan-US/Program-Management-Internship_R00261699",
@@ -15128,7 +15128,7 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-17",
+    "date_posted": "2026-09-16",
     "date_discovered": "2026-09-16",
     "application_url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502",
     "source_url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502",
@@ -15209,7 +15209,7 @@
     "active": true,
     "last_verified": "2026-10-16",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -15788,7 +15788,7 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-18",
+    "date_posted": "2026-09-17",
     "date_discovered": "2026-09-17",
     "application_url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Supply-Chain-Planning-Graduate-Internship_R-92368-1",
     "source_url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Supply-Chain-Planning-Graduate-Internship_R-92368-1",
@@ -16361,10 +16361,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-15",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -17504,7 +17504,7 @@
     "category_confidence": 1.0,
     "job_type": "Summer Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-24",
+    "date_posted": "2026-09-23",
     "date_discovered": "2026-09-23",
     "application_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Lean-Material-Strategies---Warehouse-Management-Systems_JR-202620424",
     "source_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Lean-Material-Strategies---Warehouse-Management-Systems_JR-202620424",
@@ -17978,10 +17978,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-15",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -18395,7 +18395,7 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-10-06",
+    "date_posted": "2026-10-05",
     "date_discovered": "2026-09-30",
     "application_url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-on-Thompson---Springdale-Arkansas/Year-Round-Intern---Procurement_R0487094-2",
     "source_url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-on-Thompson---Springdale-Arkansas/Year-Round-Intern---Procurement_R0487094-2",
@@ -18824,7 +18824,7 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-10-02",
+    "date_posted": "2026-10-01",
     "date_discovered": "2026-10-01",
     "application_url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Supply-Planning-Year-Round-Intern_R0478122-2",
     "source_url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Supply-Planning-Year-Round-Intern_R0478122-2",
@@ -18857,7 +18857,7 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-10-02",
+    "date_posted": "2026-10-01",
     "date_discovered": "2026-10-01",
     "application_url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Demand-Planning-Year-Round-Intern---Prepared-Foods_R0488662-3",
     "source_url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Demand-Planning-Year-Round-Intern---Prepared-Foods_R0488662-3",
@@ -19367,7 +19367,7 @@
     "active": true,
     "last_verified": "2026-10-16",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -19847,7 +19847,7 @@
     "category_confidence": 1.0,
     "job_type": "Summer Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-10-06",
+    "date_posted": "2026-10-05",
     "date_discovered": "2026-10-05",
     "application_url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate-412-West---Springdale-Arkansas/Logistics-Modeling---Summer-Intern_R0486875-2",
     "source_url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate-412-West---Springdale-Arkansas/Logistics-Modeling---Summer-Intern_R0486875-2",
@@ -21530,7 +21530,7 @@
     "category_confidence": 0.0,
     "job_type": "Summer Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-10-13",
+    "date_posted": "2026-10-12",
     "date_discovered": "2026-10-12",
     "application_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Research-and-Development---Smart-Manufacturing-Systems_JR-202621657",
     "source_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Research-and-Development---Smart-Manufacturing-Systems_JR-202621657",
@@ -21629,7 +21629,7 @@
     "category_confidence": 1.0,
     "job_type": "Summer Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-10-13",
+    "date_posted": "2026-10-12",
     "date_discovered": "2026-10-12",
     "application_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Program-Management--GM-Defense--_JR-202622043",
     "source_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Program-Management--GM-Defense--_JR-202622043",
@@ -21662,7 +21662,7 @@
     "category_confidence": 1.0,
     "job_type": "Summer Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-10-13",
+    "date_posted": "2026-10-12",
     "date_discovered": "2026-10-12",
     "application_url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Springdale-AR-Terminal-Office---Springdale-Arkansas/Transportation-Operations---Summer-Intern_R0486872-2",
     "source_url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Springdale-AR-Terminal-Office---Springdale-Arkansas/Transportation-Operations---Summer-Intern_R0486872-2",
@@ -21695,7 +21695,7 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-10-13",
+    "date_posted": "2026-10-12",
     "date_discovered": "2026-10-12",
     "application_url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Northwood-Ohio-US/Supply-Chain-Intern_R00265600",
     "source_url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Northwood-Ohio-US/Supply-Chain-Intern_R00265600",
@@ -21794,7 +21794,7 @@
     "category_confidence": 1.0,
     "job_type": "Co-op",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-10-14",
+    "date_posted": "2026-10-13",
     "date_discovered": "2026-10-13",
     "application_url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Brampton-Ontario-CA/Manufacturing-Engineer---Technical-Team-Co-op-Student_R00264460",
     "source_url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Brampton-Ontario-CA/Manufacturing-Engineer---Technical-Team-Co-op-Student_R00264460",
@@ -21959,7 +21959,7 @@
     "category_confidence": 0.0,
     "job_type": "Co-op",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-10-16",
+    "date_posted": "2026-10-15",
     "date_discovered": "2026-10-14",
     "application_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/West-Chester-Pennsylvania-United-States-of-America/Technical-Operations-Co-op_R-100885",
     "source_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/West-Chester-Pennsylvania-United-States-of-America/Technical-Operations-Co-op_R-100885",
@@ -22190,7 +22190,7 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-10-15",
+    "date_posted": "2026-10-14",
     "date_discovered": "2026-10-15",
     "application_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449",
     "source_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449",
@@ -22223,7 +22223,7 @@
     "category_confidence": 0.0,
     "job_type": "Summer Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-10-15",
+    "date_posted": "2026-10-14",
     "date_discovered": "2026-10-15",
     "application_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Global-Transportation-Summer-Intern-2027_R-104452",
     "source_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Global-Transportation-Summer-Intern-2027_R-104452",
@@ -22337,7 +22337,7 @@
     "active": true,
     "last_verified": "2026-10-16",
     "needs_review": true,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
