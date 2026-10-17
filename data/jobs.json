@@ -7850,7 +7850,7 @@
     "active": true,
     "last_verified": "2026-10-17",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -8378,7 +8378,7 @@
     "active": true,
     "last_verified": "2026-10-17",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -10058,10 +10058,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-17",
     "needs_review": true,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -11741,10 +11741,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-17",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -16298,7 +16298,7 @@
     "active": true,
     "last_verified": "2026-10-17",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -17912,10 +17912,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-17",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -21545,7 +21545,7 @@
     "active": true,
     "last_verified": "2026-10-17",
     "needs_review": true,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -22172,7 +22172,7 @@
     "active": true,
     "last_verified": "2026-10-17",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
