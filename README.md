@@ -5,8 +5,8 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **329** active jobs
-🏢 **174** companies
+📊 **328** active jobs
+🏢 **173** companies
 🆕 **5** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **October 18, 2026**
@@ -79,7 +79,7 @@ _25 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_154 active listings_
+_153 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -147,7 +147,6 @@ _154 active listings_
 | AspenTech | Product Owner Intern - Product Management | Houston, TX | Internship | Sep 16 | [Apply ↗](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471) |
 | Altar'd State | IT Ecommerce Product Owner Intern | Knoxville, TN | Internship | Sep 16 | [Apply ↗](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Ecommerce-Product-Owner-Intern_SOSJ12489) |
 | Waymo | 2027 Summer Intern, MBA, Salesforce Product Owner | Los Angeles, CA | Summer Internship | Sep 15 | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8198582) |
-| The Walt Disney Company | Associate Product Manager - APM Program | Glendale, CA | Unknown | Sep 15 | [Apply ↗](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Associate-Product-Manager-Program_10160554-1) |
 | NVIDIA | Product Management MBA Intern - Data Center GPU | Santa Clara, CA | Internship | Sep 15 | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1) |
 | Illinois Tool Works | Product Management Intern | Troy, OH | Internship | Sep 15 | [Apply ↗](https://careers.itw.com/global/en/job/JR10105) |
 | Lowe's | Digital Product Management Intern | Charlotte, NC | Internship | Sep 14 | [Apply ↗](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Digital-Product-Management---Undergrad-Internship---Summer-2027_JR-02645845) |
