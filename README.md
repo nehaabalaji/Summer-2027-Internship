@@ -7,7 +7,7 @@ Find a role, click **Apply ↗**, and land on the employer's original applicatio
 <!-- JOBS:START -->
 📊 **326** active jobs
 🏢 **172** companies
-🆕 **1** added in the last 24 hours
+🆕 **3** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **October 19, 2026**
 
@@ -25,13 +25,14 @@ Find a role, click **Apply ↗**, and land on the employer's original applicatio
 
 <h2 id="supply-chain">📦 Supply Chain</h2>
 
-_15 active listings_
+_16 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Nike | NIKE, Inc. Supply Chain Planning Graduate Internship | Beaverton, OR | Internship | Oct 30 | [Apply ↗](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Supply-Chain-Planning-Graduate-Internship_R-92368-1) |
 | Nike | NIKE, Inc. Product Supply Chain (PSC) Footwear & Apparel Graduate Internship | Beaverton, OR | Internship | Oct 30 | [Apply ↗](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Product-Supply-Chain--PSC--Footwear---Apparel-Graduate-Internship_R-91695-1) |
 | Nike | NIKE, Inc. Global Supply Chain & Operations Undergraduate Internship | Beaverton, OR | Internship | Oct 30 | [Apply ↗](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Global-Supply-Chain---Operations-Undergraduate-Internship_R-92068) |
+| Johnson & Johnson | Clinical Supply Chain Summer Intern 🆕 | Horsham, PA | Summer Internship | Oct 19 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Clinical-Supply-Chain-Summer-Intern_R-099135) |
 | Magna | Supply Chain Intern | Northwood, OH | Internship | Oct 12 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Northwood-Ohio-US/Supply-Chain-Intern_R00265600) |
 | Amazon | Supply Chain Manager Intern - Summer 2027 | Seattle, WA | Summer Internship | Oct 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10575291/supply-chain-manager-intern-summer-2027) |
 | Midland States Bank | Associate Solutions Engineer Intern - Data Warehouse | St. Louis, MO | Internship | Oct 5 | [Apply ↗](https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---Associate-Solutions-Engineer---Data-Warehouse_JR1462) |
@@ -47,7 +48,7 @@ _15 active listings_
 
 <h2 id="operations">⚙️ Operations</h2>
 
-_25 active listings_
+_26 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -56,6 +57,7 @@ _25 active listings_
 | Nutanix | Support Analytics & Operations Intern | Durham, NC | Internship | Oct 16 | [Apply ↗](https://jobs.jobvite.com/nutanix/job/oqjOAfwR?nl=1&nl=1&fr=false) |
 | National Laboratory of the Rockies | Artificial Intelligence for Power System Operations Intern - Artificial Intelligence for Power System Operations | Golden, CO | Internship | Oct 14 | [Apply ↗](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--3-12-month--Intern---Artificial-Intelligence-for-Power-System-Operations_R14561) |
 | Figure | Commercial Operations Intern [Winter 2027] | San Jose, CA | Internship | Oct 6 | [Apply ↗](https://job-boards.greenhouse.io/figureai/jobs/4719591006) |
+| Excellus BCBS | College Operations Analyst Intern 🆕 | Rochester, NY | Internship | Sep 23 | [Apply ↗](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Operations-Analyst_JR104058-2) |
 | Cyvl | Data Operations Intern - Summer 2027 | Boston, MA | Summer Internship | Sep 16 | [Apply ↗](https://jobs.ashbyhq.com/cyvl/f44bb1cf-7100-46f7-b3c2-6d2a566d4b0d/application?embed=true) |
 | Waymo | 2027 Summer Intern, MBA, Operations Planning | San Francisco, CA | Summer Internship | Sep 1 | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8165014) |
 | Fenwick & West | Forward Deployed Operations Intern | Boston, MA | Internship | Sep 1 | [Apply ↗](https://fenwick.wd1.myworkdayjobs.com/Fenwick_External_Careers/job/Silicon-Valley/Forward-Deployed-Operations-Intern_R2964) |
@@ -260,7 +262,7 @@ _4 active listings_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_81 active listings_
+_80 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -276,7 +278,6 @@ _81 active listings_
 | Lake Michigan Credit Union | Business Intelligence Intern | Grand Rapids, MI | Internship | Oct 13 | [Apply ↗](https://lmcu.wd5.myworkdayjobs.com/lmcucareersite/job/Grand-Rapids-MI/Business-Intelligence-Intern_REQ-2026-6972) |
 | Koch Industries | Digital Technology & Data Intern | Auburn Hills, MI | Internship | Oct 12 | [Apply ↗](https://koch.avature.net/en_US/careers/JobDetail/195465) |
 | American Family Insurance Group | Data Analyst Intern - Agency Performance, Insights and Operations | Madison, WI | Internship | Oct 12 | [Apply ↗](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Data-Analyst-Intern---Agency-Performance--Insights-and-Operations_R39513) |
-| Denver | Data Analytics College Intern - Analytics and Innovation | Denver, CO | Internship | Oct 9 | [Apply ↗](https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs/job/Denver-International-Airport/Data-Analytics-and-Innovation-College-Internship---Analytics-and-Innovation---Denver-International-Airport--4-months-_R0083221-1) |
 | Amazon | Business Analyst Intern - Summer 2027 | Bellevue, WA | Summer Internship | Oct 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10575250/business-analyst-intern-summer-2027) |
 | Nissan Global | Manufacturing Digital Data Intern | Decherd, TN | Internship | Oct 8 | [Apply ↗](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881) |
 | Amazon | Business Intelligence Engineer Intern | Seattle, WA | Internship | Oct 8 | [Apply ↗](https://amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us) |
@@ -372,7 +373,7 @@ _3 active listings_
 
 <h2 id="other">📁 Other</h2>
 
-_35 active listings_
+_34 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -389,7 +390,6 @@ _35 active listings_
 | SpaceX | New Graduate Engineer, Manufacturing - '26 - '27 (Starlink) | Bastrop, TX | New Graduate | Oct 9 | [Apply ↗](https://boards.greenhouse.io/spacex/jobs/8877857002?gh_jid=8877857002) |
 | SageSure | Data Operations Engineer Intern | Jersey City, NJ | Internship | Oct 9 | [Apply ↗](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719517006) |
 | Amazon | Sourcing Recruiter Intern - Summer 2027 | Seattle, WA | Summer Internship | Oct 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10575252/sourcing-recruiter-intern-summer-2027) |
-| General Motors | 2027 Summer Intern - Global Manufacturing Robotics & Automation | Warren, MI | Summer Internship | Oct 6 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348) |
 | Regeneron Pharmaceuticals | Precision Medicine Operations Co - op | Armonk, NY | Co-op | Oct 2 | [Apply ↗](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/Armonk/XMLNAME-2027-Co-op-Precision-Medicine-Operations_R51082-1) |
 | BNY | Product Management Intern - Program Management | Pittsburgh, PA | Internship | Oct 1 | [Apply ↗](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82782) |
 | TikTok | Cross - border E - commerce Product Operations Intern - TikTok Shop - User & Promotion Growth Product | Seattle, WA | Internship | Sep 29 | [Apply ↗](https://lifeattiktok.com/search/7689010193607051525) |
