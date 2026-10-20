@@ -5,8 +5,8 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **329** active jobs
-🏢 **176** companies
+📊 **327** active jobs
+🏢 **175** companies
 🆕 **11** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **October 20, 2026**
@@ -78,7 +78,7 @@ _25 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_156 active listings_
+_155 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -232,7 +232,6 @@ _156 active listings_
 | TikTok | Product Manager Vertical Search Ads Mandarin Speaking Project intern - Content and Service Ads - 2026 Start - BS - MS | San Jose, CA | Internship | Jul 2 | [Apply ↗](https://lifeattiktok.com/search/7655410730217048373) |
 | TikTok | Product Manager Shop Ads Creative Project Intern - Ads Interface and Platform - 2026 Start - BS - MS | San Jose, CA | Internship | Jun 15 | [Apply ↗](https://lifeattiktok.com/search/7644986569989032197) |
 | TikTok | AI Product Manager Intern - Tiktok LIVE - Ecosystem Governance | San Jose, CA | Internship | Jun 15 | [Apply ↗](https://lifeattiktok.com/search/7598849238706735365) |
-| Sweatpals | Product Manager Intern - Host Squad | Remote | Internship | Jun 9 | [Apply ↗](https://jobs.ashbyhq.com/sweatpals/be2f5fa7-2542-40e6-873f-778322bb0522/application?embed=true) |
 | Oracle | Product Manager Intern - Ovip | Kansas City, MO | Internship | May 21 | [Apply ↗](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334348) |
 | TikTok | Product Manager Project Intern - Ads Interface and Platform | San Jose, CA | Internship | Apr 30 | [Apply ↗](https://lifeattiktok.com/search/7634027348048709941) |
 | Globus Medical | Associate Product Manager | King of Prussia, PA | Unknown | Mar 11 | [Apply ↗](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Product-Manager_JR105815) |
@@ -375,7 +374,7 @@ _3 active listings_
 
 <h2 id="other">📁 Other</h2>
 
-_35 active listings_
+_34 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -384,7 +383,6 @@ _35 active listings_
 | Johnson & Johnson | J&J Manufacturing Co - op Spring 2027 | San Angelo, TX | Co-op | Oct 20 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/San-Angelo-Texas-United-States-of-America/J-J-Manufacturing-Co-op-Spring-2027_R-098715) |
 | General Motors | 2027 Summer Intern - Manufacturing Excellence Industrial Engineering 🆕 | Warren, MI | Summer Internship | Oct 20 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Excellence-Industrial-Engineering_JR-202622634) |
 | Q2 | Product Operations Intern - Product Operations | Austin, TX | Internship | Oct 15 | [Apply ↗](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Product-Operations_REQ-12904-1) |
-| Johnson & Johnson | Technical Operations Co - op | West Chester, PA | Co-op | Oct 15 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/West-Chester-Pennsylvania-United-States-of-America/Technical-Operations-Co-op_R-100885) |
 | Johnson & Johnson | External Manufacturing Center of Excellence Intern | New Brunswick, NJ | Internship | Oct 15 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/EM-Center-of-Excellence-Intern_R-103760) |
 | Meta | Computer Vision Engineer Intern - Advanced Manufacturing - Reality Labs | Sunnyvale, CA | Internship | Oct 14 | [Apply ↗](https://www.metacareers.com/jobs/1758435721926913) |
 | Azul Systems | IT Intern - AI and Operations | Sunnyvale, CA | Internship | Oct 13 | [Apply ↗](https://jobs.lever.co/azul/8f41ceaf-8835-4fc7-ba57-9384487d59db/apply) |
