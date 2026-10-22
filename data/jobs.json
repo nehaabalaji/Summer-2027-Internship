@@ -9881,7 +9881,7 @@
     "category_confidence": 1.0,
     "job_type": "Co-op",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-09-05",
+    "date_posted": "2026-10-22",
     "date_discovered": "2026-09-04",
     "application_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Warsaw-Indiana-United-States-of-America/Production-Planning-Co-Op-Spring-2027_R-096903",
     "source_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Warsaw-Indiana-United-States-of-America/Production-Planning-Co-Op-Spring-2027_R-096903",
@@ -9893,10 +9893,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": false,
-    "last_verified": "2026-09-11",
+    "active": true,
+    "last_verified": "2026-10-22",
     "needs_review": false,
-    "consecutive_misses": 2,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
