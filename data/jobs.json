@@ -9728,10 +9728,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -13886,10 +13886,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -19430,10 +19430,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -22007,7 +22007,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -22070,10 +22070,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": false,
+    "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 2,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -22370,7 +22370,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": true,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -22466,10 +22466,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": false,
+    "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 2,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -22499,10 +22499,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": false,
+    "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 2,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -22532,10 +22532,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": false,
+    "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 2,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -22634,7 +22634,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -22697,10 +22697,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": false,
+    "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 2,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -22730,10 +22730,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": false,
+    "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 2,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -22895,10 +22895,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": false,
+    "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 2,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -22931,7 +22931,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -22994,10 +22994,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": false,
+    "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 2,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -23093,10 +23093,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": false,
+    "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 2,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -23225,10 +23225,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": false,
+    "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 2,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -23426,7 +23426,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -23459,7 +23459,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -23621,10 +23621,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -23657,7 +23657,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -23687,10 +23687,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": false,
+    "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 2,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -24243,6 +24243,105 @@
     "source": "SimplifyJobs GitHub (New Grad)",
     "source_key": "simplify_newgrad",
     "source_job_id": "37eac507-f568-4419-a1fa-1a0853849de4",
+    "description": "Product",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-10-23",
+    "needs_review": false,
+    "consecutive_misses": 0,
+    "seed": false
+  },
+  {
+    "id": "amazon-10587855",
+    "company": "Amazon",
+    "company_logo": "",
+    "title": "2027 Amazon Air (Network Control Center) Supply Chain Manager Intern",
+    "normalized_title": "2027 amazon air network control center supply chain manager intern",
+    "location": "Erlanger, KY",
+    "city": "Erlanger",
+    "state": "KY",
+    "country": "United States",
+    "category": "Supply Chain",
+    "subcategory": "supply chain",
+    "category_confidence": 1.0,
+    "job_type": "Internship",
+    "work_arrangement": "Unknown",
+    "date_posted": "2026-10-23",
+    "date_discovered": "2026-10-23",
+    "application_url": "https://www.amazon.jobs/en/jobs/10587855/2027-amazon-air-network-control-center-supply-chain-manager-intern",
+    "source_url": "https://www.amazon.jobs/en/jobs/10587855/2027-amazon-air-network-control-center-supply-chain-manager-intern",
+    "source": "Amazon Careers",
+    "source_key": "amazon",
+    "source_job_id": "10587855",
+    "description": "There’s a universe of opportunity at Amazon.At Amazon, your career doesn’t follow a straight line. It accelerates, twists, and challenges you in ways you never expected. From the moment you join, you’re Supply Chain/Transportation Management studentprograms Supply Chain Management",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-10-23",
+    "needs_review": false,
+    "consecutive_misses": 0,
+    "seed": false
+  },
+  {
+    "id": "amazon-10587854",
+    "company": "Amazon",
+    "company_logo": "",
+    "title": "2027 Amazon Air Supply Chain Manager Intern",
+    "normalized_title": "2027 amazon air supply chain manager intern",
+    "location": "Bellevue, WA",
+    "city": "Bellevue",
+    "state": "WA",
+    "country": "United States",
+    "category": "Supply Chain",
+    "subcategory": "supply chain",
+    "category_confidence": 1.0,
+    "job_type": "Internship",
+    "work_arrangement": "Unknown",
+    "date_posted": "2026-10-23",
+    "date_discovered": "2026-10-23",
+    "application_url": "https://www.amazon.jobs/en/jobs/10587854/2027-amazon-air-supply-chain-manager-intern",
+    "source_url": "https://www.amazon.jobs/en/jobs/10587854/2027-amazon-air-supply-chain-manager-intern",
+    "source": "Amazon Careers",
+    "source_key": "amazon",
+    "source_job_id": "10587854",
+    "description": "There’s a universe of opportunity at Amazon.At Amazon, your career doesn’t follow a straight line. It accelerates, twists, and challenges you in ways you never expected. From the moment you join, you’re Supply Chain/Transportation Management studentprograms Supply Chain Management",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-10-23",
+    "needs_review": false,
+    "consecutive_misses": 0,
+    "seed": false
+  },
+  {
+    "id": "1password-fc8cae17-5e4e-43fc-802d-41864d7e3c10",
+    "company": "1Password",
+    "company_logo": "",
+    "title": "Product Management Intern - End User Experience",
+    "normalized_title": "product management intern end user experience",
+    "location": "Remote",
+    "city": null,
+    "state": null,
+    "country": "United States",
+    "category": "Product Management",
+    "subcategory": "product management",
+    "category_confidence": 1.0,
+    "job_type": "Internship",
+    "work_arrangement": "Remote",
+    "date_posted": "2026-10-23",
+    "date_discovered": "2026-10-23",
+    "application_url": "https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true",
+    "source_url": "https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true",
+    "source": "SimplifyJobs GitHub (Summer Internships)",
+    "source_key": "simplify_summer",
+    "source_job_id": "fc8cae17-5e4e-43fc-802d-41864d7e3c10",
     "description": "Product",
     "salary_min": null,
     "salary_max": null,
