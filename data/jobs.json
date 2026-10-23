@@ -818,10 +818,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -851,10 +851,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -1181,10 +1181,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -2159,10 +2159,10 @@
     "category_confidence": 1.0,
     "job_type": "Internship",
     "work_arrangement": "Unknown",
-    "date_posted": "2026-08-05",
+    "date_posted": "2026-09-01",
     "date_discovered": "2026-08-16",
-    "application_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148",
-    "source_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148",
+    "application_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012638",
+    "source_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012638",
     "source": "SimplifyJobs GitHub (Summer Internships)",
     "source_key": "simplify_summer",
     "source_job_id": "d73faddb-6b91-4205-a34a-ecb8289ec010",
@@ -3197,7 +3197,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -3230,7 +3230,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -3263,7 +3263,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -3296,7 +3296,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -4451,7 +4451,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -4484,7 +4484,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -4748,7 +4748,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -4814,7 +4814,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -5012,7 +5012,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -5243,7 +5243,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -5309,7 +5309,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -5969,7 +5969,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -6002,7 +6002,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -6167,7 +6167,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -6794,7 +6794,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -6989,10 +6989,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -7352,10 +7352,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": false,
-    "last_verified": "2026-09-03",
+    "active": true,
+    "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 2,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -7913,10 +7913,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": true,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -8081,7 +8081,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -8114,7 +8114,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -8147,7 +8147,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -9731,7 +9731,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -10490,7 +10490,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -10589,7 +10589,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -10952,7 +10952,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -11051,7 +11051,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": true,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -11183,7 +11183,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -11282,7 +11282,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -11315,7 +11315,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -11348,7 +11348,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -11381,7 +11381,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -11480,7 +11480,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -11777,7 +11777,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -11810,7 +11810,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -11975,7 +11975,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -12041,7 +12041,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -12404,7 +12404,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -12932,7 +12932,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -13031,7 +13031,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -13097,7 +13097,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -13127,10 +13127,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": false,
-    "last_verified": "2026-10-04",
+    "active": true,
+    "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 2,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -13556,10 +13556,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": false,
-    "last_verified": "2026-09-26",
+    "active": true,
+    "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 2,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -13889,7 +13889,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -14216,10 +14216,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": false,
-    "last_verified": "2026-10-04",
+    "active": true,
+    "last_verified": "2026-10-23",
     "needs_review": true,
-    "consecutive_misses": 2,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -14615,7 +14615,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -15407,7 +15407,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -15869,7 +15869,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -15902,7 +15902,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -16133,7 +16133,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -16199,7 +16199,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -16331,7 +16331,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -16562,7 +16562,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": true,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -16859,7 +16859,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -16958,7 +16958,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -17024,7 +17024,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -18014,7 +18014,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": true,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -18047,7 +18047,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -18278,7 +18278,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -18311,7 +18311,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -18344,7 +18344,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -19070,7 +19070,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -19202,7 +19202,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": true,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -19334,7 +19334,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -19367,7 +19367,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -19433,7 +19433,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -19562,10 +19562,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -19598,7 +19598,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -19730,7 +19730,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -19928,7 +19928,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -19961,7 +19961,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -19994,7 +19994,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -20057,10 +20057,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": false,
+    "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 2,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -20192,7 +20192,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -20357,7 +20357,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -20390,7 +20390,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -20588,7 +20588,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -20951,7 +20951,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -21182,7 +21182,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -21215,7 +21215,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": true,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -21248,7 +21248,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": true,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -21314,7 +21314,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -21413,7 +21413,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -21446,7 +21446,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -21578,7 +21578,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -21743,7 +21743,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": true,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -22007,7 +22007,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -22070,10 +22070,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -22268,10 +22268,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": true,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -22370,7 +22370,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": true,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -22400,10 +22400,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -22466,10 +22466,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -22499,10 +22499,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -22532,10 +22532,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -22634,7 +22634,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -22697,10 +22697,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -22730,10 +22730,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -22799,7 +22799,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 0,
     "seed": false
   },
   {
@@ -22895,10 +22895,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -22931,7 +22931,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -22994,10 +22994,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -23027,10 +23027,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -23093,10 +23093,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -23225,10 +23225,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -23426,7 +23426,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -23459,7 +23459,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -23624,7 +23624,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -23657,7 +23657,7 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -23687,10 +23687,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-10-23",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -23921,6 +23921,336 @@
     "active": true,
     "last_verified": "2026-10-23",
     "needs_review": true,
+    "consecutive_misses": 0,
+    "seed": false
+  },
+  {
+    "id": "us-foods-df85616d-6f36-4712-95be-823935573c4e",
+    "company": "US Foods",
+    "company_logo": "",
+    "title": "Product Analyst Intern - Supply Chain Technology",
+    "normalized_title": "product analyst intern supply chain technology",
+    "location": "Rosemont, IL",
+    "city": "Rosemont",
+    "state": "IL",
+    "country": "United States",
+    "category": "Supply Chain",
+    "subcategory": "supply chain",
+    "category_confidence": 1.0,
+    "job_type": "Internship",
+    "work_arrangement": "Unknown",
+    "date_posted": "2026-09-01",
+    "date_discovered": "2026-10-23",
+    "application_url": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Product-Analyst--Supply-Chain-Technology--Hybrid--Onsite---Remote-_R282104",
+    "source_url": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Product-Analyst--Supply-Chain-Technology--Hybrid--Onsite---Remote-_R282104",
+    "source": "SimplifyJobs GitHub (Summer Internships)",
+    "source_key": "simplify_summer",
+    "source_job_id": "df85616d-6f36-4712-95be-823935573c4e",
+    "description": "Product",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-10-23",
+    "needs_review": false,
+    "consecutive_misses": 0,
+    "seed": false
+  },
+  {
+    "id": "oatey-6eb16fc5-50ab-4251-b615-bdd684a38012",
+    "company": "OATEY",
+    "company_logo": "",
+    "title": "Product Management Intern",
+    "normalized_title": "product management intern",
+    "location": "Cleveland, OH",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "United States",
+    "category": "Product Management",
+    "subcategory": "product management",
+    "category_confidence": 1.0,
+    "job_type": "Internship",
+    "work_arrangement": "Unknown",
+    "date_posted": "2026-09-04",
+    "date_discovered": "2026-10-23",
+    "application_url": "https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/Product-Management-Intern_R7185",
+    "source_url": "https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/Product-Management-Intern_R7185",
+    "source": "SimplifyJobs GitHub (Summer Internships)",
+    "source_key": "simplify_summer",
+    "source_job_id": "6eb16fc5-50ab-4251-b615-bdd684a38012",
+    "description": "Product",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-10-23",
+    "needs_review": false,
+    "consecutive_misses": 0,
+    "seed": false
+  },
+  {
+    "id": "businessolver-91f41328-4a4c-4ded-82fe-df25f52e8c51",
+    "company": "Businessolver",
+    "company_logo": "",
+    "title": "Product Manager Intern",
+    "normalized_title": "product manager intern",
+    "location": "Remote",
+    "city": null,
+    "state": null,
+    "country": "United States",
+    "category": "Product Management",
+    "subcategory": "product manager",
+    "category_confidence": 1.0,
+    "job_type": "Internship",
+    "work_arrangement": "Remote",
+    "date_posted": "2026-09-11",
+    "date_discovered": "2026-10-23",
+    "application_url": "https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/8197663",
+    "source_url": "https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/8197663",
+    "source": "SimplifyJobs GitHub (Summer Internships)",
+    "source_key": "simplify_summer",
+    "source_job_id": "91f41328-4a4c-4ded-82fe-df25f52e8c51",
+    "description": "Product",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-10-23",
+    "needs_review": false,
+    "consecutive_misses": 0,
+    "seed": false
+  },
+  {
+    "id": "microsoft-f040379e-c118-4f37-83a8-5a73faa7b40b",
+    "company": "Microsoft",
+    "company_logo": "",
+    "title": "Technical Program Management Intern",
+    "normalized_title": "technical program management intern",
+    "location": "Redmond, WA",
+    "city": "Redmond",
+    "state": "WA",
+    "country": "United States",
+    "category": "Project & Program Management",
+    "subcategory": "program management",
+    "category_confidence": 1.0,
+    "job_type": "Internship",
+    "work_arrangement": "Unknown",
+    "date_posted": "2026-09-11",
+    "date_discovered": "2026-10-23",
+    "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556983238",
+    "source_url": "https://apply.careers.microsoft.com/careers/job/1970393556983238",
+    "source": "SimplifyJobs GitHub (Summer Internships)",
+    "source_key": "simplify_summer",
+    "source_job_id": "f040379e-c118-4f37-83a8-5a73faa7b40b",
+    "description": "Product",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-10-23",
+    "needs_review": false,
+    "consecutive_misses": 0,
+    "seed": false
+  },
+  {
+    "id": "hf-sinclair-7ddf277e-2015-4e65-ba79-906aa7c813de",
+    "company": "HF Sinclair",
+    "company_logo": "",
+    "title": "Business Analytics Intern",
+    "normalized_title": "business analytics intern",
+    "location": "Dallas, TX",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "United States",
+    "category": "Business Analytics",
+    "subcategory": "business analytics",
+    "category_confidence": 1.0,
+    "job_type": "Internship",
+    "work_arrangement": "Unknown",
+    "date_posted": "2026-09-15",
+    "date_discovered": "2026-10-23",
+    "application_url": "https://careers.hfsinclair.com/job/Dallas-Branded-Fuels-Business-Analytics-Intern-TX-75219/1430072700/?ats=successfactors",
+    "source_url": "https://careers.hfsinclair.com/job/Dallas-Branded-Fuels-Business-Analytics-Intern-TX-75219/1430072700/?ats=successfactors",
+    "source": "SimplifyJobs GitHub (Summer Internships)",
+    "source_key": "simplify_summer",
+    "source_job_id": "7ddf277e-2015-4e65-ba79-906aa7c813de",
+    "description": "AI/ML/Data",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-10-23",
+    "needs_review": false,
+    "consecutive_misses": 0,
+    "seed": false
+  },
+  {
+    "id": "micron-technology-ca642544-00ec-45ef-b6e5-d8bfdc579f5a",
+    "company": "Micron Technology",
+    "company_logo": "",
+    "title": "Site Industrial Engineer Intern",
+    "normalized_title": "site industrial engineer intern",
+    "location": "Boise, ID",
+    "city": "Boise",
+    "state": "ID",
+    "country": "United States",
+    "category": "Manufacturing",
+    "subcategory": "industrial engineer",
+    "category_confidence": 1.0,
+    "job_type": "Internship",
+    "work_arrangement": "Unknown",
+    "date_posted": "2026-08-23",
+    "date_discovered": "2026-10-23",
+    "application_url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729",
+    "source_url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729",
+    "source": "SimplifyJobs GitHub (Summer Internships)",
+    "source_key": "simplify_summer",
+    "source_job_id": "ca642544-00ec-45ef-b6e5-d8bfdc579f5a",
+    "description": "AI/ML/Data",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-10-23",
+    "needs_review": false,
+    "consecutive_misses": 0,
+    "seed": false
+  },
+  {
+    "id": "airbus-bd93c9e1-34c6-4861-bd78-38f25dccb3ae",
+    "company": "Airbus",
+    "company_logo": "",
+    "title": "Operational Excellence Analyst Intern - Data Analytics - Operational Excellence",
+    "normalized_title": "operational excellence analyst intern data analytics operational excellence",
+    "location": "Mobile, AL",
+    "city": "Mobile",
+    "state": "AL",
+    "country": "United States",
+    "category": "Other",
+    "subcategory": null,
+    "category_confidence": 1.0,
+    "job_type": "Internship",
+    "work_arrangement": "Unknown",
+    "date_posted": "2026-09-28",
+    "date_discovered": "2026-10-23",
+    "application_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Summer-Internship-2027---Data-Analytics---Operational-Excellence_JR10442492",
+    "source_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Summer-Internship-2027---Data-Analytics---Operational-Excellence_JR10442492",
+    "source": "SimplifyJobs GitHub (Summer Internships)",
+    "source_key": "simplify_summer",
+    "source_job_id": "bd93c9e1-34c6-4861-bd78-38f25dccb3ae",
+    "description": "AI/ML/Data",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-10-23",
+    "needs_review": true,
+    "consecutive_misses": 0,
+    "seed": false
+  },
+  {
+    "id": "freestone-capital-management-8af600d6-6ea1-466e-9f4d-3bbbce358d82",
+    "company": "Freestone Capital Management",
+    "company_logo": "",
+    "title": "Technology & Operations Intern",
+    "normalized_title": "technology operations intern",
+    "location": "Seattle, WA",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "United States",
+    "category": "Operations",
+    "subcategory": "operations intern",
+    "category_confidence": 1.0,
+    "job_type": "Internship",
+    "work_arrangement": "Unknown",
+    "date_posted": "2026-09-25",
+    "date_discovered": "2026-10-23",
+    "application_url": "https://job-boards.greenhouse.io/freestonecapitalmanagement/jobs/5430136008",
+    "source_url": "https://job-boards.greenhouse.io/freestonecapitalmanagement/jobs/5430136008",
+    "source": "SimplifyJobs GitHub (Summer Internships)",
+    "source_key": "simplify_summer",
+    "source_job_id": "8af600d6-6ea1-466e-9f4d-3bbbce358d82",
+    "description": "AI/ML/Data",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-10-23",
+    "needs_review": false,
+    "consecutive_misses": 0,
+    "seed": false
+  },
+  {
+    "id": "m-t-bank-285b4498-ba93-4a58-af21-59a146c6c5b7",
+    "company": "M&T Bank",
+    "company_logo": "",
+    "title": "Forward Deployed Digital Product Analyst New Grad - IS",
+    "normalized_title": "forward deployed digital product analyst new grad is",
+    "location": "Wilmington, DE",
+    "city": "Wilmington",
+    "state": "DE",
+    "country": "United States",
+    "category": "Product Management",
+    "subcategory": "product analyst",
+    "category_confidence": 1.0,
+    "job_type": "New Graduate",
+    "work_arrangement": "Unknown",
+    "date_posted": "2026-09-28",
+    "date_discovered": "2026-10-23",
+    "application_url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Wilmington-DE/XMLNAME-2027-Management-Development-Program---IS-Forward-Deployed-Product-Analyst---Wilmington--DE-_R89998",
+    "source_url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Wilmington-DE/XMLNAME-2027-Management-Development-Program---IS-Forward-Deployed-Product-Analyst---Wilmington--DE-_R89998",
+    "source": "SimplifyJobs GitHub (New Grad)",
+    "source_key": "simplify_newgrad",
+    "source_job_id": "285b4498-ba93-4a58-af21-59a146c6c5b7",
+    "description": "Product",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-10-23",
+    "needs_review": false,
+    "consecutive_misses": 0,
+    "seed": false
+  },
+  {
+    "id": "m-t-bank-37eac507-f568-4419-a1fa-1a0853849de4",
+    "company": "M&T Bank",
+    "company_logo": "",
+    "title": "Management Development Program New Grad - IS Forward Deployed Product Analyst",
+    "normalized_title": "management development program new grad is forward deployed product analyst",
+    "location": "Wilmington, DE",
+    "city": "Wilmington",
+    "state": "DE",
+    "country": "United States",
+    "category": "Product Management",
+    "subcategory": "product analyst",
+    "category_confidence": 1.0,
+    "job_type": "New Graduate",
+    "work_arrangement": "Unknown",
+    "date_posted": "2026-09-28",
+    "date_discovered": "2026-10-23",
+    "application_url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Wilmington-DE/XMLNAME-2027-Management-Development-Program---IS-Forward-Deployed-Product-Analyst--Wilmington--DE-_R89997",
+    "source_url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Wilmington-DE/XMLNAME-2027-Management-Development-Program---IS-Forward-Deployed-Product-Analyst--Wilmington--DE-_R89997",
+    "source": "SimplifyJobs GitHub (New Grad)",
+    "source_key": "simplify_newgrad",
+    "source_job_id": "37eac507-f568-4419-a1fa-1a0853849de4",
+    "description": "Product",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-10-23",
+    "needs_review": false,
     "consecutive_misses": 0,
     "seed": false
   }
