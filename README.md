@@ -7,7 +7,7 @@ Find a role, click **Apply ↗**, and land on the employer's original applicatio
 <!-- JOBS:START -->
 📊 **354** active jobs
 🏢 **186** companies
-🆕 **24** added in the last 24 hours
+🆕 **25** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **October 24, 2026**
 
@@ -153,7 +153,6 @@ _168 active listings_
 | Rivian | MBA Intern Co - op - Product Management Product Development | Palo Alto, CA | Co-op | Sep 22 | [Apply ↗](https://careers.rivian.com/jobs/33793?icims=1) |
 | ByteDance | Product Management Project Intern - Global Payment | San Jose, CA | Internship | Sep 22 | [Apply ↗](https://jobs.bytedance.com/en/position/7686394581777631541/detail) |
 | Hard Rock Digital | Associate Product Manager - Associate Game Producer - Casino Games | Hollywood, FL | Unknown | Sep 21 | [Apply ↗](https://hardrockdigital.recruitee.com/o/associate-product-manager-associate-game-producer-casino-games) |
-| Rundoo | Product Manager Intern | Redwood City, CA | Internship | Sep 18 | [Apply ↗](https://jobs.ashbyhq.com/rundoo/b7d71a5a-4a88-4e97-a6db-e0446eefb389/application?embed=true) |
 | Publicis Groupe | Product Manager Intern - Class of 2028 | Chicago, IL | Internship | Sep 18 | [Apply ↗](https://careers.publicisgroupe.com/jobs/172574?icims=1) |
 | General Motors | Product Management Intern - Digital Product | Austin, TX | Internship | Sep 18 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538) |
 | Zurn Elkay Water Solutions | Product Management Intern | Paso Robles, CA | Internship | Sep 17 | [Apply ↗](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109) |
@@ -188,6 +187,7 @@ _168 active listings_
 | ID.me | Product Intern | Mountain View, CA | Internship | Sep 8 | [Apply ↗](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003) |
 | ID.me | Associate Product Manager New Grad | McLean, VA | New Graduate | Sep 8 | [Apply ↗](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986694003) |
 | Dick's Sporting Goods | Product Management Intern - Corporate Internship | Pittsburgh, PA | Internship | Sep 8 | [Apply ↗](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1) |
+| Cox | Product Management Intern | Austin, TX | Internship | Sep 8 | [Apply ↗](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Product-Management-Intern---Summer-2027--Austin--TX-_R202682189) |
 | COUNTRY Financial | Auto Product Analyst Intern | Bloomington, IL | Internship | Sep 8 | [Apply ↗](https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Auto-Product-Analyst-Intern_R26_0000000995) |
 | OATEY | Product Management Intern 🆕 | Cleveland, OH | Internship | Sep 4 | [Apply ↗](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/Product-Management-Intern_R7185) |
 | TikTok | AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem | San Jose, CA | Internship | Sep 3 | [Apply ↗](https://lifeattiktok.com/search/7677493272788683013) |
@@ -281,7 +281,7 @@ _3 active listings_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_87 active listings_
+_88 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -352,6 +352,7 @@ _87 active listings_
 | Navy Federal | Business Intelligence Analyst Intern | Winchester, VA | Internship | Sep 9 | [Apply ↗](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32031) |
 | Barnes & Thornburg | Information Technology Data Intern | Indianapolis, IN | Internship | Sep 9 | [Apply ↗](https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0/application?embed=true) |
 | Protective Life | Business Analytics Intern | Birmingham, AL | Internship | Sep 8 | [Apply ↗](https://jobs.lever.co/protective/40354575-2b06-42cd-93fb-f9ea82bdec7c/apply) |
+| COUNTRY Financial | Consumer Insights Intern 🆕 | Bloomington, IL | Internship | Sep 8 | [Apply ↗](https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Consumer-Insights-Intern_R26_0000001030) |
 | Xcel Energy | Grid Data Intern | Minneapolis, MN | Internship | Sep 7 | [Apply ↗](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Grid-Data-Intern---MN_JR115742-1) |
 | Hewlett Packard | Business Intelligence and Infrastructure Analyst Intern | Vancouver, WA | Internship | Sep 7 | [Apply ↗](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1) |
 | Benjamin Moore | Business Insights Intern | Montvale, NJ | Internship | Sep 3 | [Apply ↗](https://careers-benjaminmoore.icims.com/jobs/2488/job?mobile=true&needsRedirect=false) |
@@ -389,13 +390,12 @@ _7 active listings_
 
 <h2 id="manufacturing">🏭 Manufacturing</h2>
 
-_6 active listings_
+_5 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Oshkosh | Digital Manufacturing Intern 🆕 | Spartanburg, SC | Internship | Oct 22 | [Apply ↗](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Spartanburg-South-Carolina-United-States/Digital-Manufacturing-Intern_R51065) |
 | Johnson & Johnson | Production Planning Co - Op Spring 2027 | Warsaw, IN | Co-op | Oct 22 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Warsaw-Indiana-United-States-of-America/Production-Planning-Co-Op-Spring-2027_R-096903) |
-| Boeing | Manufacturing Engineer (Government Training Engineering) (Entry - Level or Associate) | USA - Oklahoma City, OK | Entry Level | Oct 22 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Manufacturing-Engineer--Government-Training-Engineering---Entry-Level-or-Associate-_JR2026516191-1) |
 | Magna | Manufacturing Engineer - Technical Team Co - op Student | Brampton, CA | Co-op | Oct 13 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Brampton-Ontario-CA/Manufacturing-Engineer---Technical-Team-Co-op-Student_R00264460) |
 | Hewlett Packard | Quality Engineer Intern | Spring, TX | Internship | Sep 2 | [Apply ↗](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Quality-Engineering-Intern_UNI4756-1) |
 | Micron Technology | Site Industrial Engineer Intern 🆕 | Boise, ID | Internship | Aug 23 | [Apply ↗](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729) |
