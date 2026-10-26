@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **338** active jobs
-🏢 **178** companies
-🆕 **1** added in the last 24 hours
+📊 **337** active jobs
+🏢 **176** companies
+🆕 **2** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **October 26, 2026**
 
@@ -85,7 +85,7 @@ _29 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_159 active listings_
+_158 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -183,7 +183,6 @@ _159 active listings_
 | ID.me | Product Intern | Mountain View, CA | Internship | Sep 8 | [Apply ↗](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003) |
 | ID.me | Associate Product Manager New Grad | McLean, VA | New Graduate | Sep 8 | [Apply ↗](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986694003) |
 | Dick's Sporting Goods | Product Management Intern - Corporate Internship | Pittsburgh, PA | Internship | Sep 8 | [Apply ↗](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1) |
-| Cox | Product Management Intern | Austin, TX | Internship | Sep 8 | [Apply ↗](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Product-Management-Intern---Summer-2027--Austin--TX-_R202682189) |
 | COUNTRY Financial | Auto Product Analyst Intern | Bloomington, IL | Internship | Sep 8 | [Apply ↗](https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Auto-Product-Analyst-Intern_R26_0000000995) |
 | OATEY | Product Management Intern | Cleveland, OH | Internship | Sep 4 | [Apply ↗](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/Product-Management-Intern_R7185) |
 | TikTok | AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem | San Jose, CA | Internship | Sep 3 | [Apply ↗](https://lifeattiktok.com/search/7677493272788683013) |
@@ -272,12 +271,13 @@ _3 active listings_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_84 active listings_
+_85 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Intel | Operations Research, Engineering Analytics Graduate Intern | US, AZ | Internship | Oct 30 | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502) |
 | 3M | Internship - 2027 Undergraduate Business Analytics Intern - Consumer Business Group (CBG) | US, MN | Internship | Oct 30 | [Apply ↗](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) |
+| Pattern | Revenue Operations Data Analyst Intern 🆕 | Lehi, UT | Internship | Oct 26 | [Apply ↗](https://jobs.lever.co/pattern/84c10630-d414-4ad6-a195-05b0691fa97a/apply) |
 | Booz Allen | Enterprise Cybersecurity Data and Business Intelligence Analyst Intern | McLean, VA | Internship | Oct 22 | [Apply ↗](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/Enterprise-Cybersecurity-Data-and-Business-Intelligence-Analyst_R0252250) |
 | American Family Insurance Group | Business Intelligence Enablement Intern | Madison, WI | Internship | Oct 22 | [Apply ↗](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Business-Intelligence-Enablement_R39531) |
 | Zebra Technologies | Business Analyst Intern | Lincolnshire, IL | Internship | Oct 21 | [Apply ↗](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Business-Analyst_JR103646) |
@@ -389,7 +389,7 @@ _5 active listings_
 
 <h2 id="other">📁 Other</h2>
 
-_30 active listings_
+_29 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -406,7 +406,6 @@ _30 active listings_
 | Regeneron Pharmaceuticals | Precision Medicine Operations Co - op | Armonk, NY | Co-op | Oct 2 | [Apply ↗](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/Armonk/XMLNAME-2027-Co-op-Precision-Medicine-Operations_R51082-1) |
 | BNY | Product Management Intern - Program Management | Pittsburgh, PA | Internship | Oct 1 | [Apply ↗](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82782) |
 | TikTok | Cross - border E - commerce Product Operations Intern - TikTok Shop - User & Promotion Growth Product | Seattle, WA | Internship | Sep 29 | [Apply ↗](https://lifeattiktok.com/search/7689010193607051525) |
-| Airbus | Operational Excellence Analyst Intern - Data Analytics - Operational Excellence | Mobile, AL | Internship | Sep 28 | [Apply ↗](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Summer-Internship-2027---Data-Analytics---Operational-Excellence_JR10442492) |
 | Flex | Manufacturing Data & Analytics Co - op | Libertyville, IL | Co-op | Sep 18 | [Apply ↗](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Manufacturing-Data---Analytics-Co-Op---Spring-2027_WD229700) |
 | Altar'd State | Store Operations Data Analyst Intern | Knoxville, TN | Internship | Sep 15 | [Apply ↗](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-Store-Operations-Intern_SOSJ12464) |
 | Amazon | Data Center Engineering Operations Technician Internship | Sterling, VA | Internship | Sep 11 | [Apply ↗](https://www.amazon.jobs/en/jobs/10537998/data-center-engineering-operations-technician-internship) |
