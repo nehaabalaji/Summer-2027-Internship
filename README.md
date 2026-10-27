@@ -6,8 +6,8 @@ Find a role, click **Apply ↗**, and land on the employer's original applicatio
 
 <!-- JOBS:START -->
 📊 **348** active jobs
-🏢 **178** companies
-🆕 **12** added in the last 24 hours
+🏢 **177** companies
+🆕 **13** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **October 27, 2026**
 
@@ -277,12 +277,13 @@ _3 active listings_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_87 active listings_
+_88 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Intel | Operations Research, Engineering Analytics Graduate Intern | US, AZ | Internship | Oct 30 | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502) |
 | 3M | Internship - 2027 Undergraduate Business Analytics Intern - Consumer Business Group (CBG) | US, MN | Internship | Oct 30 | [Apply ↗](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) |
+| The Federal Reserve System | REIN Data Intern 🆕 | Atlanta, GA | Internship | Oct 27 | [Apply ↗](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---REIN-Data-Intern_R-0000033089) |
 | Valmont | Operations Data Analyst Intern 🆕 | Valley, NE | Internship | Oct 26 | [Apply ↗](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Operations-Data-Analyst-Intern_R29224) |
 | Pattern | Revenue Operations Data Analyst Intern 🆕 | Lehi, UT | Internship | Oct 26 | [Apply ↗](https://jobs.lever.co/pattern/84c10630-d414-4ad6-a195-05b0691fa97a/apply) |
 | Federal Home Loan Bank of Indianapolis | Business Intelligence Intern 🆕 | Indianapolis, IN | Internship | Oct 26 | [Apply ↗](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Business-Intelligence-Intern_R637) |
@@ -398,7 +399,7 @@ _5 active listings_
 
 <h2 id="other">📁 Other</h2>
 
-_31 active listings_
+_30 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -421,7 +422,6 @@ _31 active listings_
 | Altar'd State | Store Operations Data Analyst Intern | Knoxville, TN | Internship | Sep 15 | [Apply ↗](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-Store-Operations-Intern_SOSJ12464) |
 | Amazon | Data Center Engineering Operations Technician Internship | Sterling, VA | Internship | Sep 11 | [Apply ↗](https://www.amazon.jobs/en/jobs/10537998/data-center-engineering-operations-technician-internship) |
 | Entegris | Operations Technical Training Platforms Co - op | Colorado Springs, CO | Co-op | Sep 9 | [Apply ↗](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Operations-Technical-Training-Platforms-Co-Op_REQ-14416) |
-| Dominion Energy | Electrical Engineer Intern - Operations Analytics | Glen Allen, VA | Internship | Sep 8 | [Apply ↗](https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-ET-Operations-Analytics-VA-23060/1427633000/?ats=successfactors) |
 | Amazon | Operations Engineering Field (Execution) Intern Spring and Summer 2027 (CA, CT, FL, TX) | Cleburne, TX | Summer Internship | Sep 8 | [Apply ↗](https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-intern-spring-and-summer-2027-ca-ct-fl-tx) |
 | Amazon | Business Strategy & Execution Operations Engineering Intern Spring and Summer 2027 (Bellevue, WA ) | Bellevue, WA | Summer Internship | Sep 8 | [Apply ↗](https://www.amazon.jobs/en/jobs/10532290/business-strategy-execution-operations-engineering-intern-spring-and-summer-2027-bellevue-wa) |
 | SpaceX | New Graduate Engineer, Manufacturing (Starshield) | Hawthorne, CA | New Graduate | Aug 28 | [Apply ↗](https://boards.greenhouse.io/spacex/jobs/8752547002?gh_jid=8752547002) |
