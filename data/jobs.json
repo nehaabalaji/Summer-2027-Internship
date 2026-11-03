@@ -10124,10 +10124,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-11-03",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -10817,10 +10817,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-11-03",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -12305,7 +12305,7 @@
     "active": true,
     "last_verified": "2026-11-03",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -15899,10 +15899,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-11-03",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -16397,7 +16397,7 @@
     "active": true,
     "last_verified": "2026-11-03",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -20159,7 +20159,7 @@
     "active": true,
     "last_verified": "2026-11-03",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -22865,7 +22865,7 @@
     "active": true,
     "last_verified": "2026-11-03",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -23195,7 +23195,7 @@
     "active": true,
     "last_verified": "2026-11-03",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -26099,7 +26099,7 @@
     "active": true,
     "last_verified": "2026-11-03",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -26627,7 +26627,7 @@
     "active": true,
     "last_verified": "2026-11-03",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -27147,6 +27147,39 @@
     "source": "Boeing Careers (Workday)",
     "source_key": "boeing",
     "source_job_id": "JR2026528167",
+    "description": "",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-11-03",
+    "needs_review": false,
+    "consecutive_misses": 1,
+    "seed": false
+  },
+  {
+    "id": "boeing-jr2026524285",
+    "company": "Boeing",
+    "company_logo": "",
+    "title": "Entry Level Supply Chain Specialist (Supply Chain Management)",
+    "normalized_title": "entry level supply chain specialist supply chain management",
+    "location": "USA - Forest Park, GA",
+    "city": "USA - Forest Park",
+    "state": "GA",
+    "country": "United States",
+    "category": "Supply Chain",
+    "subcategory": "supply chain",
+    "category_confidence": 1.0,
+    "job_type": "Entry Level",
+    "work_arrangement": "Unknown",
+    "date_posted": "2026-11-03",
+    "date_discovered": "2026-11-03",
+    "application_url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Forest-Park-GA/Entry-Level-Supply-Chain-Specialist--Supply-Chain-Management-_JR2026524285-2",
+    "source_url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Forest-Park-GA/Entry-Level-Supply-Chain-Specialist--Supply-Chain-Management-_JR2026524285-2",
+    "source": "Boeing Careers (Workday)",
+    "source_key": "boeing",
+    "source_job_id": "JR2026524285",
     "description": "",
     "salary_min": null,
     "salary_max": null,
