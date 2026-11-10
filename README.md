@@ -5,11 +5,11 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **389** active jobs
-🏢 **211** companies
-🆕 **1** added in the last 24 hours
+📊 **394** active jobs
+🏢 **217** companies
+🆕 **10** added in the last 24 hours
 📁 **8** categories with listings
-🕒 Last updated: **November 9, 2026**
+🕒 Last updated: **November 10, 2026**
 
 ## Categories
 
@@ -34,7 +34,7 @@ _15 active listings_
 | Highmark Health | Enterprise Data Warehouse Systems Engineering Intern | Pittsburgh, PA | Internship | Oct 26 | [Apply ↗](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Data-Warehouse-Systems-enGen-Undergraduate-Intern_J289826) |
 | Amazon | 2027 Amazon Air Supply Chain Manager Intern | Bellevue, WA | Internship | Oct 23 | [Apply ↗](https://www.amazon.jobs/en/jobs/10587854/2027-amazon-air-supply-chain-manager-intern) |
 | Amazon | 2027 Amazon Air (Network Control Center) Supply Chain Manager Intern | Erlanger, KY | Internship | Oct 23 | [Apply ↗](https://www.amazon.jobs/en/jobs/10587855/2027-amazon-air-network-control-center-supply-chain-manager-intern) |
-| Magna | Supply Chain Intern | Northwood, OH | Internship | Oct 12 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Northwood-Ohio-US/Supply-Chain-Intern_R00265600) |
+| Magna | Supply Chain Intern | Northwood, OH | Internship | Oct 13 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Northwood-Ohio-US/Supply-Chain-Intern_R00265600) |
 | Amazon | Supply Chain Manager Intern - Summer 2027 | Seattle, WA | Summer Internship | Oct 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10575291/supply-chain-manager-intern-summer-2027) |
 | Midland States Bank | Associate Solutions Engineer Intern - Data Warehouse | St. Louis, MO | Internship | Oct 5 | [Apply ↗](https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---Associate-Solutions-Engineer---Data-Warehouse_JR1462) |
 | Rivian | Supply Chain Data, AI and Business Intelligence Co - op Intern | Normal, IL | Co-op | Sep 18 | [Apply ↗](https://careers.rivian.com/jobs/33800?icims=1) |
@@ -85,24 +85,28 @@ _35 active listings_
 | Amazon | Area Manager Intern - Summer 2027 (AL, FL, GA, NC, SC), University Recruiting | Atlanta, GA | Summer Internship | Aug 5 | [Apply ↗](https://www.amazon.jobs/en/jobs/10493095/area-manager-intern-summer-2027-al-fl-ga-nc-sc-university-recruiting) |
 | Amazon | Pathways Operations Manager Intern - Summer 2027 (Nationwide Opportunities) | Seattle, WA | Summer Internship | Aug 3 | [Apply ↗](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) |
 | TikTok | Product Solutions and Operations Intern - Ads Interface and Platform Product | Seattle, WA | Internship | Jul 28 | [Apply ↗](https://lifeattiktok.com/search/7665081919226284293) |
-| Zoox | Process Improvement Intern [2027] 🆕 | Foster City, CA | Internship | — | [Apply ↗](https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852) |
+| Zoox | Process Improvement Intern [2027] | Foster City, CA | Internship | — | [Apply ↗](https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852) |
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_183 active listings_
+_185 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| TikTok | GEO Content Product Manager Intern 🆕 | San Jose, CA | Internship | Nov 7 | [Apply ↗](https://lifeattiktok.com/search/7696000178264361269) |
+| Warner Bros. | Product Management Co - op 🆕 | Needham, MA | Co-op | Nov 9 | [Apply ↗](https://warnerbros.wd5.myworkdayjobs.com/global/job/MA-Needham-117-Kendrick-St/WB-Games-Product-Management-Co-op--Needham--MA---January-May-2027_R000109850) |
+| Pyrotek | Product Management Intern | Spokane, WA | Internship | Nov 9 | [Apply ↗](https://jobs.smartrecruiters.com/Pyrotek3/744000160635163) |
+| NVIDIA | Product Management Space Compute MBA Intern 🆕 | Santa Clara, CA | Internship | Nov 9 | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628) |
+| Badger Meter | Product Management Intern 🆕 | Milwaukee, WI | Internship | Nov 9 | [Apply ↗](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Product-Management-Intern_4676) |
+| TikTok | GEO Content Product Manager Intern | San Jose, CA | Internship | Nov 7 | [Apply ↗](https://lifeattiktok.com/search/7696000178264361269) |
 | TikTok | POI Content Product Manager Intern | San Jose, CA | Internship | Nov 6 | [Apply ↗](https://lifeattiktok.com/search/7696000179569854725) |
-| Honeywell | Product Management Intern - MBA 🆕 | Atlanta, GA | Internship | Nov 6 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159658) |
-| Hewlett Packard Enterprise | Campus Switching Product Manager New Grad 🆕 | San Jose, CA | New Graduate | Nov 6 | [Apply ↗](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California/Campus-Switching-Product-Manager-Graduate_1214267-1) |
+| Honeywell | Product Management Intern - MBA | Atlanta, GA | Internship | Nov 6 | [Apply ↗](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159658) |
+| Hewlett Packard Enterprise | Campus Switching Product Manager New Grad | San Jose, CA | New Graduate | Nov 6 | [Apply ↗](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California/Campus-Switching-Product-Manager-Graduate_1214267-1) |
+| DwyerOmega | Product Management Intern - Pressure & Force 🆕 | Michigan City, IN | Internship | Nov 6 | [Apply ↗](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4645741) |
 | Invesco | Digital Product Management Intern | Atlanta, GA | Internship | Nov 5 | [Apply ↗](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1) |
 | Tesla | Product Management Intern - Product Management - Megapack Services 3 | Palo Alto, CA | Internship | Nov 4 | [Apply ↗](https://www.tesla.com/careers/search/job/288805) |
 | USAFacts | Technical Product Manager Intern | Bellevue, WA | Internship | Nov 3 | [Apply ↗](https://job-boards.greenhouse.io/usafacts/jobs/4478253009) |
 | USAFacts | AI Product Intern | Bellevue, WA | Internship | Nov 3 | [Apply ↗](https://job-boards.greenhouse.io/usafacts/jobs/4478239009) |
 | Blackhawk Network Holdings | Associate Product Manager - Technology | Pleasanton, CA | Unknown | Nov 3 | [Apply ↗](https://blackhawknetwork.jibeapply.com/jobs/27263?icims=1) |
-| T-Mobile | Product Management Intern | Philadelphia, PA | Internship | Nov 2 | [Apply ↗](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735) |
 | ParetoHealth | Product Manager Intern | Philadelphia, PA | Internship | Nov 2 | [Apply ↗](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006) |
 | LexisNexis Risk Solutions | Product Manager Intern - Government | Alpharetta, GA | Internship | Nov 2 | [Apply ↗](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Government_R118611) |
 | LexisNexis Risk Solutions | Product Management Intern - Insurance | Alpharetta, GA | Internship | Nov 2 | [Apply ↗](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Insurance_R118879) |
@@ -118,7 +122,6 @@ _183 active listings_
 | Signify | Product Management Intern | Peachtree City, GA | Internship | Oct 29 | [Apply ↗](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Peachtree-City/Product-Management-Intern--Cooper-Lighting-Solutions---Spring-2027_366870) |
 | Dell Technologies | Product Management MBA Intern | Santa Clara, CA | Internship | Oct 29 | [Apply ↗](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297775) |
 | Cloudflare | Product Manager Intern | Austin, TX | Internship | Oct 29 | [Apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8274790) |
-| T-Mobile | Associate Technical Product Manager Intern | Frisco, TX | Internship | Oct 28 | [Apply ↗](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499) |
 | T-Mobile | Associate Product Manager - App | Bellevue, WA | Unknown | Oct 28 | [Apply ↗](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Product-Manager---App_REQ373263-1) |
 | SharkNinja | Product Strategy & Development Co - op | Needham, MA | Co-op | Oct 28 | [Apply ↗](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723344006) |
 | Micron Technology | CMBU Product Management Intern | San Jose, CA | Internship | Oct 27 | [Apply ↗](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941) |
@@ -147,11 +150,11 @@ _183 active listings_
 | Publicis Groupe | Product Intern | Chicago, IL | Internship | Oct 16 | [Apply ↗](https://publicisgroupe.jibeapply.com/jobs/172716?icims=1) |
 | ROCKWOOL Group | Associate Product Management Intern | Chicago, IL | Internship | Oct 15 | [Apply ↗](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Associate-Product-Management-Intern_R0036805-2) |
 | NVIDIA | Product Management MBA Intern | Santa Clara, CA | Internship | Oct 15 | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905) |
+| General Motors | 2027 Intern - Product Management, Vehicle Autonomy (MS or MBA) | Sunnyvale, CA | Internship | Oct 15 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) |
 | Duolingo | Product Manager MBA Intern | Pittsburgh, PA | Internship | Oct 15 | [Apply ↗](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002) |
 | Blue Origin | Terawave Product Management Intern - MBA | Kent, WA | Internship | Oct 15 | [Apply ↗](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200) |
 | Applied Materials | Product Management 2 New Grad | Santa Clara, CA | New Graduate | Oct 15 | [Apply ↗](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Management-II-New-College-Grad--Master-s--Santa-Clara--CA-_R2629882) |
 | General Motors | Product Management Intern - Vehicle Autonomy | Sunnyvale, CA | Internship | Oct 14 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) |
-| General Motors | 2027 Intern - Product Management, Vehicle Autonomy (MS or MBA) | Sunnyvale, CA | Internship | Oct 14 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) |
 | Prologis | AI Product Management Intern | Denver, CO | Internship | Oct 13 | [Apply ↗](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/AI-Product-Management-Intern_R6840) |
 | Clairo | Associate Product Manager | Remote | Unknown | Oct 13 | [Apply ↗](https://clarioclinical.wd1.myworkdayjobs.com/en-US/clarioclinical_careers/job/Canada-Remote/Associate-Product-Manager_R18374) |
 | Watts Water | Product Management Co - op | Menomonee Falls, WI | Co-op | Oct 12 | [Apply ↗](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702) |
@@ -200,7 +203,6 @@ _183 active listings_
 | Waymo | 2027 Summer Intern, MBA, Salesforce Product Owner | Los Angeles, CA | Summer Internship | Sep 15 | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8198582) |
 | NVIDIA | Product Management MBA Intern - Data Center GPU | Santa Clara, CA | Internship | Sep 15 | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1) |
 | Illinois Tool Works | Product Management Intern | Troy, OH | Internship | Sep 15 | [Apply ↗](https://careers.itw.com/global/en/job/JR10105) |
-| Xcel Energy | Residential Energy Product Strategy Intern | Minneapolis, MN | Internship | Sep 14 | [Apply ↗](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN_JR115811) |
 | Oshkosh | Product Management Intern | Hagerstown, MD | Internship | Sep 14 | [Apply ↗](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Product-Management-Intern_R49414) |
 | Lowe's | Digital Product Management Intern | Charlotte, NC | Internship | Sep 14 | [Apply ↗](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Digital-Product-Management---Undergrad-Internship---Summer-2027_JR-02645845) |
 | Intuit | Product Manager Intern | Mountain View, CA | Internship | Sep 14 | [Apply ↗](https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632) |
@@ -279,15 +281,14 @@ _183 active listings_
 
 <h2 id="procurement--sourcing">🛒 Procurement & Sourcing</h2>
 
-_6 active listings_
+_5 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | General Mills | Internship - Sourcing Analyst | Minneapolis, MN | Internship | Nov 30 | [Apply ↗](https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Internship---Sourcing-Analyst_10128706) |
-| Boeing | Entry Level Procurement Agent | USA - Huntsville, AL | Entry Level | Nov 6 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Entry-Level-Procurement-Agent_JR2026525739-1) |
+| Boeing | Entry Level Procurement Agent | USA - Huntsville, AL | Entry Level | Nov 7 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Entry-Level-Procurement-Agent_JR2026525739-1) |
 | Nissan | Purchasing Transformation Intern | Franklin, TN | Internship | Oct 30 | [Apply ↗](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Purchasing-Transformation-Intern---Summer-2027---Franklin--TN_R00214282) |
 | Nissan | Procurement Transformation Intern | Franklin, TN | Internship | Oct 30 | [Apply ↗](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Procurement-Transformation---Summer-2027---Franklin--TN_R00214279) |
-| Boeing | Entry Level Procurement Agent | USA - Ridley Park, PA | Entry Level | Oct 27 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Ridley-Park-PA/Entry-Level-Procurement-Agent_JR2026526361-1) |
 | Nissan Global | Purchasing Aftersales Intern | Franklin, TN | Internship | Oct 12 | [Apply ↗](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Purchasing-Aftersales-Intern---Summer-2027---Franklin--TN_R00214278) |
 
 <h2 id="logistics">🚚 Logistics</h2>
@@ -296,22 +297,26 @@ _4 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Tyson Foods | Transportation Operations Year - Round Intern | Corporate 412 West - Springdale, AR | Internship | Nov 2 | [Apply ↗](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate-412-West---Springdale-Arkansas/Transportation-Operations-Year-Round-Intern_R0494027-2) |
-| Tyson Foods | Logistics Modeling - Summer Intern | Corporate 412 West - Springdale, AR | Summer Internship | Oct 16 | [Apply ↗](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate-412-West---Springdale-Arkansas/Logistics-Modeling---Summer-Intern_R0486875-2) |
-| Tyson Foods | Transportation Operations - Summer Intern | Springdale, AR | Summer Internship | Oct 12 | [Apply ↗](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Springdale-AR-Terminal-Office---Springdale-Arkansas/Transportation-Operations---Summer-Intern_R0486872-2) |
+| Tyson Foods | Transportation Operations Year - Round Intern | Corporate 412 West - Springdale, AR | Internship | Nov 3 | [Apply ↗](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate-412-West---Springdale-Arkansas/Transportation-Operations-Year-Round-Intern_R0494027-2) |
+| Tyson Foods | Logistics Modeling - Summer Intern | Corporate 412 West - Springdale, AR | Summer Internship | Oct 17 | [Apply ↗](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate-412-West---Springdale-Arkansas/Logistics-Modeling---Summer-Intern_R0486875-2) |
+| Tyson Foods | Transportation Operations - Summer Intern | Springdale, AR | Summer Internship | Oct 13 | [Apply ↗](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Springdale-AR-Terminal-Office---Springdale-Arkansas/Transportation-Operations---Summer-Intern_R0486872-2) |
 | Applied Materials | Logistics Automation New Grad | Santa Clara, CA | New Graduate | Sep 14 | [Apply ↗](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Logistics-Automation-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2627714) |
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_94 active listings_
+_98 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Intel | Operations Research, Engineering Analytics Graduate Intern | US, AZ | Internship | Nov 30 | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502) |
 | 3M | Internship - 2027 Undergraduate Business Analytics Intern - Consumer Business Group (CBG) | US, MN | Internship | Nov 30 | [Apply ↗](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) |
+| Highmark Health | Reporting and Analytics Undergraduate Intern 🆕 | Washington, DC | Internship | Nov 9 | [Apply ↗](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-UCD-Reporting-and-Analytics-Undergraduate-Intern_J287987) |
+| DreamWorks Animation | Studio Operations - Data Analytics Intern 🆕 | Universal City, LA | Internship | Nov 9 | [Apply ↗](https://jobs.smartrecruiters.com/NBCUniversal3/744000160648109) |
+| Biodesix | Data Analytics & Business Intelligence Intern 🆕 | Louisville, CO | Internship | Nov 9 | [Apply ↗](https://www.biodesix.com/careers/current-openings?gh_jid=4485182009) |
+| AstraZeneca | Network Planning & Data Analytics Intern 🆕 | Tarzana, LA | Internship | Nov 9 | [Apply ↗](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US--Tarzana--CA/Network-Planning---Data-Analytics-Intern_R-263845) |
 | Samsung | ePro Business & Data Analyst Intern 🆕 | Plano, TX | Internship | Nov 8 | [Apply ↗](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996) |
-| Samsung | Business Intelligence & Data Analytics Intern 🆕 | Plano, TX | Internship | Nov 6 | [Apply ↗](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Intelligence---Data-Analytics-Intern_R121949) |
-| L.L.Bean | Business Analyst - Data Analyst Intern 🆕 | Freeport, ME | Internship | Nov 6 | [Apply ↗](https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Business--Data-Analyst-Intern--Summer-2027-_JR11275) |
+| Samsung | Business Intelligence & Data Analytics Intern | Plano, TX | Internship | Nov 6 | [Apply ↗](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Intelligence---Data-Analytics-Intern_R121949) |
+| L.L.Bean | Business Analyst - Data Analyst Intern | Freeport, ME | Internship | Nov 6 | [Apply ↗](https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Business--Data-Analyst-Intern--Summer-2027-_JR11275) |
 | Vizient | Research Analytics & Insights Intern | Chicago, IL | Internship | Nov 5 | [Apply ↗](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Research-Analytics---Insights_36064R-2) |
 | Chubb | Business Intelligence Intern | Chicago, IL | Internship | Nov 5 | [Apply ↗](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38335) |
 | Great American Insurance Company | Business Intelligence Intern - Power BI | Cincinnati, OH | Internship | Nov 4 | [Apply ↗](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Intelligence--Power-BI--Intern---Summer-2027_R9843) |
@@ -404,18 +409,19 @@ _94 active listings_
 
 <h2 id="project--program-management">📋 Project & Program Management</h2>
 
-_8 active listings_
+_9 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Catholic Charities of Kansas City-St. Joseph | Data and Project Coordinator AmeriCorps VISTA Intern | Kansas City, MO | Internship | Nov 5 | [Apply ↗](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4597604) |
 | Applied Materials | Data Intelligence - Technical Program Manager Intern | Santa Clara, CA | Internship | Nov 2 | [Apply ↗](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Intelligence-Technical-Program-Management-Intern--Master-s--Santa-Clara--CA-_R2627705) |
 | Hive Financial Systems | Product & Program Management Intern | Atlanta, GA | Internship | Oct 26 | [Apply ↗](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274970007) |
-| General Motors | 2027 Summer Intern - Program Management, GM Defense , | Warren, MI | Summer Internship | Oct 12 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Program-Management--GM-Defense--_JR-202622043) |
+| General Motors | 2027 Summer Intern - Program Management, GM Defense , | Warren, MI | Summer Internship | Oct 13 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Program-Management--GM-Defense--_JR-202622043) |
 | Amazon | Program Manager Intern - Summer 2027 | Seattle, WA | Summer Internship | Oct 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10575248/program-manager-intern-summer-2027) |
 | Amazon | Startup Project Manager (Support) Intern Spring and Summer 2027 (Bellevue, WA), | Bellevue, WA | Summer Internship | Sep 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10534582/startup-project-manager-support-intern-spring-and-summer-2027-bellevue-wa) |
 | Amazon | Startup Project Manager (Execution) Intern Spring and Summer 2027 (CA, CT, TX) | Cleburne, TX | Summer Internship | Sep 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10534584/startup-project-manager-execution-intern-spring-and-summer-2027-ca-ct-tx) |
 | Oracle | Project Manager Intern | Seattle, WA | Internship | May 21 | [Apply ↗](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334344) |
+| Zoox | Program Manager Intern [Summer 2027] | Foster City, CA | Summer Internship | — | [Apply ↗](https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8) |
 
 <h2 id="manufacturing">🏭 Manufacturing</h2>
 
@@ -423,36 +429,36 @@ _6 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| General Motors | Entry - Level Manufacturing Engineering Rotational Program | Warren, MI | Entry Level | Nov 6 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Manufacturing-Engineering-Rotational-Program_JR-202623777) |
+| General Motors | Entry - Level Manufacturing Engineering Rotational Program | Warren, MI | Entry Level | Nov 7 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Manufacturing-Engineering-Rotational-Program_JR-202623777) |
 | Keysight Technologies | Quality Engineer Intern | Roseville, CA | Internship | Oct 30 | [Apply ↗](https://jobs.keysight.com/jobs/54736?icims=1) |
 | Nissan Global | Physical AI Manufacturing Intern | Smyrna, TN | Internship | Oct 27 | [Apply ↗](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Physical-AI-Manufacturing-Intern---Summer-2027---Smyrna--TN_R00214526) |
 | Oshkosh | Digital Manufacturing Intern | Spartanburg, SC | Internship | Oct 22 | [Apply ↗](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Spartanburg-South-Carolina-United-States/Digital-Manufacturing-Intern_R51065) |
-| Magna | Manufacturing Engineer - Technical Team Co - op Student | Brampton, CA | Co-op | Oct 13 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Brampton-Ontario-CA/Manufacturing-Engineer---Technical-Team-Co-op-Student_R00264460) |
+| Magna | Manufacturing Engineer - Technical Team Co - op Student | Brampton, CA | Co-op | Oct 14 | [Apply ↗](https://magna.wd3.myworkdayjobs.com/Magna/job/Brampton-Ontario-CA/Manufacturing-Engineer---Technical-Team-Co-op-Student_R00264460) |
 | Hewlett Packard | Quality Engineer Intern | Spring, TX | Internship | Sep 2 | [Apply ↗](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Quality-Engineering-Intern_UNI4756-1) |
 
 <h2 id="other">📁 Other</h2>
 
-_38 active listings_
+_37 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Zoetis Services | Data and Analytics Product Operations Intern 🆕 | Parsippany-Troy Hills, NJ | Internship | Nov 9 | [Apply ↗](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/Data---Analytics-Product-Operations-Intern_JR00022022-1) |
 | Vizient | Product Operations Internship - Metrics & Reporting | Irving, TX | Internship | Nov 5 | [Apply ↗](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations-Metrics---Reporting_36053R-1) |
 | Vizient | Product Operations Intern | Irving, TX | Internship | Nov 5 | [Apply ↗](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations_36065R) |
+| General Motors | Entry Level Manufacturing Group Leader - Production - Springhill Engine | Spring Hill, TN | Entry Level | Nov 5 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Spring-Hill-Tennessee-United-States-of-America/Entry-Level-Manufacturing-Group-Leader---Production---Springhill-Engine_JR-202623699) |
+| Boeing | Mission Operations Engineer (Entry - Level) - Millennium Space Systems | USA - Chantilly, VA | Entry Level | Nov 5 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Chantilly-VA/Mission-Operations-Engineer--Entry-Level----Millennium-Space-Systems_JR2026527323-1) |
 | AstraZeneca | Manufacturing Digital and AI Intern | Gaithersburg, MD | Internship | Nov 5 | [Apply ↗](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647) |
 | National Laboratory of the Rockies | Graduate Intern - Artificial Learning and Intelligence for Transportation Safety and Operations | Golden, CO | Internship | Nov 4 | [Apply ↗](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern----Artificial-Learning-and-Intelligence-for-Transportation-Safety-and-Operations_R14590) |
-| General Motors | Entry Level Manufacturing Group Leader - Production - Springhill Engine | Spring Hill, TN | Entry Level | Nov 4 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Spring-Hill-Tennessee-United-States-of-America/Entry-Level-Manufacturing-Group-Leader---Production---Springhill-Engine_JR-202623699) |
-| Boeing | Mission Operations Engineer (Entry - Level) - Millennium Space Systems | USA - Chantilly, VA | Entry Level | Nov 4 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Chantilly-VA/Mission-Operations-Engineer--Entry-Level----Millennium-Space-Systems_JR2026527323-1) |
-| T-Mobile | Product Operations Manager Intern | Bellevue, WA | Internship | Nov 2 | [Apply ↗](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Product-Operations-Manager-Internship_REQ380888) |
 | TikTok | Product Solutions and Operations New Grad - Global Monetization Product and Technology | San Jose, CA | New Graduate | Oct 30 | [Apply ↗](https://lifeattiktok.com/search/7702517151362976053) |
+| Boeing | Maintenance, Repair, and Overhaul (MRO) and Component Operations Aircraft Mechanics - Electricians (Entry - Level) | USA - Jacksonville, FL | Entry Level | Oct 29 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Jacksonville-FL/Maintenance--Repair--and-Overhaul--MRO--and-Component-Operations-Aircraft-Mechanics---Electricians--Entry-Level-_JR2026527050-2) |
 | Regeneron Pharmaceuticals | Data Science & Digital Innovation Intern - Industrial Operations and Product Supply | Rensselaer, NY | Internship | Oct 28 | [Apply ↗](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821-1) |
-| Boeing | Maintenance, Repair, and Overhaul (MRO) and Component Operations Aircraft Mechanics - Electricians (Entry - Level) | USA - Jacksonville, FL | Entry Level | Oct 28 | [Apply ↗](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Jacksonville-FL/Maintenance--Repair--and-Overhaul--MRO--and-Component-Operations-Aircraft-Mechanics---Electricians--Entry-Level-_JR2026527050-2) |
 | Emerson Electric | Sales and Operations Planning Intern | Austin, TX | Internship | Oct 26 | [Apply ↗](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010170) |
-| General Motors | 2027 Summer Intern - Manufacturing Excellence Industrial Engineering | Warren, MI | Summer Internship | Oct 20 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Excellence-Industrial-Engineering_JR-202622634) |
+| General Motors | 2027 Summer Intern - Manufacturing Excellence Industrial Engineering | Warren, MI | Summer Internship | Oct 21 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Excellence-Industrial-Engineering_JR-202622634) |
 | Q2 | Product Operations Intern - Product Operations | Austin, TX | Internship | Oct 15 | [Apply ↗](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Product-Operations_REQ-12904-1) |
 | Johnson & Johnson | External Manufacturing Center of Excellence Intern | New Brunswick, NJ | Internship | Oct 15 | [Apply ↗](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/EM-Center-of-Excellence-Intern_R-103760) |
 | Philadelphia Gas Works | Field Operations Revenue Protection Unit Intern | Philadelphia, PA | Internship | Oct 14 | [Apply ↗](https://careers-pgworks.icims.com/jobs/1990/job?in_iframe=1&mobile=true&needsRedirect=false) |
+| General Motors | Summer 2027 Intern - Research and Development - Smart Manufacturing Systems | Warren, MI | Summer Internship | Oct 13 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Research-and-Development---Smart-Manufacturing-Systems_JR-202621657) |
 | Azul Systems | IT Intern - AI and Operations | Sunnyvale, CA | Internship | Oct 13 | [Apply ↗](https://jobs.lever.co/azul/8f41ceaf-8835-4fc7-ba57-9384487d59db/apply) |
-| General Motors | Summer 2027 Intern - Research and Development - Smart Manufacturing Systems | Warren, MI | Summer Internship | Oct 12 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Research-and-Development---Smart-Manufacturing-Systems_JR-202621657) |
 | TikTok | Creative Product Operations Intern - Multiple Teams | San Jose, CA | Internship | Oct 9 | [Apply ↗](https://lifeattiktok.com/search/7693727532178229509) |
 | SageSure | Data Operations Engineer Intern | Jersey City, NJ | Internship | Oct 9 | [Apply ↗](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719517006) |
 | Amazon | Sourcing Recruiter Intern - Summer 2027 | Seattle, WA | Summer Internship | Oct 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10575252/sourcing-recruiter-intern-summer-2027) |
@@ -473,7 +479,6 @@ _38 active listings_
 | TikTok | Product Solutions and Operations Project Intern - Ads Interface and Platform Product | San Jose, CA | Internship | Jul 24 | [Apply ↗](https://lifeattiktok.com/search/7665080709191108917) |
 | TikTok | Product Solutions and Operations Project Intern - Commerce Ads | San Jose, CA | Internship | Jul 2 | [Apply ↗](https://lifeattiktok.com/search/7657640284071954741) |
 | TikTok | Platform Campaign Project Intern - TikTok Shop - Operations | Seattle, WA | Internship | Jun 15 | [Apply ↗](https://lifeattiktok.com/search/7592014594232142085) |
-| Zoox | Program Manager, Infrastructure Operations Intern [Summer 2027] 🆕 | Foster City, CA | Summer Internship | — | [Apply ↗](https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8) |
 <!-- JOBS:END -->
 
 ## How this board works
