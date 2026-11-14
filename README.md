@@ -5,8 +5,8 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **411** active jobs
-🏢 **220** companies
+📊 **410** active jobs
+🏢 **219** companies
 🆕 **14** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **November 14, 2026**
@@ -91,7 +91,7 @@ _37 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_202 active listings_
+_201 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -156,7 +156,6 @@ _202 active listings_
 | Intercontinental Exchange | Product Management Intern | Atlanta, GA | Internship | Oct 23 | [Apply ↗](https://ice.jibeapply.com/jobs/14065?icims=1) |
 | Amazon | Technical Product Manager Intern | Seattle, WA | Internship | Oct 23 | [Apply ↗](https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) |
 | Amazon | Product Manager Intern - ALA | Seattle, WA | Internship | Oct 23 | [Apply ↗](https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship) |
-| 1Password | Product Management Intern - End User Experience | Remote | Internship | Oct 23 | [Apply ↗](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true) |
 | TikTok | Product - Led - Growth Product Manager Project Intern | San Jose, CA | Internship | Oct 22 | [Apply ↗](https://lifeattiktok.com/search/7655421207605889333) |
 | Tesla | Internship - Product Management - Megapack Services - Winter - Spring 2027 | Fremont, CA | Spring Internship | Oct 22 | [Apply ↗](https://www.tesla.com/careers/search/job/287443) |
 | OneEthos | Product Management Intern | Remote | Internship | Oct 21 | [Apply ↗](https://job-boards.greenhouse.io/oneethos/jobs/4459298009) |
@@ -295,8 +294,9 @@ _202 active listings_
 | Oracle | Product Manager Intern - Ovip | Kansas City, MO | Internship | May 21 | [Apply ↗](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334348) |
 | TikTok | Product Manager Project Intern - Ads Interface and Platform | San Jose, CA | Internship | Apr 30 | [Apply ↗](https://lifeattiktok.com/search/7634027348048709941) |
 | TikTok | Product Manager Project Intern | San Jose, CA | Internship | Mar 24 | [Apply ↗](https://lifeattiktok.com/search/7620569902743406901) |
+| Databricks | Associate Product Manager, New Grad (2027 Start) | Bellevue, CA | New Graduate | Aug 8, 2024 | [Apply ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002) |
 
-_Showing the 200 newest listings. 2 more are stored in `data/jobs.json`._
+_Showing the 200 newest listings. 1 more are stored in `data/jobs.json`._
 
 <h2 id="procurement--sourcing">🛒 Procurement & Sourcing</h2>
 
