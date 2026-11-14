@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **410** active jobs
-🏢 **219** companies
-🆕 **14** added in the last 24 hours
+📊 **406** active jobs
+🏢 **217** companies
+🆕 **12** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **November 14, 2026**
 
@@ -91,12 +91,13 @@ _37 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_201 active listings_
+_198 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| General Motors | 2027 Intern - Product Management, Vehicle Autonomy (MS or MBA) | Sunnyvale, CA | Internship | Nov 30 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) |
+| Watts Water | Product Management Co - op | Menomonee Falls, WI | Co-op | Nov 13 | [Apply ↗](https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1) |
 | Trane Technologies | Product Management Engineering Co - op 🆕 | Pueblo, CO | Co-op | Nov 13 | [Apply ↗](https://careers.tranetechnologies.com/global/en/job/JR-10435) |
-| ServiceNow | Senior Outbound Product Manager Intern 🆕 | San Diego, CA | Internship | Nov 13 | [Apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000161590090) |
 | Koch Industries | Product Management Intern - Aerospace & Defense Solutions 🆕 | Georgetown, TX | Internship | Nov 13 | [Apply ↗](https://koch.avature.net/en_US/careers/JobDetail/197821) |
 | FieldPulse | Product Intern 🆕 | Dallas, TX | Internship | Nov 13 | [Apply ↗](https://ats.rippling.com/fieldpulse/jobs/c62a858b-8eea-47e8-b481-07b9363d509f) |
 | Entegris | Associate Product Manager Intern 🆕 | Chaska, MN | Internship | Nov 13 | [Apply ↗](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844) |
@@ -133,8 +134,6 @@ _201 active listings_
 | USAFacts | AI Product Intern | Bellevue, WA | Internship | Nov 3 | [Apply ↗](https://job-boards.greenhouse.io/usafacts/jobs/4478239009) |
 | Blackhawk Network Holdings | Associate Product Manager - Technology | Pleasanton, CA | Unknown | Nov 3 | [Apply ↗](https://blackhawknetwork.jibeapply.com/jobs/27263?icims=1) |
 | ParetoHealth | Product Manager Intern | Philadelphia, PA | Internship | Nov 2 | [Apply ↗](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006) |
-| LexisNexis Risk Solutions | Product Manager Intern - Government | Alpharetta, GA | Internship | Nov 2 | [Apply ↗](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Government_R118611) |
-| LexisNexis Risk Solutions | Product Management Intern - Insurance | Alpharetta, GA | Internship | Nov 2 | [Apply ↗](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Insurance_R118879) |
 | Axos Bank | Product Intern | San Diego, CA | Internship | Nov 2 | [Apply ↗](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Product-Intern_JR5662) |
 | TikTok | Product Manager Project Intern - Global Monetization Product and Technology | San Jose, CA | Internship | Oct 30 | [Apply ↗](https://lifeattiktok.com/search/7701486873210390837) |
 | TikTok | Product Manager Intern - Global Monetization Product and Technology | Seattle, WA | Internship | Oct 30 | [Apply ↗](https://lifeattiktok.com/search/7701480558070597893) |
@@ -175,10 +174,8 @@ _201 active listings_
 | Blue Origin | Terawave Product Management Intern - MBA | Kent, WA | Internship | Oct 15 | [Apply ↗](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200) |
 | Applied Materials | Product Management 2 New Grad | Santa Clara, CA | New Graduate | Oct 15 | [Apply ↗](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Management-II-New-College-Grad--Master-s--Santa-Clara--CA-_R2629882) |
 | General Motors | Product Management Intern - Vehicle Autonomy | Sunnyvale, CA | Internship | Oct 14 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) |
-| General Motors | 2027 Intern - Product Management, Vehicle Autonomy (MS or MBA) | Sunnyvale, CA | Internship | Oct 14 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) |
 | Prologis | AI Product Management Intern | Denver, CO | Internship | Oct 13 | [Apply ↗](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/AI-Product-Management-Intern_R6840) |
 | Clairo | Associate Product Manager | Remote | Unknown | Oct 13 | [Apply ↗](https://clarioclinical.wd1.myworkdayjobs.com/en-US/clarioclinical_careers/job/Canada-Remote/Associate-Product-Manager_R18374) |
-| Watts Water | Product Management Co - op | Menomonee Falls, WI | Co-op | Oct 12 | [Apply ↗](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702) |
 | Valmont | Product Analyst Intern | Valley, NE | Internship | Oct 12 | [Apply ↗](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Product-Analyst-Intern--Part-Time-_R29081) |
 | Life Fitness | Product Management Intern | Rosemont, IL | Internship | Oct 12 | [Apply ↗](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Product-Management-Intern_JR-025280) |
 | Carlisle Companies | Product Management Intern 🆕 | Carlisle, PA | Internship | Oct 12 | [Apply ↗](https://jobs.smartrecruiters.com/Carlisle/3743990016055226) |
@@ -295,8 +292,7 @@ _201 active listings_
 | TikTok | Product Manager Project Intern - Ads Interface and Platform | San Jose, CA | Internship | Apr 30 | [Apply ↗](https://lifeattiktok.com/search/7634027348048709941) |
 | TikTok | Product Manager Project Intern | San Jose, CA | Internship | Mar 24 | [Apply ↗](https://lifeattiktok.com/search/7620569902743406901) |
 | Databricks | Associate Product Manager, New Grad (2027 Start) | Bellevue, CA | New Graduate | Aug 8, 2024 | [Apply ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002) |
-
-_Showing the 200 newest listings. 1 more are stored in `data/jobs.json`._
+| Databricks | Product Management Intern (Summer 2027) | Bellevue, CA | Summer Internship | Aug 17, 2023 | [Apply ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) |
 
 <h2 id="procurement--sourcing">🛒 Procurement & Sourcing</h2>
 
@@ -456,11 +452,10 @@ _9 active listings_
 
 <h2 id="other">📁 Other</h2>
 
-_36 active listings_
+_35 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| ServiceNow | Senior Inbound Product Manager Intern 🆕 | San Diego, CA | Internship | Nov 13 | [Apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000161584449) |
 | Toyota Research Institute | Robotics Intern - Prototyping and Research Operations 🆕 | Cambridge, MA | Internship | Nov 12 | [Apply ↗](https://jobs.lever.co/tri/4f1efb39-385b-4ff9-8e82-1459a6b22628/apply) |
 | Bask Health | Product Operations Intern | Remote | Internship | Nov 11 | [Apply ↗](https://apply.workable.com/bask-health-1/j/69C7B282BF/apply) |
 | Constellation Brands | Digital Manufacturing Technology Intern | Rochester, NY | Internship | Nov 10 | [Apply ↗](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/San-Antonio-Texas/Intern--Digital-Manufacturing-Technology_R-41681) |
