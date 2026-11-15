@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **404** active jobs
-🏢 **216** companies
-🆕 **4** added in the last 24 hours
+📊 **406** active jobs
+🏢 **217** companies
+🆕 **6** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **November 15, 2026**
 
@@ -90,11 +90,13 @@ _36 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_198 active listings_
+_200 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | General Motors | 2027 Intern - Product Management, Vehicle Autonomy (MS or MBA) | Sunnyvale, CA | Internship | Nov 30 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) |
+| Fanatics | Product Management Intern 🆕 | Seattle, WA | Internship | Nov 15 | [Apply ↗](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009) |
+| Fanatics | Product Intern - Physical Trading Cards 🆕 | Coppell, TX | Internship | Nov 15 | [Apply ↗](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009) |
 | SAS | IoT Product Strategy Intern 🆕 | Cary, NC | Internship | Nov 14 | [Apply ↗](https://careers-sas.icims.com/jobs/43309/job?mobile=true&needsRedirect=false) |
 | Watts Water | Product Management Co - op | Menomonee Falls, WI | Co-op | Nov 13 | [Apply ↗](https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1) |
 | Trane Technologies | Product Management Engineering Co - op 🆕 | Pueblo, CO | Co-op | Nov 13 | [Apply ↗](https://careers.tranetechnologies.com/global/en/job/JR-10435) |
