@@ -5,11 +5,11 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **408** active jobs
-🏢 **218** companies
+📊 **410** active jobs
+🏢 **219** companies
 🆕 **4** added in the last 24 hours
 📁 **8** categories with listings
-🕒 Last updated: **November 16, 2026**
+🕒 Last updated: **November 17, 2026**
 
 ## Categories
 
@@ -90,19 +90,21 @@ _36 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_202 active listings_
+_204 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | General Motors | 2027 Intern - Product Management, Vehicle Autonomy (MS or MBA) | Sunnyvale, CA | Internship | Nov 30 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) |
+| GM Financial | Product Owner Intern 🆕 | Arlington, TX | Internship | Nov 16 | [Apply ↗](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261247) |
+| Bound | Product Management Intern 🆕 | Ames, IA | Internship | Nov 16 | [Apply ↗](https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316) |
 | Philips | Upstream Product Management Intern 🆕 | Bedford, MA | Internship | Nov 15 | [Apply ↗](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Intern---Upstream-Product-Management--MBA---PhD----Bedford--MA---Summer-2027_593145) |
 | Fanatics | Product Management Intern 🆕 | Seattle, WA | Internship | Nov 15 | [Apply ↗](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009) |
 | Fanatics | Product Intern - Physical Trading Cards 🆕 | Coppell, TX | Internship | Nov 15 | [Apply ↗](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009) |
 | SAS | IoT Product Strategy Intern 🆕 | Cary, NC | Internship | Nov 14 | [Apply ↗](https://careers-sas.icims.com/jobs/43309/job?mobile=true&needsRedirect=false) |
 | Watts Water | Product Management Co - op | Menomonee Falls, WI | Co-op | Nov 13 | [Apply ↗](https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1) |
-| Trane Technologies | Product Management Engineering Co - op 🆕 | Pueblo, CO | Co-op | Nov 13 | [Apply ↗](https://careers.tranetechnologies.com/global/en/job/JR-10435) |
-| Koch Industries | Product Management Intern - Aerospace & Defense Solutions 🆕 | Georgetown, TX | Internship | Nov 13 | [Apply ↗](https://koch.avature.net/en_US/careers/JobDetail/197821) |
-| FieldPulse | Product Intern 🆕 | Dallas, TX | Internship | Nov 13 | [Apply ↗](https://ats.rippling.com/fieldpulse/jobs/c62a858b-8eea-47e8-b481-07b9363d509f) |
+| Trane Technologies | Product Management Engineering Co - op | Pueblo, CO | Co-op | Nov 13 | [Apply ↗](https://careers.tranetechnologies.com/global/en/job/JR-10435) |
+| Koch Industries | Product Management Intern - Aerospace & Defense Solutions | Georgetown, TX | Internship | Nov 13 | [Apply ↗](https://koch.avature.net/en_US/careers/JobDetail/197821) |
+| FieldPulse | Product Intern | Dallas, TX | Internship | Nov 13 | [Apply ↗](https://ats.rippling.com/fieldpulse/jobs/c62a858b-8eea-47e8-b481-07b9363d509f) |
 | Entegris | Associate Product Manager Intern | Chaska, MN | Internship | Nov 13 | [Apply ↗](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844) |
 | T-Mobile | Data Product Intern | Bellevue, WA | Internship | Nov 12 | [Apply ↗](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212) |
 | InsCipher | AI Product Intern | Pleasant Grove, UT | Internship | Nov 12 | [Apply ↗](https://ats.rippling.com/inscipher-careers/jobs/a79113bc-e11e-47a3-9d4e-8847e5ff4c9c) |
@@ -292,10 +294,8 @@ _202 active listings_
 | TikTok | AI Product Manager Intern - Tiktok LIVE - Ecosystem Governance | San Jose, CA | Internship | Jun 15 | [Apply ↗](https://lifeattiktok.com/search/7598849238706735365) |
 | Globus Medical | Associate Product Manager | Audubon, PA | Unknown | Jun 13 | [Apply ↗](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Product-Manager_JR105815) |
 | Oracle | Product Manager Intern - Ovip | Kansas City, MO | Internship | May 21 | [Apply ↗](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334348) |
-| TikTok | Product Manager Project Intern - Ads Interface and Platform | San Jose, CA | Internship | Apr 30 | [Apply ↗](https://lifeattiktok.com/search/7634027348048709941) |
-| TikTok | Product Manager Project Intern | San Jose, CA | Internship | Mar 24 | [Apply ↗](https://lifeattiktok.com/search/7620569902743406901) |
 
-_Showing the 200 newest listings. 2 more are stored in `data/jobs.json`._
+_Showing the 200 newest listings. 4 more are stored in `data/jobs.json`._
 
 <h2 id="procurement--sourcing">🛒 Procurement & Sourcing</h2>
 
@@ -321,7 +321,7 @@ _3 active listings_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_94 active listings_
+_93 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -364,7 +364,6 @@ _94 active listings_
 | Legend Biotech | Data Intern | Bridgewater, NJ | Internship | Oct 19 | [Apply ↗](https://job-boards.greenhouse.io/legendcareers/jobs/4745118005) |
 | DoorDash USA | Operations Research Intern (PhD), Summer 2027 | Sunnyvale, CA | Summer Internship | Oct 19 | [Apply ↗](https://job-boards.greenhouse.io/doordashusa/jobs/8273965) |
 | Prologis | Customer Experience Data Intern | Atlanta, GA | Internship | Oct 16 | [Apply ↗](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Atlanta-Georgia/Customer-Experience-Data-Intern_R6856) |
-| CenturyLink | Data Internship - Analytics & Decision Science | Remote | Internship | Oct 16 | [Apply ↗](https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors) |
 | 84 Lumber | Business Intelligence Intern - Business Intelligence | Eighty Four, PA | Internship | Oct 16 | [Apply ↗](https://careers.84lumber.com/jobs/26178?icims=1) |
 | Susquehanna International Group | Business Analytics AI Co - op | Bala Cynwyd, PA | Co-op | Oct 15 | [Apply ↗](https://careers-sig.icims.com/jobs/11675/job?mobile=true&needsRedirect=false) |
 | American Family Insurance Group | Enterprise Data Intern - Enablement, Service & Support | Madison, WI | Internship | Oct 15 | [Apply ↗](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Enterprise-Data-Intern_R39510) |
@@ -434,7 +433,7 @@ _9 active listings_
 | Amazon | Startup Project Manager (Support) Intern Spring and Summer 2027 (Bellevue, WA), | Bellevue, WA | Summer Internship | Sep 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10534582/startup-project-manager-support-intern-spring-and-summer-2027-bellevue-wa) |
 | Amazon | Startup Project Manager (Execution) Intern Spring and Summer 2027 (CA, CT, TX) | Cleburne, TX | Summer Internship | Sep 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10534584/startup-project-manager-execution-intern-spring-and-summer-2027-ca-ct-tx) |
 | Oracle | Project Manager Intern | Seattle, WA | Internship | May 21 | [Apply ↗](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334344) |
-| Zoox | Program Manager Intern [Summer 2027] | Foster City, CA | Summer Internship | — | [Apply ↗](https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8) |
+| Zoox | MBA Program Manager Intern [Summer 2027] | Foster City, CA | Summer Internship | — | [Apply ↗](https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8) |
 
 <h2 id="manufacturing">🏭 Manufacturing</h2>
 
@@ -454,10 +453,11 @@ _9 active listings_
 
 <h2 id="other">📁 Other</h2>
 
-_35 active listings_
+_36 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| ServiceNow | Inbound Product Manager Intern 🆕 | San Diego, CA | Internship | Nov 16 | [Apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000161885234) |
 | Toyota Research Institute | Robotics Intern - Prototyping and Research Operations | Cambridge, MA | Internship | Nov 12 | [Apply ↗](https://jobs.lever.co/tri/4f1efb39-385b-4ff9-8e82-1459a6b22628/apply) |
 | Bask Health | Product Operations Intern | Remote | Internship | Nov 11 | [Apply ↗](https://apply.workable.com/bask-health-1/j/69C7B282BF/apply) |
 | Constellation Brands | Digital Manufacturing Technology Intern | Rochester, NY | Internship | Nov 10 | [Apply ↗](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/San-Antonio-Texas/Intern--Digital-Manufacturing-Technology_R-41681) |
