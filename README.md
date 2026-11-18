@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **396** active jobs
-🏢 **211** companies
-🆕 **9** added in the last 24 hours
+📊 **394** active jobs
+🏢 **210** companies
+🆕 **11** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **November 18, 2026**
 
@@ -87,7 +87,7 @@ _35 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_197 active listings_
+_193 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -148,7 +148,6 @@ _197 active listings_
 | Dell Technologies | Product Management MBA Intern | Santa Clara, CA | Internship | Oct 29 | [Apply ↗](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297775) |
 | Cloudflare | Product Manager Intern | Austin, TX | Internship | Oct 29 | [Apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8274790) |
 | T-Mobile | Associate Product Manager - App | Bellevue, WA | Unknown | Oct 28 | [Apply ↗](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Product-Manager---App_REQ373263-1) |
-| SharkNinja | Product Strategy & Development Co - op | Needham, MA | Co-op | Oct 28 | [Apply ↗](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723344006) |
 | Micron Technology | CMBU Product Management Intern | San Jose, CA | Internship | Oct 27 | [Apply ↗](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941) |
 | Dover | Product Management Intern | Keosauqua, IA | Internship | Oct 27 | [Apply ↗](https://dover.wd103.myworkdayjobs.com/Dover/job/Keosauqua-Iowa-USA/Product-Management-Intern_JR102326) |
 | Abbott | Associate Product Manager | Madison, WI | Unknown | Oct 27 | [Apply ↗](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--1-Exact-Lane/Associate-Product-Manager_31165697-1) |
@@ -167,7 +166,6 @@ _197 active listings_
 | Amplify | Product Management Intern | Remote | Internship | Oct 19 | [Apply ↗](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true) |
 | TikTok | Video Moderation & Platform Responsibility Product Manager Project Intern - Platform Responsibility - Feed Safety | San Jose, CA | Internship | Oct 17 | [Apply ↗](https://lifeattiktok.com/search/7697105572165519621) |
 | Publicis Groupe | Product Intern | Irving, TX | Internship | Oct 16 | [Apply ↗](https://publicisgroupe.jibeapply.com/jobs/172715?icims=1) |
-| Publicis Groupe | Product Intern | Chicago, IL | Internship | Oct 16 | [Apply ↗](https://publicisgroupe.jibeapply.com/jobs/172716?icims=1) |
 | ROCKWOOL Group | Associate Product Management Intern | Chicago, IL | Internship | Oct 15 | [Apply ↗](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Associate-Product-Management-Intern_R0036805-2) |
 | NVIDIA | Product Management MBA Intern | Santa Clara, CA | Internship | Oct 15 | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905) |
 | Duolingo | Product Manager MBA Intern | Pittsburgh, PA | Internship | Oct 15 | [Apply ↗](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002) |
@@ -184,7 +182,6 @@ _197 active listings_
 | Vertiv | Energy Storage Product Management Intern | Delaware, OH | Internship | Oct 9 | [Apply ↗](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379) |
 | TikTok | Creative Product Manager Intern - Multiple Teams | San Jose, CA | Internship | Oct 9 | [Apply ↗](https://lifeattiktok.com/search/7693732178706974981) |
 | impact.com | Associate Product Manager - Contracting - Action Processing | Seattle, WA | Unknown | Oct 6 | [Apply ↗](https://job-boards.greenhouse.io/impact/jobs/8871230002) |
-| Electronic Arts | Product Management Intern | Austin, TX | Internship | Oct 6 | [Apply ↗](https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182) |
 | Astera Labs | Platform Solutions Product Management Intern | Cary, NC | Internship | Oct 6 | [Apply ↗](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731590005) |
 | Allegion | Product Management Intern | Carmel, IN | Internship | Oct 6 | [Apply ↗](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Product-Management_JR37369-1) |
 | Mohawk | Product Management Intern | Calhoun, GA | Internship | Oct 5 | [Apply ↗](https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors) |
@@ -278,7 +275,6 @@ _197 active listings_
 | Appian | Product Manager Intern | McLean, VA | Internship | Jul 23 | [Apply ↗](https://job-boards.greenhouse.io/appian/jobs/8041243) |
 | Hubs.is | Product Intern | Remote | Internship | Jul 21 | [Apply ↗](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true) |
 | Databricks | Product Management Intern | Bellevue, WA | Internship | Jul 16 | [Apply ↗](https://boards.greenhouse.io/embed/job_app?token=6883068002) |
-| Databricks | Associate Product Manager New Grad | Bellevue, WA | New Graduate | Jul 16 | [Apply ↗](https://boards.greenhouse.io/embed/job_app?token=7586263002) |
 | TikTok | Product Manager Vertical Search Ads Mandarin Speaking Project intern - Content and Service Ads - 2026 Start - BS - MS | San Jose, CA | Internship | Jul 2 | [Apply ↗](https://lifeattiktok.com/search/7655410730217048373) |
 | TikTok | Product Manager Shop Ads Creative Project Intern - Ads Interface and Platform - 2026 Start - BS - MS | San Jose, CA | Internship | Jun 15 | [Apply ↗](https://lifeattiktok.com/search/7644986569989032197) |
 | TikTok | Product Management Project Intern | Seattle, WA | Internship | Jun 15 | [Apply ↗](https://lifeattiktok.com/search/7583141608302987525) |
@@ -313,10 +309,11 @@ _3 active listings_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_88 active listings_
+_89 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Sheetz | Business Intelligence Analytics Intern 🆕 | Pittsburgh, PA | Internship | Nov 18 | [Apply ↗](https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us) |
 | CMI Media Group | Business Insights Intern 🆕 | Chicago, IL | Internship | Nov 17 | [Apply ↗](https://jobs.jobvite.com/cmimedia/job/oBH1sfwv?nl=1&nl=1&fr=false) |
 | BGE | Business Analyst Intern - GIS 🆕 | Oakbrook Terrace, IL | Internship | Nov 17 | [Apply ↗](https://careers.bge.com/jobs/34737?icims=1&lang=en-us) |
 | 3M | Internship - 2027 Undergraduate Business Analytics Intern - Consumer Business Group (CBG) | US, MN | Internship | Nov 14 | [Apply ↗](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) |
@@ -439,10 +436,11 @@ _9 active listings_
 
 <h2 id="other">📁 Other</h2>
 
-_38 active listings_
+_39 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Toyota Research Institute | Robotics Intern - Prototyping and Robotics Operations 🆕 | Cambridge, MA | Internship | Nov 18 | [Apply ↗](https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8/apply) |
 | Research Innovations | Department of War SkillBridge Operations SME Intern 🆕 | Remote | Internship | Nov 17 | [Apply ↗](https://jobs.lever.co/researchinnovations.com/eeada042-c446-4723-81f4-b1607443fb4e/apply) |
 | Blount Fine Foods | Manufacturing Operations Analytics Intern 🆕 | Fall River, MA | Internship | Nov 17 | [Apply ↗](https://jobs.jobvite.com/blountfinefoods/job/oBf3Afwd?nl=1&nl=1&fr=false) |
 | ServiceNow | Inbound Product Manager Intern 🆕 | San Diego, CA | Internship | Nov 16 | [Apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000161885234) |
