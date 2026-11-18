@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **399** active jobs
-🏢 **212** companies
-🆕 **8** added in the last 24 hours
+📊 **396** active jobs
+🏢 **211** companies
+🆕 **9** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **November 18, 2026**
 
@@ -87,11 +87,12 @@ _35 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_198 active listings_
+_197 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | General Motors | 2027 Intern - Product Management, Vehicle Autonomy (MS or MBA) | Sunnyvale, CA | Internship | Nov 30 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) |
+| Smarty | Product Management Intern 🆕 | Orem, UT | Internship | Nov 18 | [Apply ↗](https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749) |
 | GM Financial | Product Owner Intern 🆕 | Arlington, TX | Internship | Nov 16 | [Apply ↗](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261247) |
 | Bound | Product Management Intern 🆕 | Ames, IA | Internship | Nov 16 | [Apply ↗](https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316) |
 | Philips | Upstream Product Management Intern 🆕 | Bedford, MA | Internship | Nov 15 | [Apply ↗](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Intern---Upstream-Product-Management--MBA---PhD----Bedford--MA---Summer-2027_593145) |
@@ -153,7 +154,6 @@ _198 active listings_
 | Abbott | Associate Product Manager | Madison, WI | Unknown | Oct 27 | [Apply ↗](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--1-Exact-Lane/Associate-Product-Manager_31165697-1) |
 | Zebra Technologies | Product Management Intern | Lincolnshire, IL | Internship | Oct 26 | [Apply ↗](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) |
 | TikTok | Product Manager New Grad - Platform Trust and Ecosystem | San Jose, CA | New Graduate | Oct 26 | [Apply ↗](https://lifeattiktok.com/search/7680761598014015797) |
-| Intercontinental Exchange | Product Management Intern | Atlanta, GA | Internship | Oct 23 | [Apply ↗](https://ice.jibeapply.com/jobs/14065?icims=1) |
 | Amazon | Technical Product Manager Intern | Seattle, WA | Internship | Oct 23 | [Apply ↗](https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) |
 | Amazon | Product Manager Intern - ALA | Seattle, WA | Internship | Oct 23 | [Apply ↗](https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship) |
 | TikTok | Product - Led - Growth Product Manager Project Intern | San Jose, CA | Internship | Oct 22 | [Apply ↗](https://lifeattiktok.com/search/7655421207605889333) |
@@ -287,7 +287,6 @@ _198 active listings_
 | Oracle | Product Manager Intern - Ovip | Kansas City, MO | Internship | May 21 | [Apply ↗](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334348) |
 | TikTok | Product Manager Project Intern - Ads Interface and Platform | San Jose, CA | Internship | Apr 30 | [Apply ↗](https://lifeattiktok.com/search/7634027348048709941) |
 | TikTok | Product Manager Project Intern | San Jose, CA | Internship | Mar 24 | [Apply ↗](https://lifeattiktok.com/search/7620569902743406901) |
-| Databricks | Associate Product Manager, New Grad (2027 Start) | Bellevue, CA | New Graduate | Aug 8, 2024 | [Apply ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002) |
 | Databricks | Product Management Intern (Summer 2027) | Bellevue, CA | Summer Internship | Aug 17, 2023 | [Apply ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) |
 
 <h2 id="procurement--sourcing">🛒 Procurement & Sourcing</h2>
@@ -314,7 +313,7 @@ _3 active listings_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_89 active listings_
+_88 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -322,7 +321,6 @@ _89 active listings_
 | BGE | Business Analyst Intern - GIS 🆕 | Oakbrook Terrace, IL | Internship | Nov 17 | [Apply ↗](https://careers.bge.com/jobs/34737?icims=1&lang=en-us) |
 | 3M | Internship - 2027 Undergraduate Business Analytics Intern - Consumer Business Group (CBG) | US, MN | Internship | Nov 14 | [Apply ↗](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) |
 | Stratolaunch | Business Intelligence & Systems Analyst Intern | Mojave, CA | Internship | Nov 12 | [Apply ↗](https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008) |
-| CareSource | Clinical Operations Business Analyst Intern | Remote | Internship | Nov 12 | [Apply ↗](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Clinical-Operations-Business-Analyst_R14353) |
 | Zotec Partners | Business Intelligence Intern | Carmel, IN | Internship | Nov 11 | [Apply ↗](https://zotecpartners.applytojob.com/apply/csKRdla8ap/Business-Intelligence-Intern) |
 | State of Wisconsin Investment Board | Data Analytics Engineering Intern | Madison, WI | Internship | Nov 11 | [Apply ↗](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Analytics-Engineering-Intern_R-001330) |
 | Vizient | Spend Management Insights Intern | Irving, TX | Internship | Nov 10 | [Apply ↗](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Spend-Management-Insights_36212R) |
@@ -410,7 +408,7 @@ _89 active listings_
 
 <h2 id="project--program-management">📋 Project & Program Management</h2>
 
-_9 active listings_
+_8 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -421,7 +419,6 @@ _9 active listings_
 | Amazon | Program Manager Intern - Summer 2027 | Seattle, WA | Summer Internship | Oct 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10575248/program-manager-intern-summer-2027) |
 | Amazon | Startup Project Manager (Support) Intern Spring and Summer 2027 (Bellevue, WA), | Bellevue, WA | Summer Internship | Sep 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10534582/startup-project-manager-support-intern-spring-and-summer-2027-bellevue-wa) |
 | Amazon | Startup Project Manager (Execution) Intern Spring and Summer 2027 (CA, CT, TX) | Cleburne, TX | Summer Internship | Sep 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10534584/startup-project-manager-execution-intern-spring-and-summer-2027-ca-ct-tx) |
-| Oracle | Project Manager Intern | Seattle, WA | Internship | May 21 | [Apply ↗](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334344) |
 | Zoox | MBA Program Manager Intern [Summer 2027] | Foster City, CA | Summer Internship | — | [Apply ↗](https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8) |
 
 <h2 id="manufacturing">🏭 Manufacturing</h2>

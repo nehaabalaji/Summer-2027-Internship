@@ -422,10 +422,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-11-17",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -3428,7 +3428,7 @@
     "active": true,
     "last_verified": "2026-11-18",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -8837,10 +8837,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-11-17",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -20192,7 +20192,7 @@
     "active": true,
     "last_verified": "2026-11-18",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -25373,7 +25373,7 @@
     "active": true,
     "last_verified": "2026-11-18",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -26594,7 +26594,7 @@
     "active": true,
     "last_verified": "2026-11-18",
     "needs_review": false,
-    "consecutive_misses": 0,
+    "consecutive_misses": 1,
     "seed": false
   },
   {
@@ -26657,10 +26657,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-11-17",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -30254,10 +30254,10 @@
     "salary_max": null,
     "salary_currency": null,
     "sponsorship": "Unknown",
-    "active": true,
+    "active": false,
     "last_verified": "2026-11-17",
     "needs_review": false,
-    "consecutive_misses": 1,
+    "consecutive_misses": 2,
     "seed": false
   },
   {
@@ -30910,6 +30910,39 @@
     "source_key": "simplify_summer",
     "source_job_id": "86db6edc-0358-4030-942e-af6c6d3de158",
     "description": "AI/ML/Data",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "sponsorship": "Unknown",
+    "active": true,
+    "last_verified": "2026-11-18",
+    "needs_review": false,
+    "consecutive_misses": 0,
+    "seed": false
+  },
+  {
+    "id": "smarty-0c6dc660-1c39-4976-ae4d-67e73ae7f1d6",
+    "company": "Smarty",
+    "company_logo": "",
+    "title": "Product Management Intern",
+    "normalized_title": "product management intern",
+    "location": "Orem, UT",
+    "city": "Orem",
+    "state": "UT",
+    "country": "United States",
+    "category": "Product Management",
+    "subcategory": "product management",
+    "category_confidence": 1.0,
+    "job_type": "Internship",
+    "work_arrangement": "Unknown",
+    "date_posted": "2026-11-18",
+    "date_discovered": "2026-11-18",
+    "application_url": "https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749",
+    "source_url": "https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749",
+    "source": "SimplifyJobs GitHub (Summer Internships)",
+    "source_key": "simplify_summer",
+    "source_job_id": "0c6dc660-1c39-4976-ae4d-67e73ae7f1d6",
+    "description": "Product",
     "salary_min": null,
     "salary_max": null,
     "salary_currency": null,
