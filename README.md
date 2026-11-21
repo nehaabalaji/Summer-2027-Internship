@@ -5,11 +5,11 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **391** active jobs
-🏢 **210** companies
-🆕 **9** added in the last 24 hours
+📊 **401** active jobs
+🏢 **221** companies
+🆕 **18** added in the last 24 hours
 📁 **8** categories with listings
-🕒 Last updated: **November 20, 2026**
+🕒 Last updated: **November 21, 2026**
 
 ## Categories
 
@@ -49,6 +49,7 @@ _33 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Fidelity Bank | Digital Operations Analyst Intern 🆕 | Wichita, KS | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/fid1002/JobBoard/f4c0b704-935f-13c8-e696-6c4aa3318a47/OpportunityDetail?opportunityId=43cf33e0-3efc-43f2-9ddd-4cf8052217b0) |
 | The Toro Company | CX and Customer Lifetime Value Intern - Operations Analyst | Bloomington, MN | Internship | Nov 13 | [Apply ↗](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/CX-and-Customer-Lifetime-Value---Operations-Analyst---The-Toro-Company_JR17819) |
 | Vizient | Contract Operations Intern - Analytics | Irving, TX | Internship | Nov 12 | [Apply ↗](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1) |
 | Pinterest | Strategy & Operations Intern 2027 (USA) | Remote | Internship | Nov 6 | [Apply ↗](https://www.pinterestcareers.com/jobs/?gh_jid=8334878) |
@@ -59,7 +60,6 @@ _33 active listings_
 | DoorDash USA | Drone Operations, Intern - Labs (Summer 2027) | San Francisco, CA | Summer Internship | Oct 22 | [Apply ↗](https://job-boards.greenhouse.io/doordashusa/jobs/8312381) |
 | Uline | Operations Analyst Intern | Pleasant Prairie, WI | Internship | Oct 21 | [Apply ↗](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Operations-Analyst-Internship---Summer-2027_R268435) |
 | Schneider Electric | AI Quality & Continuous Improvement Intern | Foxborough, MA | Internship | Oct 16 | [Apply ↗](https://se.jibeapply.com/jobs/136783?icims=1) |
-| Pattern | Operations Intern | Lehi, UT | Internship | Oct 16 | [Apply ↗](https://jobs.lever.co/pattern/13695e3e-92b7-40f7-8805-ea39b9c324e7/apply) |
 | Figure | Commercial Operations Intern [Winter 2027] | San Jose, CA | Internship | Oct 6 | [Apply ↗](https://job-boards.greenhouse.io/figureai/jobs/4719591006) |
 | Netsmart | Revenue Cycle Management Operations Analyst Intern - Revenue Cycle Management | Overland Park, KS | Internship | Sep 18 | [Apply ↗](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Revenue-Cycle-Management--RCM--Operations-Analyst-Intern-Summer-2027-Internship-_R015757) |
 | Cyvl | Data Operations Intern - Summer 2027 | Boston, MA | Summer Internship | Sep 16 | [Apply ↗](https://jobs.ashbyhq.com/cyvl/f44bb1cf-7100-46f7-b3c2-6d2a566d4b0d/application?embed=true) |
@@ -85,11 +85,15 @@ _33 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_189 active listings_
+_193 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | General Motors | 2027 Intern - Product Management, Vehicle Autonomy (MS or MBA) | Sunnyvale, CA | Internship | Nov 30 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) |
+| TransCore | Associate Product Manager 🆕 | Atlanta, GA | Unknown | Nov 20 | [Apply ↗](https://recruiting2.ultipro.com/TRA1034TNSC/JobBoard/0885e26f-46c3-45cc-8f3a-b849c09d3bdd/OpportunityDetail?opportunityId=55e32159-4c95-48ea-bb03-01dbca8391c3) |
+| Method | Product Management Intern 🆕 | Remote | Internship | Nov 20 | [Apply ↗](https://job-boards.greenhouse.io/method/jobs/8207585003) |
+| Jewelers Mutual Group | Product Intern 🆕 | Neenah, WI | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=73e636fd-4bf6-45be-9b83-3f5d3a9315ea) |
+| First Merchants Bank | Treasury Management Product Intern 🆕 | Columbus, OH | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/FIR1024FRME/JobBoard/d8ba2a8e-910f-42cf-9614-28c6f0ccdee4/OpportunityDetail?opportunityId=affbbaee-6ee2-45f7-a52b-7accf4458029) |
 | CAS | Product Management Intern 🆕 | Columbus, OH | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=446d0048-3a4f-48d6-afd7-7cc59e589336) |
 | Lucid | Product Management Intern 🆕 | Raleigh, NC | Internship | Nov 18 | [Apply ↗](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) |
 | Lucid | Product Management Intern 🆕 | Salt Lake City, UT | Internship | Nov 18 | [Apply ↗](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) |
@@ -303,18 +307,23 @@ _3 active listings_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_93 active listings_
+_97 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Southern Mississippi Trading | AI and Business Analytics Intern 🆕 | Waynesboro, MS | Internship | Nov 20 | [Apply ↗](https://southernmississippitradingllc.applytojob.com/apply/jIkpJ1ZhDo/AI-Business-Analytics-Intern) |
+| Southern Farm Bureau Life Insurance | Business Intelligence - Data Insights Intern 🆕 | Jackson, MS | Internship | Nov 20 | [Apply ↗](https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=e98034f4-8629-4425-8007-7f5446ca3e39) |
 | Park National Bank | Business Intelligence Intern 🆕 | Newark, OH | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=c0ff78ff-35ff-41dc-ac4e-e5915f9735a4) |
+| John Deere | Data Analytics Student Intern - Data and Analytics 🆕 | Des Moines, IA | Internship | Nov 20 | [Apply ↗](https://johndeere.eightfold.ai/careers/job/137484575742) |
+| Jewelers Mutual Group | Business Intelligence Intern 🆕 | Neenah, WI | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=58e2b100-19b0-4b86-9204-6e04fc06943f) |
+| Great Southern Wood Preserving | Engineering Intern - Data Analyst 🆕 | Abbeville, AL | Internship | Nov 20 | [Apply ↗](https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=63980dd2-ba31-4338-b0a6-2556736485a1) |
 | CAS | Business Data Analytics Intern - AI - ML Focus 🆕 | Columbus, OH | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f987f8e5-7208-44de-aeb9-9ae2474c177a) |
+| AFL | Business Intelligence Co - op 🆕 | Duncan, SC | Co-op | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=33f4e729-d1f6-4137-a95a-4ac8b27a9453) |
 | Atlantic Health System | Pharmacy Intern - Data Analytics 🆕 | Morristown, NJ | Internship | Nov 19 | [Apply ↗](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551) |
-| Sheetz | Business Intelligence Analytics Intern 🆕 | Pittsburgh, PA | Internship | Nov 18 | [Apply ↗](https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us) |
+| Sheetz | Business Intelligence Analytics Intern | Pittsburgh, PA | Internship | Nov 18 | [Apply ↗](https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us) |
 | Amer Sports | Golf Product Insights and Data Intern 🆕 | Chicago, IL | Internship | Nov 18 | [Apply ↗](https://careers-wilson.icims.com/jobs/5238/job?mobile=true&needsRedirect=false) |
-| CMI Media Group | Business Insights Intern 🆕 | Chicago, IL | Internship | Nov 17 | [Apply ↗](https://jobs.jobvite.com/cmimedia/job/oBH1sfwv?nl=1&nl=1&fr=false) |
-| BGE | Business Analyst Intern - GIS 🆕 | Oakbrook Terrace, IL | Internship | Nov 17 | [Apply ↗](https://careers.bge.com/jobs/34737?icims=1&lang=en-us) |
+| CMI Media Group | Business Insights Intern | Chicago, IL | Internship | Nov 17 | [Apply ↗](https://jobs.jobvite.com/cmimedia/job/oBH1sfwv?nl=1&nl=1&fr=false) |
+| BGE | Business Analyst Intern - GIS | Oakbrook Terrace, IL | Internship | Nov 17 | [Apply ↗](https://careers.bge.com/jobs/34737?icims=1&lang=en-us) |
 | 3M | Internship - 2027 Undergraduate Business Analytics Intern - Consumer Business Group (CBG) | US, MN | Internship | Nov 14 | [Apply ↗](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) |
 | Stratolaunch | Business Intelligence & Systems Analyst Intern | Mojave, CA | Internship | Nov 12 | [Apply ↗](https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008) |
 | Zotec Partners | Business Intelligence Intern | Carmel, IN | Internship | Nov 11 | [Apply ↗](https://zotecpartners.applytojob.com/apply/csKRdla8ap/Business-Intelligence-Intern) |
@@ -327,6 +336,7 @@ _93 active listings_
 | Samsung | ePro Business & Data Analyst Intern | Plano, TX | Internship | Nov 8 | [Apply ↗](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996) |
 | Samsung | Business Intelligence & Data Analytics Intern | Plano, TX | Internship | Nov 6 | [Apply ↗](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Intelligence---Data-Analytics-Intern_R121949) |
 | Vizient | Research Analytics & Insights Intern | Chicago, IL | Internship | Nov 5 | [Apply ↗](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Research-Analytics---Insights_36064R-2) |
+| Chubb | Business Intelligence Intern | Chicago, IL | Internship | Nov 5 | [Apply ↗](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38335) |
 | Great American Insurance Company | Business Intelligence Intern - Power BI | Cincinnati, OH | Internship | Nov 4 | [Apply ↗](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Intelligence--Power-BI--Intern---Summer-2027_R9843) |
 | Toshiba Global Commerce Solutions | AI Data Science & Business Analytics Intern | Durham, NC | Internship | Nov 2 | [Apply ↗](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5276963007) |
 | General Dynamics Information Technology | Technical Writer - Data Analytics Analyst Intern | Bossier City, LA | Internship | Nov 2 | [Apply ↗](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/Intern---Technical-Writer---Data-Analytics-Analyst_RQ231236) |
@@ -338,7 +348,6 @@ _93 active listings_
 | Great American Insurance Company | IT Data Intern | Cincinnati, OH | Internship | Oct 29 | [Apply ↗](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Data-Intern---Summer-2027_R9820) |
 | Applied Materials | Business Intelligence Analyst Intern | Santa Clara, CA | Internship | Oct 28 | [Apply ↗](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Business-Intelligence-Analyst-Intern--Master-s--Santa-Clara--CA-_R2627411) |
 | The Federal Reserve System | REIN Data Intern | Atlanta, GA | Internship | Oct 27 | [Apply ↗](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---REIN-Data-Intern_R-0000033089) |
-| onsemi | Customer Operations Data Analyst Intern | Scottsdale, AZ | Internship | Oct 27 | [Apply ↗](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507070) |
 | Valmont | Operations Data Analyst Intern | Valley, NE | Internship | Oct 26 | [Apply ↗](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Operations-Data-Analyst-Intern_R29224) |
 | Pattern | Revenue Operations Data Analyst Intern | Lehi, UT | Internship | Oct 26 | [Apply ↗](https://jobs.lever.co/pattern/84c10630-d414-4ad6-a195-05b0691fa97a/apply) |
 | Federal Home Loan Bank of Indianapolis | Business Intelligence Intern | Indianapolis, IN | Internship | Oct 26 | [Apply ↗](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Business-Intelligence-Intern_R637) |
@@ -382,7 +391,6 @@ _93 active listings_
 | TikTok | Global Customer Experience Business Analytics Intern | San Jose, CA | Internship | Sep 9 | [Apply ↗](https://lifeattiktok.com/search/7681633701767612677) |
 | Navy Federal | Summer Associate Intern - Business Intelligence & Data Analytics | Winchester, VA | Summer Internship | Sep 9 | [Apply ↗](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32107) |
 | Navy Federal | Business Intelligence Analyst Summer Associate Intern | Vienna, VA | Summer Internship | Sep 9 | [Apply ↗](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32330) |
-| Navy Federal | Business Intelligence Analyst Intern - Consumer Lending | Pensacola, FL | Internship | Sep 9 | [Apply ↗](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32321) |
 | Navy Federal | Business Intelligence Analyst Intern | Pensacola, FL | Internship | Sep 9 | [Apply ↗](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32262) |
 | Navy Federal | Business Intelligence Analyst Intern | Vienna, VA | Internship | Sep 9 | [Apply ↗](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32290) |
 | Navy Federal | Business Intelligence Analyst Intern | Winchester, VA | Internship | Sep 9 | [Apply ↗](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32031) |
@@ -433,14 +441,16 @@ _9 active listings_
 
 <h2 id="other">📁 Other</h2>
 
-_39 active listings_
+_41 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Shield AI | Operational Analysis Intern - Operational Analysis 🆕 | Arlington County, VA | Internship | Nov 20 | [Apply ↗](https://jobs.ashbyhq.com/shield/683deced-ddc9-4857-8783-323994263f2a/application?embed=true) |
 | CAS | Chemist Intern - Content Operations 🆕 | Columbus, OH | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=edd053a0-276c-4c40-895a-a28c09759e93) |
-| Toyota Research Institute | Robotics Intern - Prototyping and Robotics Operations 🆕 | Cambridge, MA | Internship | Nov 18 | [Apply ↗](https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8/apply) |
+| Avista | Fleet Operations Data Intern - Multiple Teams 🆕 | Spokane, WA | Internship | Nov 20 | [Apply ↗](https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=99b68bca-853c-4512-a758-80fa46bf30b5) |
+| Toyota Research Institute | Robotics Intern - Prototyping and Robotics Operations | Cambridge, MA | Internship | Nov 18 | [Apply ↗](https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8/apply) |
 | Research Innovations | Department of War SkillBridge Operations SME Intern | Remote | Internship | Nov 17 | [Apply ↗](https://jobs.lever.co/researchinnovations.com/eeada042-c446-4723-81f4-b1607443fb4e/apply) |
-| Blount Fine Foods | Manufacturing Operations Analytics Intern 🆕 | Fall River, MA | Internship | Nov 17 | [Apply ↗](https://jobs.jobvite.com/blountfinefoods/job/oBf3Afwd?nl=1&nl=1&fr=false) |
+| Blount Fine Foods | Manufacturing Operations Analytics Intern | Fall River, MA | Internship | Nov 17 | [Apply ↗](https://jobs.jobvite.com/blountfinefoods/job/oBf3Afwd?nl=1&nl=1&fr=false) |
 | ServiceNow | Inbound Product Manager Intern | San Diego, CA | Internship | Nov 16 | [Apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000161885234) |
 | Toyota Research Institute | Robotics Intern - Prototyping and Research Operations | Cambridge, MA | Internship | Nov 12 | [Apply ↗](https://jobs.lever.co/tri/4f1efb39-385b-4ff9-8e82-1459a6b22628/apply) |
 | Bask Health | Product Operations Intern | Remote | Internship | Nov 11 | [Apply ↗](https://apply.workable.com/bask-health-1/j/69C7B282BF/apply) |
@@ -464,7 +474,7 @@ _39 active listings_
 | BNY | Product Management Intern - Program Management | Pittsburgh, PA | Internship | Oct 1 | [Apply ↗](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82782) |
 | TikTok | Cross - border E - commerce Product Operations Intern - TikTok Shop - User & Promotion Growth Product | Seattle, WA | Internship | Sep 29 | [Apply ↗](https://lifeattiktok.com/search/7689010193607051525) |
 | New York ISO | ICAP Market Operations Co - op | Rensselaer, NY | Co-op | Sep 15 | [Apply ↗](https://job-boards.greenhouse.io/nyisocoops/jobs/5236014007) |
-| Amazon | Operations Engineering MHE Lifecycle Intern Spring and Summer 2027 (Bellevue, WA) 🆕 | Bellevue, WA | Summer Internship | Sep 8 | [Apply ↗](https://www.amazon.jobs/en/jobs/10532296/operations-engineering-mhe-lifecycle-intern-spring-and-summer-2027-bellevue-wa) |
+| Amazon | Operations Engineering MHE Lifecycle Intern Spring and Summer 2027 (Bellevue, WA) | Bellevue, WA | Summer Internship | Sep 8 | [Apply ↗](https://www.amazon.jobs/en/jobs/10532296/operations-engineering-mhe-lifecycle-intern-spring-and-summer-2027-bellevue-wa) |
 | Amazon | Operations Engineering Field (Execution) Intern Spring and Summer 2027 (CA, CT, FL, TX) | Cleburne, TX | Summer Internship | Sep 8 | [Apply ↗](https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-intern-spring-and-summer-2027-ca-ct-fl-tx) |
 | Amazon | Operations Engineering (Business Strategy & Execution) Intern Spring and Summer 2027 (Bellevue, WA) | Bellevue, WA | Summer Internship | Sep 8 | [Apply ↗](https://www.amazon.jobs/en/jobs/10532290/operations-engineering-business-strategy-execution-intern-spring-and-summer-2027-bellevue-wa) |
 | Shure | Global Product Management Data Intern | Niles, IL | Internship | Sep 3 | [Apply ↗](https://careersus-shure.icims.com/jobs/5024/job?mobile=true&needsRedirect=false) |
