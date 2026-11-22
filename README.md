@@ -7,7 +7,7 @@ Find a role, click **Apply ↗**, and land on the employer's original applicatio
 <!-- JOBS:START -->
 📊 **399** active jobs
 🏢 **224** companies
-🆕 **16** added in the last 24 hours
+🆕 **18** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **November 22, 2026**
 
@@ -97,6 +97,7 @@ _192 active listings_
 | First Merchants Bank | Treasury Management Product Intern 🆕 | Columbus, OH | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/FIR1024FRME/JobBoard/d8ba2a8e-910f-42cf-9614-28c6f0ccdee4/OpportunityDetail?opportunityId=affbbaee-6ee2-45f7-a52b-7accf4458029) |
 | CAS | Product Management Intern 🆕 | Columbus, OH | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=446d0048-3a4f-48d6-afd7-7cc59e589336) |
 | AriensCo | Product Management Intern 🆕 | Brillion, WI | Internship | Nov 20 | [Apply ↗](https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305) |
+| Fiskars Group | Product Management Intern 🆕 | Middleton, WI | Internship | Nov 19 | [Apply ↗](https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Product-Management-Intern--Summer-2027-_JR-009520) |
 | Lucid | Product Management Intern | Raleigh, NC | Internship | Nov 18 | [Apply ↗](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) |
 | Lucid | Product Management Intern | Salt Lake City, UT | Internship | Nov 18 | [Apply ↗](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) |
 | GM Financial | Product Owner Intern | Arlington, TX | Internship | Nov 16 | [Apply ↗](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261247) |
@@ -181,7 +182,6 @@ _192 active listings_
 | Life Fitness | Product Management Intern | Rosemont, IL | Internship | Oct 12 | [Apply ↗](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Product-Management-Intern_JR-025280) |
 | Carlisle Companies | Product Management Intern | Carlisle, PA | Internship | Oct 12 | [Apply ↗](https://jobs.smartrecruiters.com/Carlisle/3743990016055226) |
 | ADT | Product Management & Product Operations Intern | Boca Raton, FL | Internship | Oct 12 | [Apply ↗](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393) |
-| Workday | Product Manager Intern | Pleasanton, CA | Internship | Oct 9 | [Apply ↗](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813) |
 | Vertiv | Energy Storage Product Management Intern | Delaware, OH | Internship | Oct 9 | [Apply ↗](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379) |
 | TikTok | Creative Product Manager Intern - Multiple Teams | San Jose, CA | Internship | Oct 9 | [Apply ↗](https://lifeattiktok.com/search/7693732178706974981) |
 | impact.com | Associate Product Manager - Contracting - Action Processing | Seattle, WA | Unknown | Oct 6 | [Apply ↗](https://job-boards.greenhouse.io/impact/jobs/8871230002) |
@@ -352,10 +352,10 @@ _97 active listings_
 | Pattern | Revenue Operations Data Analyst Intern | Lehi, UT | Internship | Oct 26 | [Apply ↗](https://jobs.lever.co/pattern/84c10630-d414-4ad6-a195-05b0691fa97a/apply) |
 | Federal Home Loan Bank of Indianapolis | Business Intelligence Intern | Indianapolis, IN | Internship | Oct 26 | [Apply ↗](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Business-Intelligence-Intern_R637) |
 | Booz Allen | Enterprise Cybersecurity Data and Business Intelligence Analyst Intern | McLean, VA | Internship | Oct 22 | [Apply ↗](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/Enterprise-Cybersecurity-Data-and-Business-Intelligence-Analyst_R0252250) |
-| American Family Insurance Group | Business Intelligence Enablement Intern | Madison, WI | Internship | Oct 22 | [Apply ↗](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Business-Intelligence-Enablement_R39531) |
 | Nintendo | Business Intelligence Intern | Redmond, WA | Internship | Oct 19 | [Apply ↗](https://careers.nintendo.com/?gh_jid=4421623009) |
 | Legend Biotech | Data Intern | Bridgewater, NJ | Internship | Oct 19 | [Apply ↗](https://job-boards.greenhouse.io/legendcareers/jobs/4745118005) |
 | DoorDash USA | Operations Research Intern (PhD), Summer 2027 | Sunnyvale, CA | Summer Internship | Oct 19 | [Apply ↗](https://job-boards.greenhouse.io/doordashusa/jobs/8273965) |
+| Allegion | Product Data Intern - Product Data 🆕 | Indianapolis, IN | Internship | Oct 19 | [Apply ↗](https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Product-Data_JR37448) |
 | Prologis | Customer Experience Data Intern | Atlanta, GA | Internship | Oct 16 | [Apply ↗](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Atlanta-Georgia/Customer-Experience-Data-Intern_R6856) |
 | 84 Lumber | Business Intelligence Intern - Business Intelligence | Eighty Four, PA | Internship | Oct 16 | [Apply ↗](https://careers.84lumber.com/jobs/26178?icims=1) |
 | Susquehanna International Group | Business Analytics AI Co - op | Bala Cynwyd, PA | Co-op | Oct 15 | [Apply ↗](https://careers-sig.icims.com/jobs/11675/job?mobile=true&needsRedirect=false) |
