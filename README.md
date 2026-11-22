@@ -7,9 +7,9 @@ Find a role, click **Apply ↗**, and land on the employer's original applicatio
 <!-- JOBS:START -->
 📊 **397** active jobs
 🏢 **222** companies
-🆕 **21** added in the last 24 hours
+🆕 **15** added in the last 24 hours
 📁 **8** categories with listings
-🕒 Last updated: **November 21, 2026**
+🕒 Last updated: **November 22, 2026**
 
 ## Categories
 
@@ -97,8 +97,8 @@ _192 active listings_
 | First Merchants Bank | Treasury Management Product Intern 🆕 | Columbus, OH | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/FIR1024FRME/JobBoard/d8ba2a8e-910f-42cf-9614-28c6f0ccdee4/OpportunityDetail?opportunityId=affbbaee-6ee2-45f7-a52b-7accf4458029) |
 | CAS | Product Management Intern 🆕 | Columbus, OH | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=446d0048-3a4f-48d6-afd7-7cc59e589336) |
 | AriensCo | Product Management Intern 🆕 | Brillion, WI | Internship | Nov 20 | [Apply ↗](https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305) |
-| Lucid | Product Management Intern 🆕 | Raleigh, NC | Internship | Nov 18 | [Apply ↗](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) |
-| Lucid | Product Management Intern 🆕 | Salt Lake City, UT | Internship | Nov 18 | [Apply ↗](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) |
+| Lucid | Product Management Intern | Raleigh, NC | Internship | Nov 18 | [Apply ↗](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) |
+| Lucid | Product Management Intern | Salt Lake City, UT | Internship | Nov 18 | [Apply ↗](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) |
 | GM Financial | Product Owner Intern | Arlington, TX | Internship | Nov 16 | [Apply ↗](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261247) |
 | Bound | Product Management Intern | Ames, IA | Internship | Nov 16 | [Apply ↗](https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316) |
 | Philips | Upstream Product Management Intern | Bedford, MA | Internship | Nov 15 | [Apply ↗](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Intern---Upstream-Product-Management--MBA---PhD----Bedford--MA---Summer-2027_593145) |
@@ -321,7 +321,7 @@ _95 active listings_
 | AFL | Business Intelligence Co - op 🆕 | Duncan, SC | Co-op | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=33f4e729-d1f6-4137-a95a-4ac8b27a9453) |
 | Atlantic Health System | Pharmacy Intern - Data Analytics 🆕 | Morristown, NJ | Internship | Nov 19 | [Apply ↗](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551) |
 | Sheetz | Business Intelligence Analytics Intern | Pittsburgh, PA | Internship | Nov 18 | [Apply ↗](https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us) |
-| Amer Sports | Golf Product Insights and Data Intern 🆕 | Chicago, IL | Internship | Nov 18 | [Apply ↗](https://careers-wilson.icims.com/jobs/5238/job?mobile=true&needsRedirect=false) |
+| Amer Sports | Golf Product Insights and Data Intern | Chicago, IL | Internship | Nov 18 | [Apply ↗](https://careers-wilson.icims.com/jobs/5238/job?mobile=true&needsRedirect=false) |
 | CMI Media Group | Business Insights Intern | Chicago, IL | Internship | Nov 17 | [Apply ↗](https://jobs.jobvite.com/cmimedia/job/oBH1sfwv?nl=1&nl=1&fr=false) |
 | BGE | Business Analyst Intern - GIS | Oakbrook Terrace, IL | Internship | Nov 17 | [Apply ↗](https://careers.bge.com/jobs/34737?icims=1&lang=en-us) |
 | 3M | Internship - 2027 Undergraduate Business Analytics Intern - Consumer Business Group (CBG) | US, MN | Internship | Nov 14 | [Apply ↗](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) |
