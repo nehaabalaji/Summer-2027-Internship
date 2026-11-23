@@ -5,11 +5,11 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **399** active jobs
-🏢 **224** companies
-🆕 **18** added in the last 24 hours
+📊 **402** active jobs
+🏢 **226** companies
+🆕 **6** added in the last 24 hours
 📁 **8** categories with listings
-🕒 Last updated: **November 22, 2026**
+🕒 Last updated: **November 23, 2026**
 
 ## Categories
 
@@ -85,7 +85,7 @@ _33 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_192 active listings_
+_193 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -95,8 +95,9 @@ _192 active listings_
 | Method | Product Management Intern 🆕 | Remote | Internship | Nov 20 | [Apply ↗](https://job-boards.greenhouse.io/method/jobs/8207585003) |
 | Jewelers Mutual Group | Product Intern 🆕 | Neenah, WI | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=73e636fd-4bf6-45be-9b83-3f5d3a9315ea) |
 | First Merchants Bank | Treasury Management Product Intern 🆕 | Columbus, OH | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/FIR1024FRME/JobBoard/d8ba2a8e-910f-42cf-9614-28c6f0ccdee4/OpportunityDetail?opportunityId=affbbaee-6ee2-45f7-a52b-7accf4458029) |
-| CAS | Product Management Intern 🆕 | Columbus, OH | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=446d0048-3a4f-48d6-afd7-7cc59e589336) |
+| CAS | Product Management Intern | Columbus, OH | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=446d0048-3a4f-48d6-afd7-7cc59e589336) |
 | AriensCo | Product Management Intern 🆕 | Brillion, WI | Internship | Nov 20 | [Apply ↗](https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305) |
+| Megger | Product Manager Intern 🆕 | Dallas, TX | Internship | Nov 19 | [Apply ↗](https://megger.wd3.myworkdayjobs.com/MeggerCareers/job/Dallas-United-States/Product-Manager-Intern_JR100870) |
 | Fiskars Group | Product Management Intern 🆕 | Middleton, WI | Internship | Nov 19 | [Apply ↗](https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Product-Management-Intern--Summer-2027-_JR-009520) |
 | Lucid | Product Management Intern | Raleigh, NC | Internship | Nov 18 | [Apply ↗](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) |
 | Lucid | Product Management Intern | Salt Lake City, UT | Internship | Nov 18 | [Apply ↗](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) |
@@ -306,20 +307,21 @@ _3 active listings_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_97 active listings_
+_98 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Vatic Outsourcing | Business Intelligence Analyst Intern 🆕 | Marietta, GA | Internship | Nov 21 | [Apply ↗](https://vaticoutsourcing.bamboohr.com/careers/152/) |
-| Southern Mississippi Trading | AI and Business Analytics Intern 🆕 | Waynesboro, MS | Internship | Nov 20 | [Apply ↗](https://southernmississippitradingllc.applytojob.com/apply/jIkpJ1ZhDo/AI-Business-Analytics-Intern) |
+| Southern Mississippi Trading | AI and Business Analytics Intern | Waynesboro, MS | Internship | Nov 20 | [Apply ↗](https://southernmississippitradingllc.applytojob.com/apply/jIkpJ1ZhDo/AI-Business-Analytics-Intern) |
 | Southern Farm Bureau Life Insurance | Business Intelligence - Data Insights Intern 🆕 | Jackson, MS | Internship | Nov 20 | [Apply ↗](https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=e98034f4-8629-4425-8007-7f5446ca3e39) |
-| Park National Bank | Business Intelligence Intern 🆕 | Newark, OH | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=c0ff78ff-35ff-41dc-ac4e-e5915f9735a4) |
+| Park National Bank | Business Intelligence Intern | Newark, OH | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=c0ff78ff-35ff-41dc-ac4e-e5915f9735a4) |
 | John Deere | Data Analytics Student Intern - Data and Analytics 🆕 | Des Moines, IA | Internship | Nov 20 | [Apply ↗](https://johndeere.eightfold.ai/careers/job/137484575742) |
 | Jewelers Mutual Group | Business Intelligence Intern 🆕 | Neenah, WI | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=58e2b100-19b0-4b86-9204-6e04fc06943f) |
 | Great Southern Wood Preserving | Engineering Intern - Data Analyst 🆕 | Abbeville, AL | Internship | Nov 20 | [Apply ↗](https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=63980dd2-ba31-4338-b0a6-2556736485a1) |
-| CAS | Business Data Analytics Intern - AI - ML Focus 🆕 | Columbus, OH | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f987f8e5-7208-44de-aeb9-9ae2474c177a) |
+| CAS | Business Data Analytics Intern - AI - ML Focus | Columbus, OH | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f987f8e5-7208-44de-aeb9-9ae2474c177a) |
 | AFL | Business Intelligence Co - op 🆕 | Duncan, SC | Co-op | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=33f4e729-d1f6-4137-a95a-4ac8b27a9453) |
-| Atlantic Health System | Pharmacy Intern - Data Analytics 🆕 | Morristown, NJ | Internship | Nov 19 | [Apply ↗](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551) |
+| Samsung | Business Operations & Data Analytics Intern 🆕 | Plano, TX | Internship | Nov 19 | [Apply ↗](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Business-Operations---Data-Analytics-Intern_R122135) |
+| Atlantic Health System | Pharmacy Intern - Data Analytics | Morristown, NJ | Internship | Nov 19 | [Apply ↗](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551) |
 | Sheetz | Business Intelligence Analytics Intern | Pittsburgh, PA | Internship | Nov 18 | [Apply ↗](https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us) |
 | Amer Sports | Golf Product Insights and Data Intern | Chicago, IL | Internship | Nov 18 | [Apply ↗](https://careers-wilson.icims.com/jobs/5238/job?mobile=true&needsRedirect=false) |
 | CMI Media Group | Business Insights Intern | Chicago, IL | Internship | Nov 17 | [Apply ↗](https://jobs.jobvite.com/cmimedia/job/oBH1sfwv?nl=1&nl=1&fr=false) |
@@ -440,12 +442,13 @@ _9 active listings_
 
 <h2 id="other">📁 Other</h2>
 
-_40 active listings_
+_41 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | Shield AI | Operational Analysis Intern - Operational Analysis 🆕 | Arlington County, VA | Internship | Nov 20 | [Apply ↗](https://jobs.ashbyhq.com/shield/683deced-ddc9-4857-8783-323994263f2a/application?embed=true) |
-| CAS | Chemist Intern - Content Operations 🆕 | Columbus, OH | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=edd053a0-276c-4c40-895a-a28c09759e93) |
+| Draper | Operational Analysis Intern - Summer 2027 🆕 | Cambridge, MA | Summer Internship | Nov 20 | [Apply ↗](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Operational-Analysis-Intern--Summer-2027-_JR003182) |
+| CAS | Chemist Intern - Content Operations | Columbus, OH | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=edd053a0-276c-4c40-895a-a28c09759e93) |
 | Avista | Fleet Operations Data Intern - Multiple Teams 🆕 | Spokane, WA | Internship | Nov 20 | [Apply ↗](https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=99b68bca-853c-4512-a758-80fa46bf30b5) |
 | Research Innovations | Department of War SkillBridge Operations SME Intern | Remote | Internship | Nov 17 | [Apply ↗](https://jobs.lever.co/researchinnovations.com/eeada042-c446-4723-81f4-b1607443fb4e/apply) |
 | Blount Fine Foods | Manufacturing Operations Analytics Intern | Fall River, MA | Internship | Nov 17 | [Apply ↗](https://jobs.jobvite.com/blountfinefoods/job/oBf3Afwd?nl=1&nl=1&fr=false) |
