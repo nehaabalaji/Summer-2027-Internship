@@ -5,9 +5,9 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **402** active jobs
-🏢 **226** companies
-🆕 **6** added in the last 24 hours
+📊 **404** active jobs
+🏢 **228** companies
+🆕 **8** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **November 23, 2026**
 
@@ -85,11 +85,12 @@ _33 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_193 active listings_
+_194 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
 | General Motors | 2027 Intern - Product Management, Vehicle Autonomy (MS or MBA) | Sunnyvale, CA | Internship | Nov 30 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) |
+| First Resonance | Product Management Intern 🆕 | El Segundo, CA | Internship | Nov 23 | [Apply ↗](https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741/application?embed=true) |
 | Walmart | MBA Product Manager Intern - MBA 🆕 | Bentonville, AR | Internship | Nov 20 | [Apply ↗](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166) |
 | TransCore | Associate Product Manager 🆕 | Atlanta, GA | Unknown | Nov 20 | [Apply ↗](https://recruiting2.ultipro.com/TRA1034TNSC/JobBoard/0885e26f-46c3-45cc-8f3a-b849c09d3bdd/OpportunityDetail?opportunityId=55e32159-4c95-48ea-bb03-01dbca8391c3) |
 | Method | Product Management Intern 🆕 | Remote | Internship | Nov 20 | [Apply ↗](https://job-boards.greenhouse.io/method/jobs/8207585003) |
@@ -442,10 +443,11 @@ _9 active listings_
 
 <h2 id="other">📁 Other</h2>
 
-_41 active listings_
+_42 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Vanasse Hangen Brustlin | Entry Level Transportation Safety Analyst 🆕 | Washington, DC | Entry Level | Nov 23 | [Apply ↗](https://careers2-vhb.icims.com/jobs/6362/job?mobile=true&needsRedirect=false) |
 | Shield AI | Operational Analysis Intern - Operational Analysis 🆕 | Arlington County, VA | Internship | Nov 20 | [Apply ↗](https://jobs.ashbyhq.com/shield/683deced-ddc9-4857-8783-323994263f2a/application?embed=true) |
 | Draper | Operational Analysis Intern - Summer 2027 🆕 | Cambridge, MA | Summer Internship | Nov 20 | [Apply ↗](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Operational-Analysis-Intern--Summer-2027-_JR003182) |
 | CAS | Chemist Intern - Content Operations | Columbus, OH | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=edd053a0-276c-4c40-895a-a28c09759e93) |
