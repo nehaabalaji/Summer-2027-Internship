@@ -7,7 +7,7 @@ Find a role, click **Apply ↗**, and land on the employer's original applicatio
 <!-- JOBS:START -->
 📊 **409** active jobs
 🏢 **230** companies
-🆕 **16** added in the last 24 hours
+🆕 **17** added in the last 24 hours
 📁 **8** categories with listings
 🕒 Last updated: **November 25, 2026**
 
@@ -45,10 +45,11 @@ _13 active listings_
 
 <h2 id="operations">⚙️ Operations</h2>
 
-_33 active listings_
+_34 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
+| Amazon | Area Manager Intern - Summer 2027 (Colorado), University Recruiting 🆕 | Loveland, CO | Summer Internship | Nov 25 | [Apply ↗](https://www.amazon.jobs/en/jobs/10614085/area-manager-intern-summer-2027-colorado-university-recruiting) |
 | Plains All American Pipeline | Operations Management System Intern - Digital & AI Innovation 🆕 | Houston, TX | Internship | Nov 20 | [Apply ↗](https://plains.wd1.myworkdayjobs.com/plains/job/Houston-TX/Intern--Operations-Management-System--Digital---AI-Innovation_R0015266-1) |
 | Fidelity Bank | Digital Operations Analyst Intern | Wichita, KS | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/fid1002/JobBoard/f4c0b704-935f-13c8-e696-6c4aa3318a47/OpportunityDetail?opportunityId=43cf33e0-3efc-43f2-9ddd-4cf8052217b0) |
 | The Toro Company | CX and Customer Lifetime Value Intern - Operations Analyst | Bloomington, MN | Internship | Nov 13 | [Apply ↗](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/CX-and-Customer-Lifetime-Value---Operations-Analyst---The-Toro-Company_JR17819) |
@@ -85,7 +86,7 @@ _33 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_197 active listings_
+_198 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -153,6 +154,7 @@ _197 active listings_
 | TikTok | Product Manager Project Intern - Global Monetization Product and Technology | San Jose, CA | Internship | Oct 30 | [Apply ↗](https://lifeattiktok.com/search/7701486873210390837) |
 | TikTok | Product Manager Intern - Global Monetization Product and Technology | Seattle, WA | Internship | Oct 30 | [Apply ↗](https://lifeattiktok.com/search/7701480558070597893) |
 | Teamworks | Product Management MBA Intern | Remote | Internship | Oct 30 | [Apply ↗](https://jobs.ashbyhq.com/teamworks/13cc2066-5dfe-45ec-8064-3d7a20d9fc06/application?embed=true) |
+| Snowflake | Product Management Intern | Menlo Park, CA | Internship | Oct 30 | [Apply ↗](https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf/application?embed=true) |
 | Signify | Product Manager Intern | Aurora, CO | Internship | Oct 30 | [Apply ↗](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Aurora/Product-Management-Intern--Cooper-Lighting-Solutions---Spring-2027_366897) |
 | MANN+HUMMEL | Product Management & Market Intelligence Intern | Gastonia, NC | Internship | Oct 30 | [Apply ↗](https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors) |
 | HP Inc. | Product Management Intern | Spring, TX | Internship | Oct 30 | [Apply ↗](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358) |
@@ -311,7 +313,7 @@ _3 active listings_
 
 <h2 id="business-analytics">📊 Business Analytics</h2>
 
-_101 active listings_
+_99 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -330,7 +332,6 @@ _101 active listings_
 | Atlantic Health System | Pharmacy Intern - Data Analytics | Morristown, NJ | Internship | Nov 19 | [Apply ↗](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551) |
 | Sheetz | Business Intelligence Analytics Intern | Pittsburgh, PA | Internship | Nov 18 | [Apply ↗](https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us) |
 | Amer Sports | Golf Product Insights and Data Intern | Chicago, IL | Internship | Nov 18 | [Apply ↗](https://careers-wilson.icims.com/jobs/5238/job?mobile=true&needsRedirect=false) |
-| CMI Media Group | Business Insights Intern | Chicago, IL | Internship | Nov 17 | [Apply ↗](https://jobs.jobvite.com/cmimedia/job/oBH1sfwv?nl=1&nl=1&fr=false) |
 | BGE | Business Analyst Intern - GIS | Oakbrook Terrace, IL | Internship | Nov 17 | [Apply ↗](https://careers.bge.com/jobs/34737?icims=1&lang=en-us) |
 | 3M | Internship - 2027 Undergraduate Business Analytics Intern - Consumer Business Group (CBG) | US, MN | Internship | Nov 14 | [Apply ↗](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) |
 | Stratolaunch | Business Intelligence & Systems Analyst Intern | Mojave, CA | Internship | Nov 12 | [Apply ↗](https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008) |
@@ -412,7 +413,6 @@ _101 active listings_
 | Vertiv | Business Analytics Intern - Summer 2027 | Westerville, OH | Summer Internship | Aug 27 | [Apply ↗](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278794) |
 | Procter & Gamble | Analytics & Insights Intern - Advanced Analytics | Cincinnati, OH | Internship | Aug 24 | [Apply ↗](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Analytics---Insights-Internship--Advanced-Analytics-_R000157697) |
 | Pennsylvania State University | Operations Research Engineer Intern - Undersea Systems | State College, PA | Internship | Aug 24 | [Apply ↗](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Operations-Research-Undersea-Systems-Analyst_REQ_0000081646-1) |
-| Springs Window Fashions | Data Analyst Intern - Consumer Business Unit | Middleton, WI | Internship | Aug 22 | [Apply ↗](https://careers-springswindowfashions.icims.com/jobs/12874/job?mobile=true&needsRedirect=false) |
 | Vertiv | Planning Analytics Intern - Summer 2027 | Westerville, OH | Summer Internship | Aug 14 | [Apply ↗](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279236) |
 | Heidelberg Materials | Master Data Intern - Service & Support | Irving, TX | Internship | Aug 12 | [Apply ↗](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Master-Data-Intern_JR10017954-1) |
 | SPHERIX GLOBAL INSIGHTS US INC | Market Research Insights Intern | Exton, PA | Internship | Jul 23 | [Apply ↗](https://spherixglobalinsights.applytojob.com/apply/tXLqnpK9I3/Market-Research-Insights-Internship) |
@@ -428,7 +428,7 @@ _7 active listings_
 | Hive Financial Systems | Product & Program Management Intern | Atlanta, GA | Internship | Oct 26 | [Apply ↗](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274970007) |
 | Amazon | Program Manager Intern - Summer 2027 | Seattle, WA | Summer Internship | Oct 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10575248/program-manager-intern-summer-2027) |
 | Amazon | Startup Project Manager (Support) Intern Spring and Summer 2027 (Bellevue, WA), | Bellevue, WA | Summer Internship | Sep 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10534582/startup-project-manager-support-intern-spring-and-summer-2027-bellevue-wa) |
-| Amazon | Startup Project Manager (Execution) Intern Spring and Summer 2027 (CA, CT, TX) | Cleburne, TX | Summer Internship | Sep 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10534584/startup-project-manager-execution-intern-spring-and-summer-2027-ca-ct-tx) |
+| Amazon | Startup Project Manager (Execution) Intern Spring and Summer 2027 (CA, CT, FL,TX) | Cleburne, TX | Summer Internship | Sep 9 | [Apply ↗](https://www.amazon.jobs/en/jobs/10534584/startup-project-manager-execution-intern-spring-and-summer-2027-ca-ct-fl-tx) |
 | Zoox | MBA Program Manager Intern [Summer 2027] | Foster City, CA | Summer Internship | — | [Apply ↗](https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8) |
 
 <h2 id="manufacturing">🏭 Manufacturing</h2>
