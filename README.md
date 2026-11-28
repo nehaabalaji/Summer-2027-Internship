@@ -5,11 +5,11 @@
 Find a role, click **Apply ↗**, and land on the employer's original application page. No account required.
 
 <!-- JOBS:START -->
-📊 **415** active jobs
+📊 **416** active jobs
 🏢 **235** companies
-🆕 **8** added in the last 24 hours
+🆕 **0** added in the last 24 hours
 📁 **8** categories with listings
-🕒 Last updated: **November 27, 2026**
+🕒 Last updated: **November 28, 2026**
 
 ## Categories
 
@@ -50,7 +50,7 @@ _34 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Amazon | Area Manager Intern - Summer 2027 (Colorado), University Recruiting 🆕 | Loveland, CO | Summer Internship | Nov 25 | [Apply ↗](https://www.amazon.jobs/en/jobs/10614085/area-manager-intern-summer-2027-colorado-university-recruiting) |
+| Amazon | Area Manager Intern - Summer 2027 (Colorado), University Recruiting | Loveland, CO | Summer Internship | Nov 25 | [Apply ↗](https://www.amazon.jobs/en/jobs/10614085/area-manager-intern-summer-2027-colorado-university-recruiting) |
 | Plains All American Pipeline | Operations Management System Intern - Digital & AI Innovation | Houston, TX | Internship | Nov 20 | [Apply ↗](https://plains.wd1.myworkdayjobs.com/plains/job/Houston-TX/Intern--Operations-Management-System--Digital---AI-Innovation_R0015266-1) |
 | Fidelity Bank | Digital Operations Analyst Intern | Wichita, KS | Internship | Nov 20 | [Apply ↗](https://recruiting.ultipro.com/fid1002/JobBoard/f4c0b704-935f-13c8-e696-6c4aa3318a47/OpportunityDetail?opportunityId=43cf33e0-3efc-43f2-9ddd-4cf8052217b0) |
 | The Toro Company | CX and Customer Lifetime Value Intern - Operations Analyst | Bloomington, MN | Internship | Nov 13 | [Apply ↗](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/CX-and-Customer-Lifetime-Value---Operations-Analyst---The-Toro-Company_JR17819) |
@@ -87,7 +87,7 @@ _34 active listings_
 
 <h2 id="product-management">💻 Product Management</h2>
 
-_204 active listings_
+_205 active listings_
 
 | Company | Position | Location | Type | Posted | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -96,12 +96,12 @@ _204 active listings_
 | Total Quality Logistics | AI Product Intern 🆕 | Cincinnati, OH | Internship | Nov 25 | [Apply ↗](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19757) |
 | QuEra Computing | Technical Product Management Intern 🆕 | Boston, MA | Internship | Nov 25 | [Apply ↗](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008) |
 | OpenSesame | Product Intern 🆕 | Remote | Internship | Nov 25 | [Apply ↗](https://boards.greenhouse.io/opensesame/jobs/8418204) |
-| Nikkiso | Product Management Intern 🆕 | Huntington Beach, CA | Internship | Nov 25 | [Apply ↗](https://careers-nikkiso.icims.com/jobs/4528/job?mobile=true&needsRedirect=false) |
+| Nikkiso | Product Management Intern | Huntington Beach, CA | Internship | Nov 25 | [Apply ↗](https://careers-nikkiso.icims.com/jobs/4528/job?mobile=true&needsRedirect=false) |
 | Docusign | Product Manager Intern - Abuse Protection 🆕 | Seattle, WA | Internship | Nov 25 | [Apply ↗](https://careers.docusign.com/jobs/32212?icims=1&lang=en-us) |
 | Docusign | Product Manager Intern 🆕 | Seattle, WA | Internship | Nov 25 | [Apply ↗](https://careers.docusign.com/jobs/32541?icims=1&lang=en-us) |
 | Ancestry | Product Manager Co - op - DNA to Family History - Bridges 🆕 | Remote | Co-op | Nov 25 | [Apply ↗](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Product-Manager-Co-op---DNA-to-Family-History--Bridges-_R003505) |
-| Rubrik | Product Management Intern - Managed Service Provider 🆕 | Palo Alto, CA | Internship | Nov 24 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766) |
-| Intuitive Surgical | Product Management MBA Intern 🆕 | Sunnyvale, CA | Internship | Nov 24 | [Apply ↗](https://jobs.smartrecruiters.com/Intuitive/744000163546809) |
+| Rubrik | Product Management Intern - Managed Service Provider | Palo Alto, CA | Internship | Nov 24 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766) |
+| Intuitive Surgical | Product Management MBA Intern | Sunnyvale, CA | Internship | Nov 24 | [Apply ↗](https://jobs.smartrecruiters.com/Intuitive/744000163546809) |
 | Illumio | Technical Product Management Intern | Sunnyvale, CA | Internship | Nov 23 | [Apply ↗](https://jobs.ashbyhq.com/illumio/37c87203-d74b-40f9-8ce6-30559f1594af/application?embed=true) |
 | Illumio | Product Manager Intern | Sunnyvale, CA | Internship | Nov 23 | [Apply ↗](https://jobs.ashbyhq.com/illumio/1dbbc51c-ede6-4067-98df-9e4d9d06f6d3/application?embed=true) |
 | Illumio | Product Management Intern - Solution Economics | Sunnyvale, CA | Internship | Nov 23 | [Apply ↗](https://jobs.ashbyhq.com/illumio/96759634-4161-4931-9cf3-5933035be101/application?embed=true) |
@@ -191,6 +191,7 @@ _204 active listings_
 | Applied Materials | Product Management 2 New Grad | Santa Clara, CA | New Graduate | Oct 15 | [Apply ↗](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Management-II-New-College-Grad--Master-s--Santa-Clara--CA-_R2629882) |
 | General Motors | Product Management Intern - Vehicle Autonomy | Sunnyvale, CA | Internship | Oct 14 | [Apply ↗](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) |
 | Prologis | AI Product Management Intern | Denver, CO | Internship | Oct 13 | [Apply ↗](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/AI-Product-Management-Intern_R6840) |
+| CoStar Group | Product Intern | Richmond, VA | Internship | Oct 13 | [Apply ↗](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Product-Intern---Richmond--VA--Summer-2027-_R39900) |
 | Valmont | Product Analyst Intern | Valley, NE | Internship | Oct 12 | [Apply ↗](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Product-Analyst-Intern--Part-Time-_R29081) |
 | Life Fitness | Product Management Intern | Rosemont, IL | Internship | Oct 12 | [Apply ↗](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Product-Management-Intern_JR-025280) |
 | Carlisle Companies | Product Management Intern | Carlisle, PA | Internship | Oct 12 | [Apply ↗](https://jobs.smartrecruiters.com/Carlisle/3743990016055226) |
@@ -290,9 +291,8 @@ _204 active listings_
 | Databricks | Product Management Intern | Bellevue, WA | Internship | Jul 16 | [Apply ↗](https://boards.greenhouse.io/embed/job_app?token=6883068002) |
 | TikTok | Product Manager Vertical Search Ads Mandarin Speaking Project intern - Content and Service Ads - 2026 Start - BS - MS | San Jose, CA | Internship | Jul 2 | [Apply ↗](https://lifeattiktok.com/search/7655410730217048373) |
 | TikTok | Product Manager Shop Ads Creative Project Intern - Ads Interface and Platform - 2026 Start - BS - MS | San Jose, CA | Internship | Jun 15 | [Apply ↗](https://lifeattiktok.com/search/7644986569989032197) |
-| TikTok | Product Management Project Intern | Seattle, WA | Internship | Jun 15 | [Apply ↗](https://lifeattiktok.com/search/7583141608302987525) |
 
-_Showing the 200 newest listings. 4 more are stored in `data/jobs.json`._
+_Showing the 200 newest listings. 5 more are stored in `data/jobs.json`._
 
 <h2 id="procurement--sourcing">🛒 Procurement & Sourcing</h2>
 
@@ -497,7 +497,7 @@ _41 active listings_
 | TikTok | Product Solutions and Operations Project Intern - Ads Interface and Platform Product | San Jose, CA | Internship | Jul 24 | [Apply ↗](https://lifeattiktok.com/search/7665080709191108917) |
 | TikTok | Product Solutions and Operations Project Intern - Commerce Ads | San Jose, CA | Internship | Jul 2 | [Apply ↗](https://lifeattiktok.com/search/7657640284071954741) |
 | TikTok | Platform Campaign Project Intern - TikTok Shop - Operations | Seattle, WA | Internship | Jun 15 | [Apply ↗](https://lifeattiktok.com/search/7592014594232142085) |
-| Zoox | AI Engineering Intern, Operational Safety [Summer 2027] 🆕 | Foster City, CA | Summer Internship | — | [Apply ↗](https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1) |
+| Zoox | AI Engineering Intern, Operational Safety [Summer 2027] | Foster City, CA | Summer Internship | — | [Apply ↗](https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1) |
 <!-- JOBS:END -->
 
 ## How this board works
